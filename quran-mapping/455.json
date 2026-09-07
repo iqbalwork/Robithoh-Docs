@@ -1,0 +1,240 @@
+{
+  "viewportWidth": 2600,
+  "viewportHeight": 4206,
+  "data": [
+    {
+      "surah": 38,
+      "ayah": 27,
+      "blok": 1,
+      "top": 67,
+      "left": 124,
+      "width": 2418,
+      "height": 199
+    },
+    {
+      "surah": 38,
+      "ayah": 27,
+      "blok": 2,
+      "top": 327,
+      "left": 1510,
+      "width": 1025,
+      "height": 222
+    },
+    {
+      "surah": 38,
+      "ayah": 28,
+      "blok": 1,
+      "top": 327,
+      "left": 115,
+      "width": 1190,
+      "height": 222
+    },
+    {
+      "surah": 38,
+      "ayah": 28,
+      "blok": 2,
+      "top": 594,
+      "left": 124,
+      "width": 2418,
+      "height": 225
+    },
+    {
+      "surah": 38,
+      "ayah": 29,
+      "blok": 1,
+      "top": 863,
+      "left": 115,
+      "width": 2247,
+      "height": 228
+    },
+    {
+      "surah": 38,
+      "ayah": 29,
+      "blok": 2,
+      "top": 1153,
+      "left": 2172,
+      "width": 369,
+      "height": 210
+    },
+    {
+      "surah": 38,
+      "ayah": 30,
+      "blok": 1,
+      "top": 1153,
+      "left": 115,
+      "width": 1857,
+      "height": 210
+    },
+    {
+      "surah": 38,
+      "ayah": 31,
+      "blok": 1,
+      "top": 1407,
+      "left": 736,
+      "width": 1597,
+      "height": 234
+    },
+    {
+      "surah": 38,
+      "ayah": 32,
+      "blok": 1,
+      "top": 1407,
+      "left": 115,
+      "width": 355,
+      "height": 234
+    },
+    {
+      "surah": 38,
+      "ayah": 32,
+      "blok": 2,
+      "top": 1697,
+      "left": 288,
+      "width": 2253,
+      "height": 222
+    },
+    {
+      "surah": 38,
+      "ayah": 33,
+      "blok": 1,
+      "top": 1972,
+      "left": 748,
+      "width": 1794,
+      "height": 231
+    },
+    {
+      "surah": 38,
+      "ayah": 34,
+      "blok": 1,
+      "top": 1972,
+      "left": 115,
+      "width": 421,
+      "height": 231
+    },
+    {
+      "surah": 38,
+      "ayah": 34,
+      "blok": 2,
+      "top": 2244,
+      "left": 797,
+      "width": 1744,
+      "height": 231
+    },
+    {
+      "surah": 38,
+      "ayah": 35,
+      "blok": 1,
+      "top": 2244,
+      "left": 115,
+      "width": 482,
+      "height": 231
+    },
+    {
+      "surah": 38,
+      "ayah": 35,
+      "blok": 2,
+      "top": 2528,
+      "left": 248,
+      "width": 2293,
+      "height": 219
+    },
+    {
+      "surah": 38,
+      "ayah": 36,
+      "blok": 1,
+      "top": 2798,
+      "left": 696,
+      "width": 1846,
+      "height": 222
+    },
+    {
+      "surah": 38,
+      "ayah": 37,
+      "blok": 1,
+      "top": 2798,
+      "left": 115,
+      "width": 369,
+      "height": 222
+    },
+    {
+      "surah": 38,
+      "ayah": 37,
+      "blok": 2,
+      "top": 3073,
+      "left": 1889,
+      "width": 652,
+      "height": 228
+    },
+    {
+      "surah": 38,
+      "ayah": 38,
+      "blok": 1,
+      "top": 3073,
+      "left": 476,
+      "width": 1216,
+      "height": 228
+    },
+    {
+      "surah": 38,
+      "ayah": 39,
+      "blok": 1,
+      "top": 3073,
+      "left": 115,
+      "width": 150,
+      "height": 228
+    },
+    {
+      "surah": 38,
+      "ayah": 39,
+      "blok": 2,
+      "top": 3363,
+      "left": 1198,
+      "width": 1343,
+      "height": 216
+    },
+    {
+      "surah": 38,
+      "ayah": 40,
+      "blok": 1,
+      "top": 3363,
+      "left": 115,
+      "width": 817,
+      "height": 216
+    },
+    {
+      "surah": 38,
+      "ayah": 40,
+      "blok": 2,
+      "top": 3635,
+      "left": 2325,
+      "width": 216,
+      "height": 216
+    },
+    {
+      "surah": 38,
+      "ayah": 41,
+      "blok": 1,
+      "top": 3635,
+      "left": 115,
+      "width": 2019,
+      "height": 216
+    },
+    {
+      "surah": 38,
+      "ayah": 41,
+      "blok": 2,
+      "top": 3898,
+      "left": 1947,
+      "width": 595,
+      "height": 231
+    },
+    {
+      "surah": 38,
+      "ayah": 42,
+      "blok": 1,
+      "top": 3898,
+      "left": 251,
+      "width": 1502,
+      "height": 231
+    }
+  ]
+}

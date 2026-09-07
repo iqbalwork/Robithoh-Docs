@@ -1,0 +1,240 @@
+{
+  "viewportWidth": 2600,
+  "viewportHeight": 4206,
+  "data": [
+    {
+      "surah": 18,
+      "ayah": 62,
+      "blok": 1,
+      "top": 67,
+      "left": 115,
+      "width": 2426,
+      "height": 199
+    },
+    {
+      "surah": 18,
+      "ayah": 62,
+      "blok": 2,
+      "top": 327,
+      "left": 2103,
+      "width": 433,
+      "height": 222
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "blok": 1,
+      "top": 327,
+      "left": 115,
+      "width": 1791,
+      "height": 222
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "blok": 2,
+      "top": 594,
+      "left": 115,
+      "width": 2423,
+      "height": 225
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "blok": 3,
+      "top": 863,
+      "left": 1973,
+      "width": 569,
+      "height": 228
+    },
+    {
+      "surah": 18,
+      "ayah": 64,
+      "blok": 1,
+      "top": 863,
+      "left": 115,
+      "width": 1658,
+      "height": 228
+    },
+    {
+      "surah": 18,
+      "ayah": 64,
+      "blok": 2,
+      "top": 1153,
+      "left": 2210,
+      "width": 332,
+      "height": 210
+    },
+    {
+      "surah": 18,
+      "ayah": 65,
+      "blok": 1,
+      "top": 1153,
+      "left": 115,
+      "width": 1880,
+      "height": 210
+    },
+    {
+      "surah": 18,
+      "ayah": 65,
+      "blok": 2,
+      "top": 1407,
+      "left": 1302,
+      "width": 1236,
+      "height": 234
+    },
+    {
+      "surah": 18,
+      "ayah": 66,
+      "blok": 1,
+      "top": 1407,
+      "left": 115,
+      "width": 993,
+      "height": 234
+    },
+    {
+      "surah": 18,
+      "ayah": 66,
+      "blok": 2,
+      "top": 1697,
+      "left": 1118,
+      "width": 1421,
+      "height": 222
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "blok": 1,
+      "top": 1697,
+      "left": 115,
+      "width": 794,
+      "height": 222
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "blok": 2,
+      "top": 1972,
+      "left": 2088,
+      "width": 453,
+      "height": 231
+    },
+    {
+      "surah": 18,
+      "ayah": 68,
+      "blok": 1,
+      "top": 1972,
+      "left": 421,
+      "width": 1453,
+      "height": 231
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "blok": 1,
+      "top": 1972,
+      "left": 115,
+      "width": 109,
+      "height": 231
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "blok": 2,
+      "top": 2244,
+      "left": 508,
+      "width": 2033,
+      "height": 231
+    },
+    {
+      "surah": 18,
+      "ayah": 70,
+      "blok": 1,
+      "top": 2244,
+      "left": 115,
+      "width": 124,
+      "height": 231
+    },
+    {
+      "surah": 18,
+      "ayah": 70,
+      "blok": 2,
+      "top": 2528,
+      "left": 115,
+      "width": 2426,
+      "height": 219
+    },
+    {
+      "surah": 18,
+      "ayah": 71,
+      "blok": 1,
+      "top": 2798,
+      "left": 115,
+      "width": 2253,
+      "height": 222
+    },
+    {
+      "surah": 18,
+      "ayah": 71,
+      "blok": 2,
+      "top": 3073,
+      "left": 1031,
+      "width": 1510,
+      "height": 228
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "blok": 1,
+      "top": 3073,
+      "left": 115,
+      "width": 716,
+      "height": 228
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "blok": 2,
+      "top": 3363,
+      "left": 1684,
+      "width": 858,
+      "height": 216
+    },
+    {
+      "surah": 18,
+      "ayah": 73,
+      "blok": 1,
+      "top": 3363,
+      "left": 115,
+      "width": 1366,
+      "height": 216
+    },
+    {
+      "surah": 18,
+      "ayah": 73,
+      "blok": 2,
+      "top": 3635,
+      "left": 1658,
+      "width": 884,
+      "height": 216
+    },
+    {
+      "surah": 18,
+      "ayah": 74,
+      "blok": 1,
+      "top": 3635,
+      "left": 115,
+      "width": 1346,
+      "height": 216
+    },
+    {
+      "surah": 18,
+      "ayah": 74,
+      "blok": 2,
+      "top": 3898,
+      "left": 288,
+      "width": 2253,
+      "height": 231
+    }
+  ]
+}

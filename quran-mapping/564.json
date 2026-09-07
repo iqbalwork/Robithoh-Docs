@@ -1,0 +1,240 @@
+{
+  "viewportWidth": 2600,
+  "viewportHeight": 4206,
+  "data": [
+    {
+      "surah": 67,
+      "ayah": 27,
+      "blok": 1,
+      "top": 67,
+      "left": 115,
+      "width": 2423,
+      "height": 199
+    },
+    {
+      "surah": 67,
+      "ayah": 27,
+      "blok": 2,
+      "top": 327,
+      "left": 1756,
+      "width": 785,
+      "height": 222
+    },
+    {
+      "surah": 67,
+      "ayah": 28,
+      "blok": 1,
+      "top": 327,
+      "left": 115,
+      "width": 1430,
+      "height": 222
+    },
+    {
+      "surah": 67,
+      "ayah": 28,
+      "blok": 2,
+      "top": 594,
+      "left": 598,
+      "width": 1929,
+      "height": 225
+    },
+    {
+      "surah": 67,
+      "ayah": 29,
+      "blok": 1,
+      "top": 594,
+      "left": 115,
+      "width": 254,
+      "height": 225
+    },
+    {
+      "surah": 67,
+      "ayah": 29,
+      "blok": 2,
+      "top": 863,
+      "left": 115,
+      "width": 2426,
+      "height": 228
+    },
+    {
+      "surah": 67,
+      "ayah": 30,
+      "blok": 1,
+      "top": 1153,
+      "left": 225,
+      "width": 2129,
+      "height": 210
+    },
+    {
+      "surah": 68,
+      "ayah": 1,
+      "blok": 1,
+      "top": 1972,
+      "left": 1577,
+      "width": 964,
+      "height": 231
+    },
+    {
+      "surah": 68,
+      "ayah": 2,
+      "blok": 1,
+      "top": 1972,
+      "left": 332,
+      "width": 1028,
+      "height": 231
+    },
+    {
+      "surah": 68,
+      "ayah": 3,
+      "blok": 1,
+      "top": 2244,
+      "left": 1499,
+      "width": 1042,
+      "height": 231
+    },
+    {
+      "surah": 68,
+      "ayah": 4,
+      "blok": 1,
+      "top": 2244,
+      "left": 332,
+      "width": 950,
+      "height": 231
+    },
+    {
+      "surah": 68,
+      "ayah": 5,
+      "blok": 1,
+      "top": 2528,
+      "left": 1883,
+      "width": 647,
+      "height": 219
+    },
+    {
+      "surah": 68,
+      "ayah": 6,
+      "blok": 1,
+      "top": 2528,
+      "left": 803,
+      "width": 707,
+      "height": 219
+    },
+    {
+      "surah": 68,
+      "ayah": 7,
+      "blok": 1,
+      "top": 2528,
+      "left": 115,
+      "width": 537,
+      "height": 219
+    },
+    {
+      "surah": 68,
+      "ayah": 7,
+      "blok": 2,
+      "top": 2798,
+      "left": 560,
+      "width": 1978,
+      "height": 222
+    },
+    {
+      "surah": 68,
+      "ayah": 8,
+      "blok": 1,
+      "top": 2798,
+      "left": 115,
+      "width": 320,
+      "height": 222
+    },
+    {
+      "surah": 68,
+      "ayah": 8,
+      "blok": 2,
+      "top": 3073,
+      "left": 2094,
+      "width": 439,
+      "height": 228
+    },
+    {
+      "surah": 68,
+      "ayah": 9,
+      "blok": 1,
+      "top": 3073,
+      "left": 808,
+      "width": 1071,
+      "height": 228
+    },
+    {
+      "surah": 68,
+      "ayah": 10,
+      "blok": 1,
+      "top": 3073,
+      "left": 115,
+      "width": 442,
+      "height": 228
+    },
+    {
+      "surah": 68,
+      "ayah": 10,
+      "blok": 2,
+      "top": 3363,
+      "left": 1993,
+      "width": 546,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 11,
+      "blok": 1,
+      "top": 3363,
+      "left": 1034,
+      "width": 742,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 12,
+      "blok": 1,
+      "top": 3363,
+      "left": 115,
+      "width": 699,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 12,
+      "blok": 2,
+      "top": 3635,
+      "left": 2342,
+      "width": 199,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 13,
+      "blok": 1,
+      "top": 3635,
+      "left": 1323,
+      "width": 759,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 14,
+      "blok": 1,
+      "top": 3635,
+      "left": 115,
+      "width": 912,
+      "height": 216
+    },
+    {
+      "surah": 68,
+      "ayah": 15,
+      "blok": 1,
+      "top": 3898,
+      "left": 332,
+      "width": 1909,
+      "height": 231
+    }
+  ]
+}
