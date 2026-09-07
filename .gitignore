@@ -1,3 +1,5 @@
 # Local audio downloads for release upload
 audio/
 .DS_Store
+*-madinah/
+*.zip
