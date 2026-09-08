@@ -54,7 +54,7 @@ def generate_manifest():
             "fileName": filename,
             "sha256": file_hash,
             "size": file_size,
-            "url": f"{BASE_JSDELIVR_URL}{filename}",
+            "url": f"{BASE_RAW_URL}{filename}",
             "rawUrl": f"{BASE_RAW_URL}{filename}",
             "pagesUrl": f"{BASE_PAGES_URL}{filename}"
         })
