@@ -58,19 +58,53 @@ KHOTAMAN
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ وَرَفَعۡنَا لَكَ ذِكۡرَكَ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا فَإِذَا فَرَغۡتَ فَٱنصَبۡ وَإِلَىٰ رَبِّكَ فَٱرۡغَب
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ
+وَوَضَعۡنَا عَنكَ وِزۡرَكَ
+ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ
+وَرَفَعۡنَا لَكَ ذِكۡرَكَ
+فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا
+إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا
+فَإِذَا فَرَغۡتَ فَٱنصَبۡ
+وَإِلَىٰ رَبِّكَ فَٱرۡغَب
 
-*Bismillaahirrohmaanirrohiim. Alam nasyroh laka shodrok wa wadho’naa ‘anka wizrok Alladzii ‘anqodho zhohrok Wa rofa’naa laka dzikrok Fa innama’al ‘usri yusro Inna ma’al ‘usri yusro Fa idzaa faroghta fanshob wa ilaa robbika farghob.(80x)*
+*Bismillaahirrohmaanirrohiim.*
+*Alam nasyroh laka shodrok*
+*wa wadho’naa ‘anka wizrok*
+*Alladzii ‘anqodho zhohrok*
+*Wa rofa’naa laka dzikrok*
+*Fa innama’al ‘usri yusro*
+*Inna ma’al ‘usri yusro*
+*Fa idzaa faroghta fanshob*
+*wa ilaa robbika farghob. (80x)*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Bukankah Kami telah melapangkan untukmu dadamu? Dan Kami telah menghilangkan daripadamu bebanmu. Yang memberatkan punggungmu. Dan Kami tinggikan bagimu sebutan (nama)mu. Karena sesungguhnya sesudah kesulitan itu ada kemudahan. Sesungguhnya sesudah kesulitan itu ada kemudahan. Maka apabila kamu telah selesai (dari suatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain. Dan hanya kepada Tuhanmulah hendaknya kamu berharap.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
+*Bukankah Kami telah melapangkan untukmu dadamu?*
+*Dan Kami telah menghilangkan daripadamu bebanmu.*
+*Yang memberatkan punggungmu.*
+*Dan Kami tinggikan bagimu sebutan (nama)mu.*
+*Karena sesungguhnya sesudah kesulitan itu ada kemudahan.*
+*Sesungguhnya sesudah kesulitan itu ada kemudahan.*
+*Maka apabila kamu telah selesai (dari suatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain.*
+*Dan hanya kepada Tuhanmulah hendaknya kamu berharap.*
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُ
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ
+ٱللَّهُ ٱلصَّمَدُ
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُ
 
-*Bismillaahirrohmaanirrohiim. Qul huwalloohu ahad  Alloohush Shomad   Lam yalid wa lam yuulad Wa lam yakul lahuu kufuwan Ahad*(500x)
+*Bismillaahirrohmaanirrohiim.*
+*Qul huwalloohu ahad*
+*Alloohush Shomad*
+*Lam yalid wa lam yuulad*
+*Wa lam yakul lahuu kufuwan Ahad (500x)*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakanlah (Ya Muhammad) اَللّهُ itu Esa. اَللّهُ adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tiada pula diperanakan. Dan tidak ada seorangpun yang setara dengan Dia.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
+*Katakanlah (Ya Muhammad) اَللّهُ itu Esa.*
+*اَللّهُ adalah Tuhan yang bergantung kepada-Nya segala sesuatu.*
+*Dia tiada beranak dan tiada pula diperanakan.*
+*Dan tidak ada seorangpun yang setara dengan Dia.*
 
 اِلٰى حَضْرَةِ الشَّيْخِ أَحْمَدْ بَاقِرْ الْفَاتِحَةَ
 
@@ -158,11 +192,25 @@ KHOTAMAN
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-*Bismillaahirrohmaanirrohiim. Qul a’uudzu birobbil falaq, Min syarri maa kholaqk Wa min syarri ghoosiqin idzaa waqobl Wa min syarrin naffaatsaati fil ‘uqodm Wa min syarri haasidin idzaa hasad*
+*Bismillaahirrohmaanirrohiim.*
+*Qul a’uudzu birobbil falaq,*
+*Min syarri maa kholaq,*
+*Wa min syarri ghoosiqin idzaa waqob,*
+*Wa min syarrin naffaatsaati fil ‘uqod,*
+*Wa min syarri haasidin idzaa hasad*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakan aku berlindung kepada Tuhan Yang Maha Menguasai subuh, dari kejahatan mahkluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila dengki.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
+*Katakan aku berlindung kepada Tuhan Yang Maha Menguasai subuh,*
+*dari kejahatan mahkluk-Nya.*
+*Dan dari kejahatan malam apabila telah gelap gulita.*
+*Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul.*
+*Dan dari kejahatan orang yang dengki apabila dengki.*
 
 اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِي لَآ إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَاَتُوْبُ إِلَيْهِ
 
@@ -172,11 +220,28 @@ KHOTAMAN
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+مَلِكِ ٱلنَّاسِ
+إِلَٰهِ ٱلنَّاسِ
+مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
+ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
+مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ِ
 
-*Bismillaahirrohmaanirrohiim. Qul a’uudzu birobbin naas Malikin naas Ilaahin naas Min syarril waswaasil khonnaasm Alladzii yuwaswisu fii shuduurin naasn Minal jinnati wan naas*
+*Bismillaahirrohmaanirrohiim.*
+*Qul a’uudzu birobbin naas*
+*Malikin naas*
+*Ilaahin naas*
+*Min syarril waswaasil khonnaas*
+*Alladzii yuwaswisu fii shuduurin naas*
+*Minal jinnati wan naas*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakanlah: Aku berlindung kepada Tuhan manusia. Raja Manusia. Sembahan Manusia.  Dari kejahatan (bisikan) syetan yang biasa bersembunyi. Yang membisikan (kejahatan) kedalam dada manusia, dari jin dan manusia.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
+*Katakanlah: Aku berlindung kepada Tuhan manusia.*
+*Raja Manusia.*
+*Sembahan Manusia.*
+*Dari kejahatan (bisikan) syetan yang biasa bersembunyi.*
+*Yang membisikan (kejahatan) kedalam dada manusia,*
+*dari jin dan manusia.*
 
 اِلٰى حَضْرَةِ سَيِّدِنَا مُظَهِّرْ الْفَاتِحَةَ
 

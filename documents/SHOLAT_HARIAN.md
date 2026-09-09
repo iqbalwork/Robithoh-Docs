@@ -106,7 +106,10 @@ Artinya: Saya niat sholat sunnah Hajat dua roka’at karena اَللّهُ Ta’
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
 Bismillaahirrohmaanirrohiim
 
@@ -244,9 +247,15 @@ Artinya : Saya niat sholat sunnah Tasbih dua roka’at karena اَللّهُ Ta�
  - Roka’at 3 = surat Al-Ikhlas sebanyak 2x
  - Roka’at 4 = surat Al-Ikhlas sebanyak 1x
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 Tata Cara Bacaan Tasbih
 
@@ -286,23 +295,76 @@ Artinya : Saya niat sholat sunnah Witir tiga roka’at karena اَللّهُ Ta�
 
  - Roka’at pertama setelah Al-Fatihah membaca surat : Al-A’laa
 
-سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى ١ ٱلَّذِي خَلَقَ فَسَوَّىٰ ٢ وَٱلَّذِي قَدَّرَ فَهَدَىٰ ٣ وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ ٤ فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ ٥ سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ ٦ إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ ٧ وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ ٨ فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ ٩ سَيَذَّكَّرُ مَن يَخۡشَىٰ ١٠ وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى ١١ ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ ١٢ ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ ١٣ قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ ١٤ وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ ١٥ بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا ١٦ وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ ١٧ إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ ١٨ صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ ١
+سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى ١
+ٱلَّذِي خَلَقَ فَسَوَّىٰ ٢
+وَٱلَّذِي قَدَّرَ فَهَدَىٰ ٣
+وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ ٤
+فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ ٥
+سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ ٦
+إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ ٧
+وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ ٨
+فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ ٩
+سَيَذَّكَّرُ مَن يَخۡشَىٰ ١٠
+وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى ١١
+ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ ١٢
+ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ ١٣
+قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ ١٤
+وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ ١٥
+بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا ١٦
+وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ ١٧
+إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ ١٨
+صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ ١
 
-Sabbihisma Robbikal A’la, Alladzii Kholaqo Fasaw-waa, Wal-Ladzii Qoddaro Fa-Hadaa, Wal-Ladzii Akhrojal Mar’aa, Faja’alahu Ghu-Tsaa-an Ahwaa, Sanuqri-uka Falaa Tansaa, Illaa Maa Syaa-Allooh, Innahu Ya’lamul Jahro Wamaa Yakh-faa, Wanuyas-siruka Lil-Yusroo, Fadzak-kir In-nafa’atidz Dzikroo, Sayadz-dzak-karu May-Yakhsyaa, Wa Yatajan-nabuhal Asy-qoo, Al-Ladzi Yashlan-naarol Kubroo, Tsumma Laa Yamuu-tu Fii-haa Walaa Yahyaa, Qod Aflaha Mang-Tazak-kaa, Wadzakarosma Robbihi Fa Shollaa, Bal Tu-tsiruunal Hayaatad-Dunyaa, Wal Aa-khirotu Khoiruw wa Abqoo, Inna Haadzaa Lafish-Shuhufil Uu-laa, Shuhufi Ibroohiima wa Muusaa.
+Sabbihisma Robbikal A’la,
+Alladzii Kholaqo Fasaw-waa,
+Wal-Ladzii Qoddaro Fa-Hadaa,
+Wal-Ladzii Akhrojal Mar’aa,
+Faja’alahu Ghu-Tsaa-an Ahwaa,
+Sanuqri-uka Falaa Tansaa,
+Illaa Maa Syaa-Allooh,
+Innahu Ya’lamul Jahro Wamaa Yakh-faa,
+Wanuyas-siruka Lil-Yusroo,
+Fadzak-kir In-nafa’atidz Dzikroo,
+Sayadz-dzak-karu May-Yakhsyaa,
+Wa Yatajan-nabuhal Asy-qoo,
+Al-Ladzi Yashlan-naarol Kubroo,
+Tsumma Laa Yamuu-tu Fii-haa Walaa Yahyaa,
+Qod Aflaha Mang-Tazak-kaa,
+Wadzakarosma Robbihi Fa Shollaa,
+Bal Tu-tsiruunal Hayaatad-Dunyaa,
+Wal Aa-khirotu Khoiruw wa Abqoo,
+Inna Haadzaa Lafish-Shuhufil Uu-laa,
+Shuhufi Ibroohiima wa Muusaa.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : Al-Kafirun
 
-قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
+قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١
+لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣
+وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥
+لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
 
-Qul Yaa Ayyuhal Kaafiruun, Laa A’budu Maa Ta’buduun, Walaa Anntum ‘AaBiduuna Maa A’bud, Walaa Ana ‘Aabidum maa ‘Abattum, Walaa Anntum ‘Aa-Biduuna Maa A’bud, Lakum Diinukum Waliya-Diin
+Qul Yaa Ayyuhal Kaafiruun,
+Laa A’budu Maa Ta’buduun,
+Walaa Anntum ‘AaBiduuna Maa A’bud,
+Walaa Ana ‘Aabidum maa ‘Abattum,
+Walaa Anntum ‘Aa-Biduuna Maa A’bud,
+Lakum Diinukum Waliya-Diin
 
  - Roka’at ketiga setelah Al-Fatihah membaca surat : Al-Ikhlash
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
 Bismillaahirrohmaanirrohiim
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 **Bacaan Doa Qunut  :**
 
@@ -479,15 +541,27 @@ Artinya : Saya niat sholat sunnah Subuh dua roka’at karena اَللّهُ Ta�
 
  - Roka’at pertama setelah Al-Fatihah membaca surat :Al-Qodar
 
-إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ ١ وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ ٢ لَيۡلَةُ ٱلۡقَدۡرِ لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ ٣ أَلۡفِ شَهۡرٖ تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ ٤ سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ ٥
+إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ ١
+وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ ٢
+لَيۡلَةُ ٱلۡقَدۡرِ لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ ٣
+أَلۡفِ شَهۡرٖ تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ ٤
+سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ ٥
 
-Innaa Ang-zalnaahu Fii Lailatil-Qodr, Wamaa Adrooka Maa Lailatul-Qodr, Lailatul-Qodri Khoirum Min Alfi Syahr, Tanazzalul Malaa-ikatu War-Ruuhu Fii-haa Bi-izni Robbihim Ming-Kulli Amring Salaam, Salaamun Hiya Hatta Math-la’il Fajr.
+Innaa Ang-zalnaahu Fii Lailatil-Qodr,
+Wamaa Adrooka Maa Lailatul-Qodr,
+Lailatul-Qodri Khoirum Min Alfi Syahr,
+Tanazzalul Malaa-ikatu War-Ruuhu Fii-haa Bi-izni Robbihim Ming-Kulli Amring Salaam,
+Salaamun Hiya Hatta Math-la’il Fajr.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat :Al-Kautsar
 
-اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ – ١ فَصَلِّ لِرَبِّكَ وَانْحَرْۗ – ٢ اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ – ٣
+اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ – ١
+فَصَلِّ لِرَبِّكَ وَانْحَرْۗ – ٢
+اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ – ٣
 
-innā a’ṭainākal-kauṡar, fa ṣalli lirabbika wan-ḥar, inna syāni`aka huwal-abtar
+innā a’ṭainākal-kauṡar,
+fa ṣalli lirabbika wan-ḥar,
+inna syāni`aka huwal-abtar
 
 ---
 
@@ -507,15 +581,37 @@ Artinya : Saya niat sholat sunnah Lidaf’il Bala’ dua roka’at karena اَل
 
  - Roka’at pertama setelah Al-Fatihah membaca surat :Al-Insyiroh
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥ إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦ فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١
+وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢
+ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣
+وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤
+فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥
+إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦
+فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧
+وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
 
-Alam Nasyroh Laka Shodrok, Wawadho’naa ‘Ang-Ka Wizrok, Alladzii Ang-qodho Zhohrok, Warofa’naa Laka Dzikrok, Fa-Inna Ma’al-‘Usri Yusron, Inna Ma’al-‘Usri Yusroo, Fa-Idzaa Faroghta Fangshobb, Wa-Ilaa Robbika Far-Ghobb.
+Alam Nasyroh Laka Shodrok,
+Wawadho’naa ‘Ang-Ka Wizrok,
+Alladzii Ang-qodho Zhohrok,
+Warofa’naa Laka Dzikrok,
+Fa-Inna Ma’al-‘Usri Yusron,
+Inna Ma’al-‘Usri Yusroo,
+Fa-Idzaa Faroghta Fangshobb,
+Wa-Ilaa Robbika Far-Ghobb.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat :Al-Fiil
 
-أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ١ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ ٢ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ٣ تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ ٤ فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۢ ٥
+أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ١
+أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ ٢
+وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ٣
+تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ ٤
+فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۢ ٥
 
-Alam Taro Kaifa Fa’ala Robbuka bi Ash-haabil Fiil, Alam Yaj-‘al Kaidahum Fii Tadh-liil, Wa Arsala ‘Alaihim Thoiron Abaabiil, Tarmii-him Bihijaa-rotim Ming SijJiil, Faja-‘alahum Ka-‘Ashfim Ma-kuul.
+Alam Taro Kaifa Fa’ala Robbuka bi Ash-haabil Fiil,
+Alam Yaj-‘al Kaidahum Fii Tadh-liil,
+Wa Arsala ‘Alaihim Thoiron Abaabiil,
+Tarmii-him Bihijaa-rotim Ming SijJiil,
+Faja-‘alahum Ka-‘Ashfim Ma-kuul.
 
 ---
 
@@ -531,15 +627,49 @@ Artinya : Saya niat sholat fardhu subuh dua roka’at karena اَللّهُ Ta�
 
  - Roka’at pertama setelah Al-Fatihah membaca surat :Ad-Dhuha
 
-وَٱلضُّحَىٰ ١ وَٱلَّيۡلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤ وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥ أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦ وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧ وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨ فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠ وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
+وَٱلضُّحَىٰ ١
+وَٱلَّيۡلِ إِذَا سَجَىٰ ٢
+مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣
+وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤
+وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥
+أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦
+وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧
+وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨
+فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩
+وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠
+وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
 
-Wadh-Dhuhaa, Wallaili Idzaa Sajaa, Maa Wadda-‘aka Robbuka Wamaa Qolaa, Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa, Walasaufa Yu’thii-ka Robbuka Fatar-dhoo, Alam Yajid-ka Yatii-mang Fa-aa-waa, Wawajadaka Dhoo-lang Fa-Hadaa, Wawajadaka ‘Aa-ilang Fa-Aghnaa, Fa-Ammal Yatiima Falaa Taqhar, Wa-Ammas Saa-ila Falaa Tanhar, Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
+Wadh-Dhuhaa,
+Wallaili Idzaa Sajaa,
+Maa Wadda-‘aka Robbuka Wamaa Qolaa,
+Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa,
+Walasaufa Yu’thii-ka Robbuka Fatar-dhoo,
+Alam Yajid-ka Yatii-mang Fa-aa-waa,
+Wawajadaka Dhoo-lang Fa-Hadaa,
+Wawajadaka ‘Aa-ilang Fa-Aghnaa,
+Fa-Ammal Yatiima Falaa Taqhar,
+Wa-Ammas Saa-ila Falaa Tanhar,
+Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : Al-Insyiroh
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥ إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦ فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١
+وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢
+ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣
+وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤
+فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥
+إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦
+فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧
+وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
 
-Alam Nasyroh Laka Shodrok, Wawadho’naa ‘Ang-Ka Wizrok, Alladzii Ang-qodho Zhohrok, Warofa’naa Laka Dzikrok, Fa-Inna Ma’al-‘Usri Yusron, Inna Ma’al-‘Usri Yusroo, Fa-Idzaa Faroghta Fangshobb, Wa-Ilaa Robbika Far-Ghobb.
+Alam Nasyroh Laka Shodrok,
+Wawadho’naa ‘Ang-Ka Wizrok,
+Alladzii Ang-qodho Zhohrok,
+Warofa’naa Laka Dzikrok,
+Fa-Inna Ma’al-‘Usri Yusron,
+Inna Ma’al-‘Usri Yusroo,
+Fa-Idzaa Faroghta Fangshobb,
+Wa-Ilaa Robbika Far-Ghobb.
 
 Catatan: Pada Roka’at ke-2, saat bangun dari ruku’ (i’tidal) membaca Do’a Qunut
 
@@ -667,7 +797,9 @@ Pilihan Waktu :Jam 06.00*
 
 ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ مَثَلُ نُورِهِۦ كَمِشۡكَوٰةٖ فِيهَا مِصۡبَاحٌۖ ٱلۡمِصۡبَاحُ فِي زُجَاجَةٍۖ ٱلزُّجَاجَةُ كَأَنَّهَا كَوۡكَبٞ دُرِّيّٞ يُوقَدُ مِن شَجَرَةٖ مُّبَٰرَكَةٖ زَيۡتُونَةٖ لَّا شَرۡقِيَّةٖ وَلَا غَرۡبِيَّةٖ يَكَادُ زَيۡتُهَا يُضِيٓءُ وَلَوۡ لَمۡ تَمۡسَسۡهُ نَارٞۚ نُّورٌ عَلَىٰ نُورٖۚ يَهۡدِي ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُۚ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَٰلَ لِلنَّاسِۗ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ
 
-فِي بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرۡفَعَ وَيُذۡكَرَ فِيهَا ٱسۡمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ ٣٦ رِجَالٞ لَّا تُلۡهِيهِمۡ تِجَٰرَةٞ وَلَا بَيۡعٌ عَن ذِكۡرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوۡمٗا تَتَقَلَّبُ فِيهِ ٱلۡقُلُوبُ وَٱلۡأَبۡصَٰرُ ٣٧ لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا عَمِلُواْ وَيَزِيدَهُم مِّن فَضۡلِهِۦۗ وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ ٣٨
+فِي بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرۡفَعَ وَيُذۡكَرَ فِيهَا ٱسۡمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ ٣٦
+رِجَالٞ لَّا تُلۡهِيهِمۡ تِجَٰرَةٞ وَلَا بَيۡعٌ عَن ذِكۡرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوۡمٗا تَتَقَلَّبُ فِيهِ ٱلۡقُلُوبُ وَٱلۡأَبۡصَٰرُ ٣٧
+لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا عَمِلُواْ وَيَزِيدَهُم مِّن فَضۡلِهِۦۗ وَٱللَّهُ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٖ ٣٨
 
 Ushollii sunnatal Isyroqi rok‘ataini lillaahi ta’aala
 
@@ -686,15 +818,33 @@ Fii buyuutin adzinallaahu an turfa’a wa yudzkara  fiihasmuhuu yusabbihu lahuu
 
 اُصَلِّي سُنَّةَ الْإِسْتِعَاذَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+مَلِكِ ٱلنَّاسِ
+إِلَٰهِ ٱلنَّاسِ
+مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
+ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
+مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 
 Ushollii sunnatal isti’adzati rok’ataini lilllaahi ta’alaa
 
-Qul A-‘Uudzu Bi Robbil Falaq, Ming Sarri Maa Kholaq, Waming Sarri Ghoosiqin Idzaa Waqob,Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod, Waming Sarri Haasidin Idzaa Hasad
+Qul A-‘Uudzu Bi Robbil Falaq,
+Ming Sarri Maa Kholaq,
+Waming Sarri Ghoosiqin Idzaa Waqob,
+Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod,
+Waming Sarri Haasidin Idzaa Hasad
 
-Qul A‘Uudzu Birobbinnaas, Malikinnaas, Ilaahinnaas, Ming Sarril Waswaasil Khonnaas, Alladzii Yuwaswisu Fii Shuduurinnaas, Minal Jinnati Wannaas.
+Qul A‘Uudzu Birobbinnaas,
+Malikinnaas,
+Ilaahinnaas,
+Ming Sarril Waswaasil Khonnaas,
+Alladzii Yuwaswisu Fii Shuduurinnaas,
+Minal Jinnati Wannaas.
 
 ---
 
@@ -715,7 +865,10 @@ Qul A‘Uudzu Birobbinnaas, Malikinnaas, Ilaahinnaas, Ming Sarril Waswaasil Khon
 وَلا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأرْضَ وَلا يَئُودُهُ
 حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ
+ٱللَّهُ ٱلصَّمَدُ
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
 
 Ushollii sunnatal istikhoroti rok’ataini  lillaahi ta’alaa
 
@@ -723,7 +876,10 @@ Bismillaahirrohmaanirrohiim
 
 Alloohu Laa Ilaaha Illa huwal-Hayyul-Qoyyuum, Laa Ta-khudzuhuu Sinatuw Walaa Nauum, Lahuu Maa Fis-Samaawaati Wamaa Fil-Ardh, Mang-Dzalladzii Yasyfa’u ‘Indahuu Ilaa bi-Idznih, Ya’lamu Maa Baina Aidiihim Wamaa Kholfahum, Walaa Yuhiithuuna bi-Syai-im-min ‘Ilmihii Ilaa Bimaa Syaa, Wasi’a Kursiyyuhus-Samaawaati wal-Ardho Walaa Ya-uu-duhuu Hifzhuhumaa, Wahuwal ‘Aliyyul ‘Azhiim
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad. (7x)
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad. (7x)
 
 ---
 
@@ -735,24 +891,51 @@ Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahu
 
 اُصَلِّى سُنَّةً اِسْتِعَانَهْ رَكْعَتَيْنِ لِلهِ تَعَالَى اَللهُ اَكْبَرُ
 
-إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ ١ فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ ٢ إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ ٣
+إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ ١
+فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ ٢
+إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ ٣
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ
+ٱللَّهُ ٱلصَّمَدُ
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي
-يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+مَلِكِ ٱلنَّاسِ
+إِلَٰهِ ٱلنَّاسِ
+مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
+ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
+مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 
 Usholi sunnatal Istiánah rokátaini lillahi taálaa.
 
-In-naa a’thoi-naa kal-kau-tsar, Fa-shol-li li-robbi-ka wan-har, in-na syaa-ni-aka hu-wal-abtar. (17x)
+In-naa a’thoi-naa kal-kau-tsar,
+Fa-shol-li li-robbi-ka wan-har,
+in-na syaa-ni-aka hu-wal-abtar. (17x)
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad. (5x)
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad. (5x)
 
-Qul A-‘Uudzu Bi Robbil Falaq, Ming Sarri Maa Kholaq, Waming Sarri Ghoosiqin Idzaa Waqob,Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod, Waming Sarri Haasidin Idzaa Hasad
+Qul A-‘Uudzu Bi Robbil Falaq,
+Ming Sarri Maa Kholaq,
+Waming Sarri Ghoosiqin Idzaa Waqob,
+Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod,
+Waming Sarri Haasidin Idzaa Hasad
 
-Qul A‘Uudzu Birobbinnaas, Malikinnaas, Ilaahinnaas, Ming Sarril Waswaasil Khonnaas, Alladzii Yuwaswisu Fii Shuduurinnaas,Minal Jinnati Wannaas.
+Qul A‘Uudzu Birobbinnaas,
+Malikinnaas,
+Ilaahinnaas,
+Ming Sarril Waswaasil Khonnaas,
+Alladzii Yuwaswisu Fii Shuduurinnaas,
+Minal Jinnati Wannaas.
 
 ---
 
@@ -765,9 +948,15 @@ Usholli sunnatas syukri Kabinet Merah Putih rok’ataini mustaqbilal Ka’bah Li
 
  - Setiap Roka’at satu kali Surat al-Fatihah + 13 kali Surat Al-Ikhlash.
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad. (13x)
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad. (13x)
 
 ---
 
@@ -905,27 +1094,95 @@ Setelah Al-Fatihah membaca surat berikut :
 
  - Roka’at pertama setelah Al-Fatihah membaca surat : Asy-Syamsi
 
-وَٱلشَّمۡسِ وَضُحَىٰهَا ١ وَٱلۡقَمَرِ إِذَا تَلَىٰهَا ٢ وَٱلنَّهَارِ إِذَا جَلَّىٰهَا ٣ وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا ٤ وَٱلسَّمَآءِ وَمَا بَنَىٰهَا ٥ وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا ٦ وَنَفۡسٖ وَمَا سَوَّىٰهَا ٧ فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا ٨ قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا ٩ وَقَدۡ خَابَ مَن دَسَّىٰهَا ١٠ كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ ١١ إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا ١٢ فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا ١٣ فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا ١٤ وَلَا يَخَافُ عُقۡبَٰهَا ١٥
+وَٱلشَّمۡسِ وَضُحَىٰهَا ١
+وَٱلۡقَمَرِ إِذَا تَلَىٰهَا ٢
+وَٱلنَّهَارِ إِذَا جَلَّىٰهَا ٣
+وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا ٤
+وَٱلسَّمَآءِ وَمَا بَنَىٰهَا ٥
+وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا ٦
+وَنَفۡسٖ وَمَا سَوَّىٰهَا ٧
+فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا ٨
+قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا ٩
+وَقَدۡ خَابَ مَن دَسَّىٰهَا ١٠
+كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ ١١
+إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا ١٢
+فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا ١٣
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا ١٤
+وَلَا يَخَافُ عُقۡبَٰهَا ١٥
 
 Wasy-Syamsi wa dhuhaa-haa. Wal-Qomari idzaa talaa-haa. Wan-Nahaari idzaa jal-laa-haa. Wal-laili idzaa yagh-syaa-haa. Was-Samaa-i wa maa banaa-haa. Wal-Ardhi wa maa Tho-haa-haa. Wa Nafsiw wa maa saw-waa-haa. Fa-alhamahaa fujuu-rohaa wa taqwaa-haa. Qod af’lahamang zak-kaa-haa. Wa qod khoo-ba mang das-saa-haa. Kadz-dzabat tsamuu-du bi thogh-waa-haa. Izim-ba’atsa asy-qoo-haa. Fa qoo-la lahum rosuu-lulloohi naqotallohi wa suq-yaa-haa. Fa kadz-dzabuu-hu fa’aqoruu-haa fa dam-dama ‘’alaihim rob-buhum bi dzam-bihim fa saw-waa-haa. Wa laa yakhoo-fu ‘uqbaa-haa.
 
  - Roka’at Kedua setelah Al-Fatihah membaca surat : Al-Lail
 
-وَٱلَّيۡلِ إِذَا يَغۡشَىٰ ١ وَٱلنَّهَارِ إِذَا تَجَلَّىٰ ٢ وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ ٣ إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ ٤ فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ ٥ وَصَدَّقَ بِٱلۡحُسۡنَىٰ ٦ فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ ٧ وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ ٨ وَكَذَّبَ بِٱلۡحُسۡنَىٰ ٩ فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ ١٠ وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ ١١ إِنَّ عَلَيۡنَا لَلۡهُدَىٰ ١٢ وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ ١٣ فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ ١٤ لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى ١٥ ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ ١٦ وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى ١٧ ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ ١٨ وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ ١٩ إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ ٢٠ وَلَسَوۡفَ يَرۡضَىٰ ٢١
+وَٱلَّيۡلِ إِذَا يَغۡشَىٰ ١
+وَٱلنَّهَارِ إِذَا تَجَلَّىٰ ٢
+وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ ٣
+إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ ٤
+فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ ٥
+وَصَدَّقَ بِٱلۡحُسۡنَىٰ ٦
+فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ ٧
+وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ ٨
+وَكَذَّبَ بِٱلۡحُسۡنَىٰ ٩
+فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ ١٠
+وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ ١١
+إِنَّ عَلَيۡنَا لَلۡهُدَىٰ ١٢
+وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ ١٣
+فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ ١٤
+لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى ١٥
+ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ ١٦
+وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى ١٧
+ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ ١٨
+وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ ١٩
+إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ ٢٠
+وَلَسَوۡفَ يَرۡضَىٰ ٢١
 
 Wal-laili idzaa yagh-syaa. Wan-Nahaari idzaa tajal-laa. Wa maa kholaqodz-dzakaro wal-ung-tsaa. Inna sa’yakum lasyat-taa. Fa am-maa-man a’thoo wat-taqoo. Wa shod-daqo bil-husnaa. Fa sanuyas-siruhuu lil-yusroo. Wa am-maa-mam bakhila was-tagh-naa. Wa kadz-dzaba bil-husnaa. Fa sanuyas-siruhuu lil-‘usroo. Wa maa yughnii ‘anhu maa-lu-huu idzaa tarod-daa. Inna ‘alainaa lal-hudaa. Wa inna lanaa lal-aa-khirota wal-uu-laa. Fa-ang-dzar-tu-kum naa-rong talazh-zhoo. Laa yashlaa-haa il-lal-asy-qoo. Al-ladzii kadz-dzaba wa tawal-laa. Wa sayujan-nabuhal-at-qoo. Al-ladzii yu-tii maa-lahuu yatazak-kaa. Wa maa li-ahadin ‘indahuu min-ni’mating tuj-zaa. Il-lab-tighoo-a wajhi rob-bihil-a’laa. Wa lasau-fa yardhoo.
 
  - Roka’at Ketiga setelah Al-Fatihah membaca surat : Ad-Dhuha
 
-وَٱلضُّحَىٰ ١ وَٱلَّيۡلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤ وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥ أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦ وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧ وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨ فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠ وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
+وَٱلضُّحَىٰ ١
+وَٱلَّيۡلِ إِذَا سَجَىٰ ٢
+مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣
+وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤
+وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥
+أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦
+وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧
+وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨
+فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩
+وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠
+وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
 
-Wadh-Dhuhaa, Wallaili Idzaa Sajaa, Maa Wadda-‘aka Robbuka Wamaa Qolaa, Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa, Walasaufa Yu’thii-ka Robbuka Fatar-dhoo, Alam Yajid-ka Yatii-mang Fa-aa-waa, Wawajadaka Dhoo-lang Fa-Hadaa, Wawajadaka ‘Aa-ilang Fa-Aghnaa, Fa-Ammal Yatiima Falaa Taqhar, Wa-Ammas Saa-ila Falaa Tanhar, Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
+Wadh-Dhuhaa,
+Wallaili Idzaa Sajaa,
+Maa Wadda-‘aka Robbuka Wamaa Qolaa,
+Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa,
+Walasaufa Yu’thii-ka Robbuka Fatar-dhoo,
+Alam Yajid-ka Yatii-mang Fa-aa-waa,
+Wawajadaka Dhoo-lang Fa-Hadaa,
+Wawajadaka ‘Aa-ilang Fa-Aghnaa,
+Fa-Ammal Yatiima Falaa Taqhar,
+Wa-Ammas Saa-ila Falaa Tanhar,
+Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
 
  - Roka’at Keempat setelah Al-Fatihah membaca surat : Al-Insyiroh
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥ إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦ فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١
+وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢
+ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣
+وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤
+فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥
+إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦
+فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧
+وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
 
-Alam Nasyroh Laka Shodrok, Wawadho’naa ‘Ang-Ka Wizrok, Alladzii Ang-qodho Zhohrok, Warofa’naa Laka Dzikrok, Fa-Inna Ma’al-‘Usri Yusron, Inna Ma’al-‘Usri Yusroo, Fa-Idzaa Faroghta Fangshobb, Wa-Ilaa Robbika Far-Ghobb.
+Alam Nasyroh Laka Shodrok,
+Wawadho’naa ‘Ang-Ka Wizrok,
+Alladzii Ang-qodho Zhohrok,
+Warofa’naa Laka Dzikrok,
+Fa-Inna Ma’al-‘Usri Yusron,
+Inna Ma’al-‘Usri Yusroo,
+Fa-Idzaa Faroghta Fangshobb,
+Wa-Ilaa Robbika Far-Ghobb.
 
 ---
 
@@ -940,29 +1197,78 @@ Artinya : Saya niat sholat sunnah Dhuha empat roka’at karena اَللّهُ Ta
 
  - Roka’at kelima setelah Al-Fatihah membaca surat : Ad-Dhuha
 
-وَٱلضُّحَىٰ ١ وَٱلَّيۡلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤ وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥ أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦ وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧ وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨ فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠ وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
+وَٱلضُّحَىٰ ١
+وَٱلَّيۡلِ إِذَا سَجَىٰ ٢
+مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣
+وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ ٤
+وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ ٥
+أَلَمۡ يَجِدۡكَ يَتِيمٗا فََٔاوَىٰ ٦
+وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ ٧
+وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ ٨
+فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ ٩
+وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ ١٠
+وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
 
-Wadh-Dhuhaa, Wallaili Idzaa Sajaa, Maa Wadda-‘aka Robbuka Wamaa Qolaa, Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa, Walasaufa Yu’thii-ka Robbuka Fatar-dhoo, Alam Yajid-ka Yatii-mang Fa-aa-waa, Wawajadaka Dhoo-lang Fa-Hadaa, Wawajadaka ‘Aa-ilang Fa-Aghnaa, Fa-Ammal Yatiima Falaa Taqhar, Wa-Ammas Saa-ila Falaa Tanhar, Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
+Wadh-Dhuhaa,
+Wallaili Idzaa Sajaa,
+Maa Wadda-‘aka Robbuka Wamaa Qolaa,
+Wa Lal-Aakhirotu Khoirul Laka Minal Uu-laa,
+Walasaufa Yu’thii-ka Robbuka Fatar-dhoo,
+Alam Yajid-ka Yatii-mang Fa-aa-waa,
+Wawajadaka Dhoo-lang Fa-Hadaa,
+Wawajadaka ‘Aa-ilang Fa-Aghnaa,
+Fa-Ammal Yatiima Falaa Taqhar,
+Wa-Ammas Saa-ila Falaa Tanhar,
+Wa Ammaa bi Ni’mati Robbika Fa-Haddits.
 
  - Roka’at keenam setelah Al-Fatihah membaca surat : Al-Insyiroh
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣ وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥ إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١
+وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢
+ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣
+وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤
+فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥
+إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦
 
-فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧ وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
+فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧
+وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨
 
-Alam Nasyroh Laka Shodrok, Wawadho’naa ‘Ang-Ka Wizrok, Alladzii Ang-qodho Zhohrok, Warofa’naa Laka Dzikrok, Fa-Inna Ma’al-‘Usri Yusron, Inna Ma’al-‘Usri Yusroo, Fa-Idzaa Faroghta Fangshobb, Wa-Ilaa Robbika Far-Ghobb.
+Alam Nasyroh Laka Shodrok,
+Wawadho’naa ‘Ang-Ka Wizrok,
+Alladzii Ang-qodho Zhohrok,
+Warofa’naa Laka Dzikrok,
+Fa-Inna Ma’al-‘Usri Yusron,
+Inna Ma’al-‘Usri Yusroo,
+Fa-Idzaa Faroghta Fangshobb,
+Wa-Ilaa Robbika Far-Ghobb.
 
  - Roka’at ketujuh setelah Al-Fatihah membaca surat : Al-Kafirun
 
-قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
+قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١
+لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣
+وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥
+لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
 
-Qul Yaa Ayyuhal Kaafiruun, Laa A’budu Maa Ta’buduun, Walaa Anntum ‘AaBiduuna Maa A’bud, Walaa Ana ‘Aabidum maa ‘Abattum, Walaa Anntum ‘Aa-Biduuna Maa A’bud, Lakum Diinukum Waliya-Diin
+Qul Yaa Ayyuhal Kaafiruun,
+Laa A’budu Maa Ta’buduun,
+Walaa Anntum ‘AaBiduuna Maa A’bud,
+Walaa Ana ‘Aabidum maa ‘Abattum,
+Walaa Anntum ‘Aa-Biduuna Maa A’bud,
+Lakum Diinukum Waliya-Diin
 
  - Roka’at kedelapan setelah Al-Fatihah membaca surat : Al-Ikhlash
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 Kemudian diakhiri dengan salam.
 
@@ -980,9 +1286,13 @@ Artinya : Saya niat sholat sunnah Kifarotil Baul dua roka’at karena اَللّ
 
  - Pada setiap roka’at setelah Al-Fatihah membaca : Al -Kautsar (7x)
 
-إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ ١ فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ ٢ إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ ٣
+إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ ١
+فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ ٢
+إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ ٣
 
-In-naa a’thoi-naa kal-kau-tsar, Fa-shol-li li-robbi-ka wan-har, in-na syaa-ni-aka hu-wal-abtar. (7x)
+In-naa a’thoi-naa kal-kau-tsar,
+Fa-shol-li li-robbi-ka wan-har,
+in-na syaa-ni-aka hu-wal-abtar. (7x)
 
 Dilanjutkan dengan Do’a:
 
@@ -1114,17 +1424,33 @@ Artinya :Saya niat sholat fardhu dhuhur empat roka’at karena اَللّهُ ta
  - Roka’at pertama setelah Al-Fatihah membaca surat : Al-Kafirun
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
+قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١
+لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣
+وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥
+لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
 
 Bismillaahirrohmaanirrohiim
 
-Qul Yaa Ayyuhal Kaafiruun, Laa A’budu Maa Ta’buduun, Walaa Anntum ‘AaBiduuna Maa A’bud, Walaa Ana ‘Aabidum maa ‘Abattum, Walaa Anntum ‘Aa-Biduuna Maa A’bud, Lakum Diinukum Waliya-Diin
+Qul Yaa Ayyuhal Kaafiruun,
+Laa A’budu Maa Ta’buduun,
+Walaa Anntum ‘AaBiduuna Maa A’bud,
+Walaa Ana ‘Aabidum maa ‘Abattum,
+Walaa Anntum ‘Aa-Biduuna Maa A’bud,
+Lakum Diinukum Waliya-Diin
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : Al-Ikhlas
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 Setelah Salam Zikir Harian  & Khotaman
 
@@ -1258,9 +1584,14 @@ Artinya :Saya niat sholat fardhu Ashar empat roka’at karena اَللّهُ Ta�
  - Roka’at pertama setelah Al-Fatihah membaca surat : Al-Ashr
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-وَٱلۡعَصۡرِ ١ إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣
+وَٱلۡعَصۡرِ ١
+إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢
+إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣
 
-Bismillaahirrohmaanirrohiim*Wal’asri in-nal inn-saana lafii khusrin illa, illal-ladziina aa-manuu wa ‘amilush-shoolihaa-ti wa-tawaa-show bil-haqqi, wa-tawaa-show bish-shobr.
+Bismillaahirrohmaanirrohiim,
+Wal’asri in-nal inn-saana lafii khusrin illa,
+illal-ladziina aa-manuu wa ‘amilush-shoolihaa-ti wa-tawaa-show bil-haqqi,
+wa-tawaa-show bish-shobr.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : “Surat Yasin ayat 58-59”
 
@@ -1402,15 +1733,31 @@ Artinya : Saya niat sholat fardu magrib tiga rokaat karena اَللّهُ Ta’a
  - Roka’at pertama setelah Al-Fatihah membaca surat :Al-Kafirun
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
+قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١
+لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣
+وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥
+لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
 
-Bismillaahirrohmaanirrohiim*Qul Yaa Ayyuhal Kaafiruun, Laa A’budu Maa Ta’buduun, Walaa Anntum ‘AaBiduuna Maa A’bud, Walaa Ana ‘Aabidum maa ‘Abattum, Walaa Anntum ‘Aa-Biduuna Maa A’bud, Lakum Diinukum Waliya-Diin
+Bismillaahirrohmaanirrohiim,
+Qul Yaa Ayyuhal Kaafiruun,
+Laa A’budu Maa Ta’buduun,
+Walaa Anntum ‘AaBiduuna Maa A’bud,
+Walaa Ana ‘Aabidum maa ‘Abattum,
+Walaa Anntum ‘Aa-Biduuna Maa A’bud,
+Lakum Diinukum Waliya-Diin
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : An-Nashr
 
-إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ ١ وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا ٢ فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا ٣
+إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ ١
+وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا ٢
+فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا ٣
 
-Idzaa jaa-a nash-rulloohi wal-fath, Wa roai-tan-naasa yad-khuluuna fii dii-nil-laahi afwaa-jaa, Fasab-bih bihamdi rob-bika was-tagh-firh, in-nahuu kaa-na taw-waa-baa.
+Idzaa jaa-a nash-rulloohi wal-fath,
+Wa roai-tan-naasa yad-khuluuna fii dii-nil-laahi afwaa-jaa,
+Fasab-bih bihamdi rob-bika was-tagh-firh,
+in-nahuu kaa-na taw-waa-baa.
 
 ---
 
@@ -1489,17 +1836,36 @@ Bismillaahirrohmaanirrohiim*Alloohu Laa Ilaaha Illa huwal-Hayyul-Qoyyuum, Laa Ta
 Al-Falaq
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-Bismillaahirrohmaanirrohiim*Qul A-‘Uudzu Bi Robbil Falaq, Ming Sarri Maa Kholaq, Waming Sarri Ghoosiqin Idzaa Waqob,Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod, Waming Sarri Haasidin Idzaa Hasad (5x)
+Bismillaahirrohmaanirrohiim,
+Qul A-‘Uudzu Bi Robbil Falaq,
+Ming Sarri Maa Kholaq,
+Waming Sarri Ghoosiqin Idzaa Waqob,
+Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod,
+Waming Sarri Haasidin Idzaa Hasad (5x)
 
 An-Naas .
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي
-يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+مَلِكِ ٱلنَّاسِ
+إِلَٰهِ ٱلنَّاسِ
+مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
+ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
+مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 
-Bismillaahirrohmaanirrohiim*Qul A‘Uudzu Birobbinnaas, Malikinnaas, Ilaahinnaas, Ming Sarril Waswaasil Khonnaas, Alladzii Yuwaswisu Fii Shuduurinnaas,Minal Jinnati Wannaas.(5x)
+Bismillaahirrohmaanirrohiim,
+Qul A‘Uudzu Birobbinnaas,
+Malikinnaas,
+Ilaahinnaas,
+Ming Sarril Waswaasil Khonnaas,
+Alladzii Yuwaswisu Fii Shuduurinnaas,
+Minal Jinnati Wannaas.(5x)
 
 Setelah salam dilanjutkan membaca Istighfar (15x), dan Do’a untuk Orang Tua (15x).Sholawat Bani Hasyim (15x)
 
@@ -1538,16 +1904,34 @@ Ushollii sunnatan lihifzhil iimaan rok’ataini  lillaahi ta’alaa
  - Roka’at pertama setelah Al-Fatihah membaca surat :Al-Kafirun
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١ لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣ وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤ وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥ لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
+قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١
+لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣
+وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤
+وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥
+لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦
 
-Bismillaahirrohmaanirrohiim*Qul Yaa Ayyuhal Kaafiruun, Laa A’budu Maa Ta’buduun, Walaa Anntum ‘AaBiduuna Maa A’bud, Walaa Ana ‘Aabidum maa ‘Abattum, Walaa Anntum ‘Aa-Biduuna Maa A’bud, Lakum Diinukum Waliya-Diin
+Bismillaahirrohmaanirrohiim,
+Qul Yaa Ayyuhal Kaafiruun,
+Laa A’budu Maa Ta’buduun,
+Walaa Anntum ‘AaBiduuna Maa A’bud,
+Walaa Ana ‘Aabidum maa ‘Abattum,
+Walaa Anntum ‘Aa-Biduuna Maa A’bud,
+Lakum Diinukum Waliya-Diin
 
  - Roka’at kedua setelah Al-Fatihah membaca surat : Al-Ikhlas
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Bismillaahirrohmaanirrohiim*Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Bismillaahirrohmaanirrohiim,
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 ---
 
@@ -1635,15 +2019,29 @@ Artinya :Saya niat sholat fardhu isya empat roka’at karena اَللّهُ Ta�
  - Roka’at pertama setelah Al-Fatihah membaca surat : Al-Fiil
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ١ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ ٢ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ٣ تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ ٤ فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۢ ٥
+أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ١
+أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ ٢
+وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ٣
+تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ ٤
+فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۢ ٥
 
-Bismillaahirrohmaanirrohiim*Alam Taro Kaifa Fa’ala Robbuka bi Ash-haabil Fiil, Alam Yaj-‘al Kaidahum Fii Tadh-liil, Wa Arsala ‘Alaihim Thoiron Abaabiil, Tarmii-him Bihijaa-rotim Ming SijJiil, Faja-‘alahum Ka-‘Ashfim Ma-kuul.
+Bismillaahirrohmaanirrohiim,
+Alam Taro Kaifa Fa’ala Robbuka bi Ash-haabil Fiil,
+Alam Yaj-‘al Kaidahum Fii Tadh-liil,
+Wa Arsala ‘Alaihim Thoiron Abaabiil,
+Tarmii-him Bihijaa-rotim Ming SijJiil,
+Faja-‘alahum Ka-‘Ashfim Ma-kuul.
 
  - Roka’at kedua setelah Al-Fatihah membaca surat :Al-Quraisy
 
-لِإِيلَٰفِ قُرَيۡشٍ ١ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ٢ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ٣ ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۢ ٤
+لِإِيلَٰفِ قُرَيۡشٍ ١
+إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ٢
+فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ٣
+ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۢ ٤
 
-Li-ii-laafi quroisyin ii-llaafihim rihlatasy-syitaa-i wash-shoiif, fal-ya’buduu robba haa-dzal baiit, al-ladzii ath-’amahum ming-juu-‘iw wa aa-manahum min khouuf.
+Li-ii-laafi quroisyin ii-llaafihim rihlatasy-syitaa-i wash-shoiif,
+fal-ya’buduu robba haa-dzal baiit,
+al-ladzii ath-’amahum ming-juu-‘iw wa aa-manahum min khouuf.
 
 ---
 
@@ -1686,25 +2084,49 @@ Bismillaahirrohmaanirrohiim*Alloohu Laa Ilaaha Illa huwal-Hayyul-Qoyyuum, Laa Ta
 Al-Ikhlas
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Bismillaahirrohmaanirrohiim*Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Bismillaahirrohmaanirrohiim,
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 Al-Falaq
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
+مِن شَرِّ مَا خَلَقَ
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ
 ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-Bismillaahirrohmaanirrohiim*Qul A-‘Uudzu Bi Robbil Falaq, Ming Sarri Maa Kholaq, Waming Sarri Ghoosiqin Idzaa Waqob,Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod, Waming Sarri Haasidin Idzaa Hasad
+Bismillaahirrohmaanirrohiim,
+Qul A-‘Uudzu Bi Robbil Falaq,
+Ming Sarri Maa Kholaq,
+Waming Sarri Ghoosiqin Idzaa Waqob,
+Waming Sarrin-Naffaa-Tsaa-Ti Fil-‘Uqod,
+Waming Sarri Haasidin Idzaa Hasad
 
 An-Nas
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي
-يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+مَلِكِ ٱلنَّاسِ
+إِلَٰهِ ٱلنَّاسِ
+مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
+ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
+مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 
-Bismillaahirrohmaanirrohiim*Qul A‘Uudzu Birobbinnaas, Malikinnaas, Ilaahinnaas, Ming Sarril Waswaasil Khonnaas, Alladzii Yuwaswisu Fii Shuduurinnaas,Minal Jinnati Wannaas
+Bismillaahirrohmaanirrohiim,
+Qul A‘Uudzu Birobbinnaas,
+Malikinnaas,
+Ilaahinnaas,
+Ming Sarril Waswaasil Khonnaas,
+Alladzii Yuwaswisu Fii Shuduurinnaas,
+Minal Jinnati Wannaas
 
 Setelah selesai dilanjutkan Khotaman
 
@@ -1734,9 +2156,15 @@ Alhaakumut takaatsur. Hattaa zurtumul maqoobir. Kallaa saufa ta’lamuun. Tsumma
 
 Al-Ikhlash
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
 Dilanjutkan dengan Do’a :
 
@@ -1882,9 +2310,15 @@ Bismillaahirrohmaanirrohiim
 
 Alloohu Laa Ilaaha Illa huwal-Hayyul-Qoyyuum, Laa Ta-khudzuhuu Sinatuw Walaa Nauum, Lahuu Maa Fis-Samaawaati Wamaa Fil-Ardh, Mang-Dzalladzii Yasyfa’u ‘Indahuu Ilaa bi-Idznih, Ya’lamu Maa Baina Aidiihim Wamaa Kholfahum, Walaa Yuhiithuuna bi-Syai-im-min ‘Ilmihii Ilaa Bimaa Syaa, Wasi’a Kursiyyuhus-Samaawaati wal-Ardho Walaa Ya-uu-duhuu Hifzhuhumaa, Wahuwal ‘Aliyyul ‘Azhiim
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ
+ٱللَّهُ ٱلصَّمَدُ
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ
 
-Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad. (7x)
+Qul Huwalloohu Ahad,
+Alloohus-Shomad,
+Lam Yalid Wa Lam Yuulad,
+Wa Lam Yakul-Lahuu Kufuwan Ahad. (7x)
 
 ---
 
@@ -1905,7 +2339,10 @@ Artinya: Saya niat sholat sunnah Hajat dua roka’at karena اَللّهُ Ta’
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ١
+ٱللَّهُ ٱلصَّمَدُ ٢
+لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣
+وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤
 
 Bismillaahirrohmaanirrohiim
 
