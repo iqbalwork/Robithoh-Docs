@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-09-10T00:44:30Z",
+  "version": 16,
+  "updatedAt": "2026-09-11T01:02:52Z",
   "totalDocuments": 59,
   "documents": [
     {
@@ -261,16 +261,16 @@
     },
     {
       "fileName": "MANQOBAH_INDONESIA.md",
-      "sha256": "e26e97b0fe7a45e04b2298370474ae4277766bb5757b78003a6f3baa2b24c838",
-      "size": 47927,
+      "sha256": "91a6eb7c983e0c97df94516fb31a96d21e9acc562e4506fb469f4f67c4b156a7",
+      "size": 50240,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MANQOBAH_INDONESIA.md"
     },
     {
       "fileName": "MANQOBAH_SUNDA.md",
-      "sha256": "fd14309d8586c18ca2e5da02111532bd0f475acb6876c8d32db5617bf05771b9",
-      "size": 48683,
+      "sha256": "d29a9caccfa5efdbd0e4a9cf8d9e91656beb17cf1ae12a331accfdfefaac0ce6",
+      "size": 48783,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_SUNDA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_SUNDA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MANQOBAH_SUNDA.md"
