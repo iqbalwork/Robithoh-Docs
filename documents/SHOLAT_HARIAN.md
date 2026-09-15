@@ -1,7 +1,5 @@
 # SHOLAT SUNNAH HARIAN TQN
 
-> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Sholat Sunnah Harian TQN](PENGANTAR_SHOLAT_HARIAN_TQN.md)
-
 ---
 
 ## WAKTU MALAM

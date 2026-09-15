@@ -1,7 +1,5 @@
 # KHOTAMAN TQN
 
-> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Khotaman TQN](PENGANTAR_KHOTAMAN_TQN.md)
-
 ---
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ

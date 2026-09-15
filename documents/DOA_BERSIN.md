@@ -1,8 +1,6 @@
 # DO'A BERSIN
 ## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
-
 ---
 
 ### Tata Cara & Bacaan Do'a Bersin

@@ -1,7 +1,5 @@
 # SHOLAT SUNNAH TAHUNAN TQN
 
-> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Sholat Sunnah Tahunan TQN](PENGANTAR_SHOLAT_TAHUNAN_TQN.md)
-
 ---
 
 ---
