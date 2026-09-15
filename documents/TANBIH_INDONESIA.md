@@ -22,7 +22,7 @@ Semoga ada dalam kebahagiaan, dikaruniai الله Subhanahu Wata’ala kebahagia
 
 Pun pula semoga Pimpinan Negara bertambah kemuliaan dan keagungannya supaya dapat melindungi dan membimbing seluruh rakyat dalam keadaan aman, adil dan makmur dhohir dan bathin.
 
-Pun kami tempat orang bertanya Thoriqoh Qodirriyah Naqsyabandiyah Ma'had Suryalaya Sirnarasa PPKN, menghaturkan dengan tulus ikhlas, Wasiat kepada segenap murid-murid,  berhati- hatilah dalam segala hal, jangan sampai berbuat yang bertentangan dengan peraturan AGAMA dan NEGARA.
+Pun kami tempat orang bertanya tentang Thoriqoh Qodirriyah Naqsyabandiyah Ma'had Suryalaya Sirnarasa PPKN, menghaturkan dengan tulus ikhlas, Wasiat kepada segenap murid-murid,  berhati- hatilah dalam segala hal, jangan sampai berbuat yang bertentangan dengan peraturan AGAMA dan NEGARA.
 
 Ta’atilah keduanya tadi sepantasnya, demikianlah sikap manusia yang tetap dalam keimanan, tegasnya dapat mewujudkan kerelaan terhadap AGAMA dan NEGARA, taat kepada HADLROT ILLAAHI yang membuktikan perintah dalam AGAMA dan NEGARA.
 
@@ -30,7 +30,7 @@ Insyafilah hai murid-murid sekalian, janganlah terpaut oleh bujukan nafsu, terpe
 
 Lebih baik buktikanlah kebajikan yang timbul dari kesucian :
 
-1.Terhadap orang-orang yang lebih tinggi daripada kita baik dhohir maupun bathin mesti kita hormati, begitulah semestinya, hidup rukun dan saling harga-menghargai.
+1.Terhadap orang-orang yang lebih tinggi daripada kita baik dhohir dan bathin mesti kita hormati, begitulah semestinya, hidup rukun dan saling harga-menghargai.
 
 2.Terhadap sesama yang sederajat dengan kita dalam segala-galanya, jangan sampai terjadi persengketaan, sebaliknya mesti bersikap rendah hati, bergotong-royong dalam melaksanakan perintah AGAMA dan NEGARA, jangan sampai terjadi perselisihan dan persengketaan. Kalau-kalau kita terkena firman-Nya : “Adzabun Alim”, yang berarti duka nestapa untuk selama-lamanya dari dunia sampai dengan akhirat  (badan payah hati susah).
 
@@ -48,11 +48,11 @@ Adapun soal keagamaan, itu terserah agamanya masing-masing, mengingat Suroh Al-K
 
 Cobalah renungakan pepatah leluhur kita:  “ HENDAKLAH KITA BERSIKAP BUDIMAN, TERTIB DAN DAMAI. ANDAIKAN TIDAK DEMIKIAN, PASTI SESAL DAHULU PENDAPATAN, SESAL KEMUDIAN TAK BERGUNA”, Karena yang menyebabkan penderitaan diri pribadi itu adalah akibat dari amal perbuatan diri sendiri.
 
-Dalam surat An-Nahl ayat 112 diterangkan bahwa : “Tuhan yang Maha Esa telah memberikan contoh, yakni tempat maupun kampung, desa maupun negara yang dahulunya aman dan tenteram, gemah ripah loh jinawi, namun penduduknya / penghuninya mengingkari nikmat-nikmat الله , maka lalu berkecamuklah bencana kelaparan, penderitaan dan ketakutan yang disebabkan sikap dan perbuatan mereka sendiri”.
+Dalam surat An-Nahl ayat 112 diterangkan bahwa : “Tuhan yang Maha Esa telah memberikan contoh, yakni tempat maupun kampung, desa dan negara yang dahulunya aman dan tenteram, gemah ripah loh jinawi, namun penduduknya / penghuninya mengingkari nikmat-nikmat الله , maka lalu berkecamuklah bencana kelaparan, penderitaan dan ketakutan yang disebabkan sikap dan perbuatan mereka sendiri”.
 
-Oleh karena demikian, hendaklah segenap murid-murid bertindak teliti dalam segala jalan yang ditempuh, guna kebaikan dhohir-bathin, dunia maupun akhirat, supaya hati tenteram, jasad nyaman, jangan sekali-kali timbul persengketaan, tidak lain tujuannya “ BUDI UTAMA JASMANI SEMPURNA “ (Cageur-Bageur).
+Oleh karena demikian, hendaklah segenap murid-murid bertindak teliti dalam segala jalan yang ditempuh, guna kebaikan dhohir-bathin, dunia dan akhirat, supaya hati tenteram, jasad nyaman, jangan sekali-kali timbul persengketaan, tidak lain tujuannya “ BUDI UTAMA JASMANI SEMPURNA “ (Cageur-Bageur).
 
-Tiada lain amalan kita, Thoriqoh Qodirriyah Naqsyabandiyah Ma'had Suryalaya Sirnarasa PPKN amalkan sebaik-baiknya guna mencapai segala kebajikan, menjauhi segala kejahatan dhohir bathin yang bertalian dengan jasmani maupun rohani, yang selalu diselimuti bujukan nafsu, digoda oleh perdaya syetan.
+Tiada lain amalan kita, Thoriqoh Qodirriyah Naqsyabandiyah Ma'had Suryalaya Sirnarasa PPKN amalkan sebaik-baiknya guna mencapai segala kebajikan, menjauhi segala kejahatan dhohir bathin yang bertalian dengan jasmani dan rohani, yang selalu diselimuti bujukan nafsu, digoda oleh perdaya syetan.
 
 Wasiat ini mesti dilaksanakan dengan seksama oleh segenap murid-murid agar supaya mencapai keselamatan DUNIA dan AKHIRAT.
 
