@@ -1,4 +1,6 @@
-# DZIKIR
+# DZIKIR HARIAN TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Dzikir Harian TQN](PENGANTAR_DZIKIR_TQN.md)
 
 ---
 

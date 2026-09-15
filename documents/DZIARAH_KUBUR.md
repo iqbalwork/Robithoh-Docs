@@ -1,8 +1,8 @@
-# ZIAROH KUBUR
+# ZIAROH KUBUR TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Tahlil & Ziaroh Qubur TQN](PENGANTAR_TAHLIL_ZIAROH_TQN.md)
 
 ---
-
-Ziaroh Kubur
 
 ---
 

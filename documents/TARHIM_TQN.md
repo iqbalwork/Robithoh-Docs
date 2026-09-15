@@ -1,4 +1,6 @@
-# TARHIM
+# WAKTU HENDAK SHUBUH (TARHIM, DUSTUR, SHOLAWAT) TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Waktu Hendak Shubuh TQN](PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md)
 
 ---
 

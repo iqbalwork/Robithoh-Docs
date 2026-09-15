@@ -1,4 +1,6 @@
-# Sholat Lailatul Qodar
+# SHOLAT LAILATUL QODAR TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Sholat Sunnah Bulanan TQN](PENGANTAR_SHOLAT_BULANAN_TQN.md)
 
 ---
 

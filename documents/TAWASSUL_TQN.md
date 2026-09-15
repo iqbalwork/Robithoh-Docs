@@ -1,8 +1,8 @@
-# TAWASUL
+# TAWASSUL TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Tawassul TQN](PENGANTAR_TAWASSUL_TQN.md)
 
 ---
-
-TAWASUL
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 

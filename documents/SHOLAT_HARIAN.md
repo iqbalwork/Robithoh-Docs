@@ -1,6 +1,10 @@
-## WAKTU MALAM
+# SHOLAT SUNNAH HARIAN TQN
 
-**Waktu Malam :**
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Sholat Sunnah Harian TQN](PENGANTAR_SHOLAT_HARIAN_TQN.md)
+
+---
+
+## WAKTU MALAM
 
 1. Mandi Taubat (Pukul: 00.01 WIB)
 2. Sholat Sunnah Syukrul Wudhu 2 Roka’at

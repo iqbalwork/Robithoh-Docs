@@ -1,8 +1,8 @@
-# KHOTAMAN
+# KHOTAMAN TQN
+
+> 📖 **Pengantar & Tatacara Bab**: [Baca Pengantar Khotaman TQN](PENGANTAR_KHOTAMAN_TQN.md)
 
 ---
-
-KHOTAMAN
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 
