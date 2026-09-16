@@ -16,7 +16,7 @@ Setelah semua duduk, mulai membaca tawasul dengan cara seperti dibawah ini :
 
 Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah.
 
-*Artinya : Yaa اَللّهُ semoga disampaikan bacaan fatihah ini kehadapan Nabi Besar Muhammad SAW dan kepada keluarganya, sahabat, istri, anak cucu dan ahli baitnya dan bagi siapa saja yang masuk didalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
+*Artinya : Yaa اَللّهُ semoga disampaikan bacaan fatihah ini kehadapan Nabi Besar Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarganya, sahabat, istri, anak cucu dan ahli baitnya dan bagi siapa saja yang masuk didalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
 ثُمَّ اِلٰى اَرْوَاحِ أَبَاِئهٖ وَأُمَّهَاتِهِ وَاِخْوَانِهٖ مِنَ الْأَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَاِلٰى الْمَلَاِئكَةِ المُقَرَّبِيْنَ وَالْكَرُوْبِيِّيْنَ وَالشُّهَدآءِ والصَّالِحِيْنَ وَاٰلِ كُلٍّ وَاَصْحَابِ كُلٍّ وَاِلٰى رُوْحِ أَبِيْنَا أٰدَمَ وَأُمِّنَا حَوَاءَ وَمَا تَنَاسَلَ بَيْنَهُمَا اِلٰى يَوْمِ الدِّيْنِ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
@@ -138,7 +138,7 @@ Astaghfirulloohal Ghofuuror Rohiim (3x)
 
 Alloohumma sholli ‘alaa Sayyidinaa Muhammadiw wa ‘alaa aalihii Wa shohbihii wa sallim (3x)
 
-*Artinya : Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad SAW dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
+*Artinya : Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
 
 اِلَهِي اَنْتَ مَقْصُودِيْ وَرِضاَكَ مَطْلُوبِي اَعْطِنِيْ مَحَبَتَكَ وَمَعْرِفَتَكَ وَاَعْطِنِيْ مَعَكَ اَبَدَا
 
@@ -170,7 +170,7 @@ Kemudian berdoa dengan doa berikut ini :
 
 Bismillaahirrohmaanirrohiim. Allohumma sholli ‘alaa Sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad, sholaatan tunjiinaa bihaa min jamii’il ahwaali wal aafaat, wa taqdhiilanaa bihaa jamii’al haajaat, wa tuthohhirunaa bihaa min jamii’is sayyi’aat, wa tarfa’unaa bihaa ‘indaka a’lad darojaat, wa tuballighunaa bihaa aqshol ghooyaat min jamii’il khoiroot fil hayaati wa ba’dal mamaat. Innal ladziina yubaayi‘uunaka innamaa yubaayi ‘uunalloha, yadulloohi fauqo aidiihim, faman nakatsa fa’innamaa yankutsu ‘alaa nafsih, wa man aufaa bimaa ‘aahada ‘alaihullooha fasayu’tiihi ajron ‘azhiimaa.
 
-*Artinya : Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad SAW dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yan tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
+*Artinya : Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yan tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
 
 Do’a ini dapat ditambah dengan doa-doa lainnya yang dikehendaki.
 
@@ -180,7 +180,7 @@ Do’a ini dapat ditambah dengan doa-doa lainnya yang dikehendaki.
 
 Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah
 
-*Artinya : Semoga disampaikan kepada junjungan kami Nabi Muhammad SAW, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
+*Artinya : Semoga disampaikan kepada junjungan kami Nabi Muhammad Shollallohu 'Alaihi Wasallam, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
 ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْناَ رَاسَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَالسَّيِّدِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ اَلْقَادِرِي اَلنَّقْشَبَنْدِي اَلْكَامِلُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 

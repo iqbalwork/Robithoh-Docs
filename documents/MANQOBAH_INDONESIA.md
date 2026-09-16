@@ -42,7 +42,7 @@ Bismillaahirrohmaanirroohim. Alaa inna Auliyaa’alloohi laa khoufun ‘alaihim 
 
 Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu lill Muttaqiin, walaa ‘udwaana illaa ‘alazh zhoolimiin, wash sholaatu was salaamu ‘alaa Sayidinaa Muhammadin wa ‘alaa aalihii wa shohbihii ajma’iin, Ammaa ba’du:
 
-“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad SAW berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
+“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
 Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
@@ -146,7 +146,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Syaikh Abdul Qodir Al Jailani sangat takut kepada اَللّهُ SWT, oleh karena itu beliau mudah terharu serta mudah mengeluarkan air mata. Doanya dikobul اَللّهُ. Beliau seorang dermawan, jauh dari keburukan dan selalu dekat dengan kebaikan. Berani dan kokoh dalam mempertahankan hak, tegas dalam menghadapi kemungkaran. Pantang menolak orang yang meminta-minta walupun yang dimintanya pakaian yang sedang beliau pakai. Tidak marah karena hawa nafsu, tidak memberi pertolongan yang bukan karena اَللّهُ.
 
-Beliau diwarisi akhlak Nabi Muhammad SAW, tampan Nabi Yusuf as, benar Sayyidina Abu Bakar Ash-Shiddiq ra, adil Umar bin Khothob ra; Hilim Sayyidina Utsman bin Affan ra, kegagahan serta keberanian sayidina Ali bin Abi Tholib karromallohu Wajhah.
+Beliau diwarisi akhlak Nabi Muhammad Shollallohu 'Alaihi Wasallam, tampan Nabi Yusuf as, benar Sayyidina Abu Bakar Ash-Shiddiq ra, adil Umar bin Khothob ra; Hilim Sayyidina Utsman bin Affan ra, kegagahan serta keberanian sayidina Ali bin Abi Tholib karromallohu Wajhah.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -170,7 +170,7 @@ Perihara olehmu kehormatan guru-guru, dan berbuat baiklah kepada orang lain, ber
 
 Ketahuilah bahwa hakikat kemiskinan adalah perlu kepada orang lain, dan hakikat tidak perlu kepada orang lain. Tasawwuf dicapai dengan jalan lapar dan pantangan dari hal-hal yang disukai dan dihalalkan, dan tidak banyak bicara, jika kamu berhadapan dengan orang faqir, jangan dimulai dengan ilmu, sebab akan menjauh denganmu. Sebaiknya, hendaklah dimulai dengan kasih sayang, bersikap lembutlah terhadapnya, membuatnya lebih dekat padamu.
 
-Tasawwuf dibangun diatas delapan hal yakni; 1. Dermawan, 2. Ridlo, 3. Sabar, 4. ‘Isyaroh, 5. Mengembara, 6. Berbusana bulu, 7. Pecinta alam, dan faqir. Dermawan Nabi Ibrohim, ridho Nabi Ishaq, sabar Nabi Ayyub, Isyarohnya Nabi Zakaria, mengembara seperti Nabi Yusuf, berbusana wool seperti Nabi Yahya, pecinta alam Nabi Isa, dan kefakiran Nabi Muhammad SAW.
+Tasawwuf dibangun diatas delapan hal yakni; 1. Dermawan, 2. Ridlo, 3. Sabar, 4. ‘Isyaroh, 5. Mengembara, 6. Berbusana bulu, 7. Pecinta alam, dan faqir. Dermawan Nabi Ibrohim, ridho Nabi Ishaq, sabar Nabi Ayyub, Isyarohnya Nabi Zakaria, mengembara seperti Nabi Yusuf, berbusana wool seperti Nabi Yahya, pecinta alam Nabi Isa, dan kefakiran Nabi Muhammad Shollallohu 'Alaihi Wasallam.
 
 Bila kamu berkumpul bersama orang kaya, perlihatkan kegagahanmu, kerendahan hati bila berkumpul dengan orang miskin. Hendaknya kamu ikhlas dalam setiap perbuatan. Seharusnya selalu mengingat اَللّهُ. Jangan berprasangka buruk Kepada اَللّهُ. Harusnya berserah diri kepada اَللّهُ dalam segala perbuatan. Jangan menggantungkan diri kepada orang lain, walaupun keluarga walaupun teman sejawat. Layani faqir miskin dengan 3 hal; pertama, tawadhu’; kedua, budi pekerti; dan ketiga, kebeningan hati.
 
@@ -178,7 +178,7 @@ Perhatikan olehmu bahwa yang paling dekat kepada اَللّهُ ialah orang yang
 
 Bila bergaul dengan orang miskin, berwasiatlah dengan kebenaran dan kesabaran. Cukup bagimu dari dunia itu dua hal: pertama, bergaul dengan orang miskin, kedua menghormati wali. Selain dari pada اَللّهُ, segala sesuatu itu jangan dipandang cukup, gagah kepada yang dibawahmu adalah pengecut, gagah terhadap sesuatu adalah lemah dan gagah kepada orang yang lebih tinggi kedudukanya adalah sombong. Ketahuilah bahwa Tasawwuf dan fakir merupakan Dwi Tunggal kebenaran yang hakiki, bukan main-main, oleh karena itu jangan dicampur dengan main-main”.
 
-Demikian wasiat ayah, semoga اَللّهُ melimpahkan taufiq dan hidayahnya kepadamu dan kepada murid-murid, atau kepada siapapun yang mendengar wasiat ini, semoga dapat mengamalkanya dengan syafa’at junjungan kita Nabi Muhammad SAW, Aamiin ya Robbal ‘alamin.
+Demikian wasiat ayah, semoga اَللّهُ melimpahkan taufiq dan hidayahnya kepadamu dan kepada murid-murid, atau kepada siapapun yang mendengar wasiat ini, semoga dapat mengamalkanya dengan syafa’at junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam, Aamiin ya Robbal ‘alamin.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -280,9 +280,9 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Diriwayatkan di dalam kitab Asrorut Tholibin, Syaikh Abdul Qodir pada waktu melewati suatu tempat, bertemu dengan seorang umat Islam sedang berdebat dengan seorang umat Nasrani. Beliau menyikapi dengan seksama dan menanyakan apa yang menjadi sebab perdebatan itu, kata orang Muslim: ” Kami sedang membangga-banggakan Nabi kami masing-masing, dan saya berkata padanya, Nabi Muhammad-lah yang paling utama”. Kata orang Nasrani: “Nabi Isa-lah yamg paling sempurna”. Lalu Syaikh bertanya kepada orang Nasrani: “Apa yang menjadi dasar kamu mengatakan bahwa Nabi Isa-lah lebih sempurna daripada Nabi Muhammad?”.
 
-Orang Nasrani menjawab: “Nabi Isa bisa menghidupkan orang yang sudah mati”. Syekh berkata lagi: “Kamu tahu aku bukan Nabi, aku hanya pengikut Nabi Muhammad SAW? Kalau aku bisa menghidupkan orang yang sudah mati, kamu bersedia untuk beriman kepada Nabi Muhammad SAW ?”. “Baik, saya mau beriman dan masuk agama Islam”, jawab orang Nasrani itu. “Kalau begitu, mari kita mencari kuburan”. Lanjut Syaikh.
+Orang Nasrani menjawab: “Nabi Isa bisa menghidupkan orang yang sudah mati”. Syekh berkata lagi: “Kamu tahu aku bukan Nabi, aku hanya pengikut Nabi Muhammad Shollallohu 'Alaihi Wasallam? Kalau aku bisa menghidupkan orang yang sudah mati, kamu bersedia untuk beriman kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam ?”. “Baik, saya mau beriman dan masuk agama Islam”, jawab orang Nasrani itu. “Kalau begitu, mari kita mencari kuburan”. Lanjut Syaikh.
 
-Setelah mereka menemukan sebuah kuburan tua, sudah berusia lima ratus tahun, lalu Syaikh mengulangi lagi pertanyaannya: “Nabi Isa kalau menghidupkan orang yang sudah mati bagaimana caranya?”. Orang Nasrani menjawab: “Beliau cukup dengan mengucapkan QUM BIIDZNILLAH (Bangunlah dengan Izin اَللّهُ)”. “Nah sekarang kamu perhatikan dan dengarkan baik-baik !”, kata Syaikh, lalu beliau menghadap ke kuburan tadi sambil mengucapkan: “QUM BIIDZNII (Bangunlah dengan izinku)”. Kuburan terbelah dua, keluarlah mayat itu sambil bernyanyi. Konon pada waktu hidupnya ia seorang penyanyi. Melihat dan menyaksikan peristiwa tersebut, orang Nasrani itu berubah keyakinan menjadi beriman kepada Nabi Muhammad SAW dan masuk agama Islam.
+Setelah mereka menemukan sebuah kuburan tua, sudah berusia lima ratus tahun, lalu Syaikh mengulangi lagi pertanyaannya: “Nabi Isa kalau menghidupkan orang yang sudah mati bagaimana caranya?”. Orang Nasrani menjawab: “Beliau cukup dengan mengucapkan QUM BIIDZNILLAH (Bangunlah dengan Izin اَللّهُ)”. “Nah sekarang kamu perhatikan dan dengarkan baik-baik !”, kata Syaikh, lalu beliau menghadap ke kuburan tadi sambil mengucapkan: “QUM BIIDZNII (Bangunlah dengan izinku)”. Kuburan terbelah dua, keluarlah mayat itu sambil bernyanyi. Konon pada waktu hidupnya ia seorang penyanyi. Melihat dan menyaksikan peristiwa tersebut, orang Nasrani itu berubah keyakinan menjadi beriman kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam dan masuk agama Islam.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -310,7 +310,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 ---
 
-### Manqobah Ke-11 : Telapak Kaki Nabi Muhammad SAW Memijak Pundak Syaikh Abdul Qodir Pada Malam Mi’roj
+### Manqobah Ke-11 : Telapak Kaki Nabi Muhammad Shollallohu 'Alaihi Wasallam Memijak Pundak Syaikh Abdul Qodir Pada Malam Mi’roj
 
 Syaikh Rosyid Al-Junaidi meriwayatkan, pada malam Mi’roj, malaikat datang menghadap Rosululloh Shollallohu 'Alaihi Wasallam membawa buroq. Kakinya bercahaya laksana bulan dan paku telapak kakinya bersinar seperti sinar bintang.
 

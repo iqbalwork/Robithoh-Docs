@@ -12,7 +12,7 @@ KHOTAMAN
 
 *Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah*
 
-*Yaa اَللّهُ semoga disampaikan bacaan fatihah ini kehadapan Nabi Besar Muhammad SAW dan kepada keluarganya, sahabat, istri, anak cucu dan ahli baitnya dan bagi siapa saja yang masuk didalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
+*Yaa اَللّهُ semoga disampaikan bacaan fatihah ini kehadapan Nabi Besar Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarganya, sahabat, istri, anak cucu dan ahli baitnya dan bagi siapa saja yang masuk didalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
 ثُمَّ اِلٰى اَرْوَاحِ أَبَاِئهٖ وَأُمَّهَاتِهِ وَاِخْوَانِهٖ مِنَ الْأَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَاِلٰى الْمَلَاِئكَةِ المُقَرَّبِيْنَ وَالْكَرُوْبِيِّيْنَ وَالشُّهَدآءِ والصَّالِحِيْنَ وَاٰلِ كُلٍّ وَاَصْحَابِ كُلٍّ وَاِلٰى رُوْحِ أَبِيْنَا أٰدَمَ وَأُمِّنَا حَوَاءَ وَمَا تَنَاسَلَ بَيْنَهُمَا اِلٰى يَوْمِ الدِّيْنِ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 

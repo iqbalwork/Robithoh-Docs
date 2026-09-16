@@ -1,7 +1,7 @@
 # PENGANTAR TAWASSUL
 ## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-*Tawassul* artinya mempercepat sampai tujuan atau berperantara. Dalam hal ini maksudnya seorang Ikhwan Thoriqoh Qoodiriyyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dianjurkan dan diperintahkan untuk *bertawassul* kepada Nabi Muhammad SAW, para sahabat, serta para *salafush sholihin* dalam segala hal dan dalam setiap do'a.
+*Tawassul* artinya mempercepat sampai tujuan atau berperantara. Dalam hal ini maksudnya seorang Ikhwan Thoriqoh Qoodiriyyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dianjurkan dan diperintahkan untuk *bertawassul* kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam, para sahabat, serta para *salafush sholihin* dalam segala hal dan dalam setiap do'a.
 
 Hal ini didasari oleh firman Alloh SWT dalam Al-Qur'an:
 

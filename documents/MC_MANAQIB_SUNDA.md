@@ -11,7 +11,7 @@ Pangajian anti gempa manaqib ieu dina raraga ngarayakeun 9 kamenangan :
 3. Lailatur Qodar
 4. Idul Fitri
 5. Minal ‘aa idiin wal faa iziin
-6. Maulid sareng Maulud Nabi Muhammad SAW
+6. Maulid sareng Maulud Nabi Muhammad Shollallohu 'Alaihi Wasallam
 7. Kajayaan Agama sareng Nagara (Kabinet Merah Putih)
 8. Katahanan Nasional NKRI (Kabinet Merah Putih)
 9. Peradaban Dunia (Kabinet Merah Putih)

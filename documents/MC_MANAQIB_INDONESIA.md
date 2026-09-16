@@ -11,7 +11,7 @@ Pengajian Anti Gempa, manaqiban kali ini dalam rangka merayakan 9 kemenangan :
 3. Lailatul Qodar
 4. I’dul fithri
 5. Minal A’idin Wal Faizin
-6. Maulid dan Maulud Nabi Muhammad SAW
+6. Maulid dan Maulud Nabi Muhammad Shollallohu 'Alaihi Wasallam
 7. Kejayaan Agama dan Negara (Kabinet Merah Putih)
 8. Ketahanan Nasional NKRI (Kabinet Merah Putih)
 9. Peradaban Dunia (Kabinet Merah putih)

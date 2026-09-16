@@ -10,7 +10,7 @@ TAWASUL
 
 *Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah*.
 
-*Yaa اَللّهُ semoga disampaikan pahala bacaan Faatihah ini kehadapan Nabi Besar Muhammad Saw dan kepada keluarga, sahabat, istri, anak cucu dan Ahli Baitnya dan bagi siapa saja yang masuk di dalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan Al-Fatihah*
+*Yaa اَللّهُ semoga disampaikan pahala bacaan Faatihah ini kehadapan Nabi Besar Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, sahabat, istri, anak cucu dan Ahli Baitnya dan bagi siapa saja yang masuk di dalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan Al-Fatihah*
 
 ثُمَّ اِلٰى اَرْوَاحِ أَبَاِئهٖ وَأُمَّهَاتِهِ وَاِخْوَانِهٖ مِنَ الْأَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَاِلٰى الْمَلَاِئكَةِ المُقَرَّبِيْنَ وَالْكَرُوْبِيِّيْنَ وَالشُّهَدآءِ والصَّالِحِيْنَ وَاٰلِ كُلٍّ وَاَصْحَابِ كُلٍّ وَاِلٰى رُوْحِ أَبِيْنَا أٰدَمَ وَأُمِّنَا حَوَاءَ وَمَا تَنَاسَلَ بَيْنَهُمَا اِلٰى يَوْمِ الدِّيْنِ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
@@ -154,7 +154,7 @@ TAWASUL
 
 *Bismillaahirrohmanirrohiim. Alloohumma sholli sholaatan kaamilatan wa sallim salaaman taaman ‘alaa sayyidina Muhammadinil ladzii tanhallu bihil ‘uqodu wa tanfariju bihil kurobu wa tuqdhoo bihil hawaa’iju wa tunaalu bihir roghoo’ibu wa husnul khowaatimi wa yustasqol ghomaamu biwajhihil Kariimi wa ‘alaa aalihi wa shohbihii fii kulli lamhatiw wa nafasin bi ‘adadi kulli ma’luumillak.*(3x)*Al-Fatihah*
 
-*Dengan menyebut Nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Ya اَللّهُ! Limpahkanlah sholawat serta keselamatan yang sempurna atas penghulu kami Nabi Muhammad Saw yang telah mempertemukan salah satu ikatan kepercayaan yang bulat. Dan melepaskan dengannya dari kesengsaraan, dan mengabulkan segala  maksud dan mendapatkan segala keinginan dan husnul khatimah (baik disaat terakhir) dan menghapuskan segala duka nestapa karena Zat-Mu Yang Mulia, dan atas para keluarganya juga para sahabatnya dalam setiap kedip pandangan dan pernafasan, sebanyak yang Engkau ketahui, Al-Fatihah*
+*Dengan menyebut Nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Ya اَللّهُ! Limpahkanlah sholawat serta keselamatan yang sempurna atas penghulu kami Nabi Muhammad Shollallohu 'Alaihi Wasallam yang telah mempertemukan salah satu ikatan kepercayaan yang bulat. Dan melepaskan dengannya dari kesengsaraan, dan mengabulkan segala  maksud dan mendapatkan segala keinginan dan husnul khatimah (baik disaat terakhir) dan menghapuskan segala duka nestapa karena Zat-Mu Yang Mulia, dan atas para keluarganya juga para sahabatnya dalam setiap kedip pandangan dan pernafasan, sebanyak yang Engkau ketahui, Al-Fatihah*
 
 ۞۞۞
 

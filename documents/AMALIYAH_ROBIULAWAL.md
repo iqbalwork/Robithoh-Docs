@@ -44,7 +44,7 @@ Bismillaahirrohmaanirroohim. Alaa inna Auliyaa’alloohi laa khoufun ‘alaihim 
 
 Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu lill Muttaqiin, walaa ‘udwaana illaa ‘alazh zhoolimiin, wash sholaatu was salaamu ‘alaa Sayidinaa Muhammadin wa ‘alaa aalihii wa shohbihii ajma’iin, Ammaa ba’du:
 
-“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad SAW berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
+“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
 Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
@@ -68,7 +68,7 @@ Manqobah Ke-4 : Budi Pekerti Syaikh Abdul Qodir
 
 Syaikh Abdul Qodir Al Jailani sangat takut kepada اَللّهُ SWT, oleh karena itu beliau mudah terharu serta mudah mengeluarkan air mata. Doanya dikobul اَللّهُ. Beliau seorang dermawan, jauh dari keburukan dan selalu dekat dengan kebaikan. Berani dan kokoh dalam mempertahankan hak, tegas dalam menghadapi kemungkaran. Pantang menolak orang yang meminta-minta walupun yang dimintanya pakaian yang sedang beliau pakai. Tidak marah karena hawa nafsu, tidak memberi pertolongan yang bukan karena اَللّهُ.
 
-Beliau diwarisi akhlak Nabi Muhammad SAW, tampan Nabi Yusuf as, benar Sayyidina Abu Bakar Ash-Shiddiq ra, adil Umar bin Khothob ra; Hilim Sayyidina Utsman bin Affan ra, kegagahan serta keberanian sayidina Ali bin Abi Tholib karromallohu Wajhah.
+Beliau diwarisi akhlak Nabi Muhammad Shollallohu 'Alaihi Wasallam, tampan Nabi Yusuf as, benar Sayyidina Abu Bakar Ash-Shiddiq ra, adil Umar bin Khothob ra; Hilim Sayyidina Utsman bin Affan ra, kegagahan serta keberanian sayidina Ali bin Abi Tholib karromallohu Wajhah.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 

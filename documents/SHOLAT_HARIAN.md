@@ -224,7 +224,7 @@ Alloohumma bihaqqi shalatit Tahajjudi, wa bihaqqi Bismillahirrahmanirrahim, wa b
 
 Washollalloohu ‘alaa sayyidinaa Muhammadin wa ‘alaa aalihii wa ash haabihii wa ‘alaa saairil anbiyaa i wal mursaliin, wa ‘alaa aalihim wa ash haabihim ajma’in. birohmatika yaa arharroohimiin.*”
 
-*Ya اَللّهُ dengan Hak Sholat Tahajjud, dengan Hak Bismillahirrahmanirrohim, dan dengan Hak Tuan dan Pangeran kami Muhammad SAW, jadikanlah aku, istriku (suamiku), dan anak-anakku termasuk dalam golongan Hamba-Hamba-Mu yang sholeh. Ya اَللّهُ jadikanlah keimananku selalu menyelimuti hatiku, berikanlah keyakinan yang terus menerus, hingga tidak ada yang dapat menimpaku kecuali sesuatu yang telah اَللّهُ tetapkan kepadaku, dengan Rahmat-Mu wahai Zat yang Maha Mengasihi orang-orang yang mengasihi.*
+*Ya اَللّهُ dengan Hak Sholat Tahajjud, dengan Hak Bismillahirrahmanirrohim, dan dengan Hak Tuan dan Pangeran kami Muhammad Shollallohu 'Alaihi Wasallam, jadikanlah aku, istriku (suamiku), dan anak-anakku termasuk dalam golongan Hamba-Hamba-Mu yang sholeh. Ya اَللّهُ jadikanlah keimananku selalu menyelimuti hatiku, berikanlah keyakinan yang terus menerus, hingga tidak ada yang dapat menimpaku kecuali sesuatu yang telah اَللّهُ tetapkan kepadaku, dengan Rahmat-Mu wahai Zat yang Maha Mengasihi orang-orang yang mengasihi.*
 
 ---
 

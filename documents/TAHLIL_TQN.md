@@ -10,7 +10,7 @@ Hadoroh kesatu
 
 *Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah.*
 
-Artinya : *Yaa اَللّهُ semoga disampaikan pahala bacaan Faatihah ini kehadapan Nabi Besar Muhammad Saw dan kepada keluarga, sahabat, istri, anak cucu dan Ahli Baitnya dan bagi siapa saja yang masuk di dalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan Al-Fatihah*
+Artinya : *Yaa اَللّهُ semoga disampaikan pahala bacaan Faatihah ini kehadapan Nabi Besar Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, sahabat, istri, anak cucu dan Ahli Baitnya dan bagi siapa saja yang masuk di dalam rumahnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan Al-Fatihah*
 
 Hadoroh kedua
 
@@ -157,7 +157,7 @@ Artinya : *Aku memohon ampunan kepada اَللّهُ yang Maha Pengampun dan Mah
 
 *Alloohumma sholli ‘alaa Sayyidinaa Muhammadiw wa ‘alaa aalihii Wa shohbihii wa sallim (3x)*
 
-Artinya : *Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad Saw dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
+Artinya : *Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
 
 اِلَهِي اَنْتَ مَقْصُودِيْ وَرِضاَكَ مَطْلُوبِي اَعْطِنِيْ مَحَبَتَكَ وَمَعْرِفَتَكَ وَاَعْطِنِيْ مَعَكَ اَبَدَا
 
@@ -189,7 +189,7 @@ Kemudian berdoa dengan doa berikut ini :
 
 *Bismillaahirrohmaanirrohiim. Allohumma sholli ‘alaa Sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad, sholaatan tunjiinaa bihaa min jamii’il ahwaali wal aafaat, wa taqdhiilanaa bihaa jamii’al haajaat, wa tuthohhirunaa bihaa min jamii’is sayyi’aat, wa tarfa’unaa bihaa ‘indaka a’lad darojaat, wa tuballighunaa bihaa aqshol ghooyaat min jamii’il khoiroot fil hayaati wa ba’dal mamaat. Innal ladziina yubaayi‘uunaka innamaa yubaayi ‘uunalloha, yadulloohi fauqo aidiihim, faman nakatsa fa’innamaa yankutsu ‘alaa nafsih, wa man aufaa bimaa ‘aahada ‘alaihullooha fasayu’tiihi ajron ‘azhiimaa.*
 
-Artinya : *Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad Saw dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yan tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
+Artinya : *Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yan tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
 
 (Kemudian dilanjutkan dengan Zikir berikut ini)
 
@@ -197,7 +197,7 @@ Artinya : *Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Peny
 
 *Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah*
 
-Artinya : *Semoga disampaikan kepada junjungan kami Nabi Muhammad Saw, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
+Artinya : *Semoga disampaikan kepada junjungan kami Nabi Muhammad Shollallohu 'Alaihi Wasallam, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
 ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْناَ رَاسَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَالسَّيِّدِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهمُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 

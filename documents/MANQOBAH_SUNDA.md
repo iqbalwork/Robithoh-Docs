@@ -35,7 +35,7 @@ Bismillaahirrohmaanirroohim. Alaa inna Auliyaa’alloohi laa khoufun ‘alaihim 
 
 Sugrining puji anu sampurna, sareng pangalem sagemblengna, eta tetep kagungan اَللّهُ anu mikawelas ka abdi-abdina, anu ngaluhurkeun darajat anu bakti ka Anjeuna.
 
-Rohmat sareng salam anu utami muga tetep ka pangafdolna Nabi nyaeta Kanjeng Nabi Muhammad SAW anu parantos dikiatan kalawan mu’jizat anu diutus jadi rohmat kasadayana alam, sareng kakulawargina, sareng kasadayana shohabat, sareng kasadayana Auliya اَللّهُ anu parantos diluhurkeun kalawan dipaparin pirang-pirang karomat. Amma ba’du
+Rohmat sareng salam anu utami muga tetep ka pangafdolna Nabi nyaeta Kanjeng Nabi Muhammad Shollallohu 'Alaihi Wasallam anu parantos dikiatan kalawan mu’jizat anu diutus jadi rohmat kasadayana alam, sareng kakulawargina, sareng kasadayana shohabat, sareng kasadayana Auliya اَللّهُ anu parantos diluhurkeun kalawan dipaparin pirang-pirang karomat. Amma ba’du
 
 Maka ieu sapucuk kitab anu kalintang ringkesna, nyarioskeun manaqibna Sulthonul Auliya wa imamil Ulama Sayyid Abdul Qodir Al-Jailani Qs , kenging metik tina kitab ‘Uquudul La’aali Fii Manaqibil Jayli , sareng tina kitab Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.
 
@@ -137,7 +137,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Ari akhlakna Sayyid Abdul Qodir, tegesna talajakna eta banget sieun ku اَللّهُ, sahingga gampil pisan kaluar cisocana, sareng diijabah du’ana, pohara barahanana, tebih tina kaawonan, kalintang caketna kana kasaean, barani sareng kukuh dina haq, bengis dina perkara mungkarot, tara bendu karna hawa nafsuna, tara nulungan anu lain karna اَللّهُ, tara nolak kanu jajaluk, sanajan anu nyuhunkeun anggoanana.
 
-Anjeuna kawaris akhlakna akhlak Kangjeng Nabi Muhammad SAW.  Kasepna kawaris kakasepan Kangjeng Nabi Yusuf as.  Benerna bener Sayyidina Abu Bakar Shiddiq ra.  Adilna adil Sayyidina Umar ra.  Hilimna, tegesna kashobaranana shobar Sayyidina Utsman ra.  Kagagahanana sareng kabaranianana Sayyidina Ali Karromalloh Wajhah.
+Anjeuna kawaris akhlakna akhlak Kangjeng Nabi Muhammad Shollallohu 'Alaihi Wasallam.  Kasepna kawaris kakasepan Kangjeng Nabi Yusuf as.  Benerna bener Sayyidina Abu Bakar Shiddiq ra.  Adilna adil Sayyidina Umar ra.  Hilimna, tegesna kashobaranana shobar Sayyidina Utsman ra.  Kagagahanana sareng kabaranianana Sayyidina Ali Karromalloh Wajhah.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -211,7 +211,7 @@ Jeung kudu nyaho maneh satemen-temena tashowwuf eta diadegkeunana kana 8 perkara
 
 8. Faqir.
 
-Ari barahan eta dipaparinkeun ka Nabi Ibròhhìm as, ari ridlo ka Nabi Ishàq as, ari shobar ka Nabi Ayyùb as, ari isyarah ka Nabi Zakariyyà as, ari ngumbara ka Nabi Yùsuf as, ari make bangsa bulu ka Nabi Yahyà as, ari leuleuweungan ka Nabi ‘Isà as,  ari faqir ka Kangjeng Nabi Muhammad SAW.
+Ari barahan eta dipaparinkeun ka Nabi Ibròhhìm as, ari ridlo ka Nabi Ishàq as, ari shobar ka Nabi Ayyùb as, ari isyarah ka Nabi Zakariyyà as, ari ngumbara ka Nabi Yùsuf as, ari make bangsa bulu ka Nabi Yahyà as, ari leuleuweungan ka Nabi ‘Isà as,  ari faqir ka Kangjeng Nabi Muhammad Shollallohu 'Alaihi Wasallam.
 
 Jeung kudu tembongkeun kumaneh kagagahan kabaranian maneh upama reureujeungan jeung anu beunghar.  Jeung kudu rendah upama reureujeungan jeung faqir.  Jeung maneh kudu ikhlas.  Jeung kudu langgeng nenjo ka اَللّهُ.  Jeung ulah salah sangka ka اَللّهُ tina sakabeh sabab.  Jeung kudu pasrah ka اَللّهُ dina sakabeh hal sakabeh tingkah. Jeung ulah tatagenan ka hiji jalma lantaran baraya atawa sobat.  Jeung kudu ngakhodaman fuqoro kalawan 3 perkara.
 
@@ -392,7 +392,7 @@ Dicarioskeun dina kitab Asroruth Tholibin, Sayyid Abdul Qodir hiji waktos ngalan
 Anjeuna mendak jalma islam keur paadu paloba-loba omong jeung bangsa nashroni. Teras ku Sayyid Abdul Qodir dipariksa sabab-sababna papaduan.
 
 Ceuk bangsa islam:
-“Eta Gusti, paalus-alus nabi. Sanggem abdi, utami Kangjeng Nabi Muhammad SAW. Ari sanggem ieu nashroni, utami Nabi Isa”.
+“Eta Gusti, paalus-alus nabi. Sanggem abdi, utami Kangjeng Nabi Muhammad Shollallohu 'Alaihi Wasallam. Ari sanggem ieu nashroni, utami Nabi Isa”.
 
 Dawuhan Sayyid Abdul Qodir ka nashroni:
 “Eta maneh nyebutkeun utami Nabi Isa, naon dalilna?”.

@@ -44,7 +44,7 @@ Bismillaahirrohmaanirroohim. Alaa inna Auliyaa’alloohi laa khoufun ‘alaihim 
 
 Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu lill Muttaqiin, walaa ‘udwaana illaa ‘alazh zhoolimiin, wash sholaatu was salaamu ‘alaa Sayidinaa Muhammadin wa ‘alaa aalihii wa shohbihii ajma’iin, Ammaa ba’du:
 
-“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad SAW berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
+“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
 Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
@@ -60,7 +60,7 @@ Perihara olehmu kehormatan guru-guru, dan berbuat baiklah kepada orang lain, ber
 
 Ketahuilah bahwa hakikat kemiskinan adalah perlu kepada orang lain, dan hakikat tidak perlu kepada orang lain. Tasawwuf dicapai dengan jalan lapar dan pantangan dari hal-hal yang disukai dan dihalalkan, dan tidak banyak bicara, jika kamu berhadapan dengan orang faqir, jangan dimulai dengan ilmu, sebab akan menjauh denganmu. Sebaiknya, hendaklah dimulai dengan kasih sayang, bersikap lembutlah terhadapnya, membuatnya lebih dekat padamu.
 
-Tasawwuf dibangun diatas delapan hal yakni; 1. Dermawan, 2. Ridlo, 3. Sabar, 4. ‘Isyaroh, 5. Mengembara, 6. Berbusana bulu, 7. Pecinta alam, dan faqir. Dermawan Nabi Ibrohim, ridho Nabi Ishaq, sabar Nabi Ayyub, Isyarohnya Nabi Zakaria, mengembara seperti Nabi Yusuf, berbusana wool seperti Nabi Yahya, pecinta alam Nabi Isa, dan kefakiran Nabi Muhammad SAW.
+Tasawwuf dibangun diatas delapan hal yakni; 1. Dermawan, 2. Ridlo, 3. Sabar, 4. ‘Isyaroh, 5. Mengembara, 6. Berbusana bulu, 7. Pecinta alam, dan faqir. Dermawan Nabi Ibrohim, ridho Nabi Ishaq, sabar Nabi Ayyub, Isyarohnya Nabi Zakaria, mengembara seperti Nabi Yusuf, berbusana wool seperti Nabi Yahya, pecinta alam Nabi Isa, dan kefakiran Nabi Muhammad Shollallohu 'Alaihi Wasallam.
 
 Bila kamu berkumpul bersama orang kaya, perlihatkan kegagahanmu, kerendahan hati bila berkumpul dengan orang miskin. Hendaknya kamu ikhlas dalam setiap perbuatan. Seharusnya selalu mengingat اَللّهُ. Jangan berprasangka buruk Kepada اَللّهُ. Harusnya berserah diri kepada اَللّهُ dalam segala perbuatan. Jangan menggantungkan diri kepada orang lain, walaupun keluarga walaupun teman sejawat. Layani faqir miskin dengan 3 hal; pertama, tawadhu’; kedua, budi pekerti; dan ketiga, kebeningan hati.
 
@@ -68,7 +68,7 @@ Perhatikan olehmu bahwa yang paling dekat kepada اَللّهُ ialah orang yang
 
 Bila bergaul dengan orang miskin, berwasiatlah dengan kebenaran dan kesabaran. Cukup bagimu dari dunia itu dua hal: pertama, bergaul dengan orang miskin, kedua menghormati wali. Selain dari pada اَللّهُ, segala sesuatu itu jangan dipandang cukup, gagah kepada yang dibawahmu adalah pengecut, gagah terhadap sesuatu adalah lemah dan gagah kepada orang yang lebih tinggi kedudukanya adalah sombong. Ketahuilah bahwa Tasawwuf dan fakir merupakan Dwi Tunggal kebenaran yang hakiki, bukan main-main, oleh karena itu jangan dicampur dengan main-main”.
 
-Demikian wasiat ayah, semoga اَللّهُ melimpahkan taufiq dan hidayahnya kepadamu dan kepada murid-murid, atau kepada siapapun yang mendengar wasiat ini, semoga dapat mengamalkanya dengan syafa’at junjungan kita Nabi Muhammad SAW, Aamiin ya Robbal ‘alamin.
+Demikian wasiat ayah, semoga اَللّهُ melimpahkan taufiq dan hidayahnya kepadamu dan kepada murid-murid, atau kepada siapapun yang mendengar wasiat ini, semoga dapat mengamalkanya dengan syafa’at junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam, Aamiin ya Robbal ‘alamin.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 

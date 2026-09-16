@@ -32,7 +32,7 @@
 *Yaa quthbu yaa fardu yaa umanaa,*  
 *Aghiitsuunii bighoutsatin, wandhuruunii binadhrotin,*  
 *Warhamuunii birohmatin, wahasshiluu muroodii,*  
-*Wamaqooshidii waquumuu 'alaa qodhooi hawaaijii 'inda nabiyyinaa Muhammadin SAW,*  
+*Wamaqooshidii waquumuu 'alaa qodhooi hawaaijii 'inda nabiyyinaa Muhammadin Shollallohu 'Alaihi Wasallam,*  
 *Sallamakumulloohu ta'aalaa fiddunyaa wal aakhiroh,*  
 *Alloohumma sholli 'alannabiyyil Khidhir 'alaihissalaam,*  
 
@@ -59,7 +59,7 @@
 > Dan kabulkanlah keinginan dan maksud kami  
 > Dan dukunglah aku dalam menunaikan hajatku  
 > *(Ucapkan niat dan hajatnya...)*  
-> Atas seidzin Nabi Muhammad SAW  
+> Atas seidzin Nabi Muhammad Shollallohu 'Alaihi Wasallam  
 > Selamatkanlah kami Yaa اَللّهُ di dunia dan di akhirat  
 > Semoga اَللّهُ menambah rahmat-Nya atas Nabi Khidr AS  
 > Al-Fatihah.

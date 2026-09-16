@@ -6,7 +6,7 @@
 
 Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah
 
-*Yaa اَللّهُ semoga disampaikan pahala bacaan fatihah ini kehadapan Nabi Besar Muhammad SAW dan kepada keluarga, sahabat, istri, anak cucu dan ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Faatihah*
+*Yaa اَللّهُ semoga disampaikan pahala bacaan fatihah ini kehadapan Nabi Besar Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, sahabat, istri, anak cucu dan ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Faatihah*
 
 أَسْتَغْفِرُ اللّٰهَ الْغَفُوْرَ الرَّحِيْمَ  (x٣)
 
@@ -18,7 +18,7 @@ Astaghfirulloohal Ghofuuror Rohiim (3x)
 
 Alloohumma sholli ‘alaa Sayyidinaa Muhammadiw wa ‘alaa aalihii Wa shohbihii wa sallim (3x)
 
-*Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad SAW dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
+*Yaa اَللّهُ limpahkanlah rahmat-Mu kepada sayyidina Muhammad Shollallohu 'Alaihi Wasallam dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
 
 اِلَهِي اَنْتَ مَقْصُودِيْ وَرِضاَكَ مَطْلُوبِي اَعْطِنِيْ مَحَبَتَكَ وَمَعْرِفَتَكَ وَاَعْطِنِيْ مَعَكَ اَبَدَا
 
@@ -56,7 +56,7 @@ Bismillaahirrohmaanirrohiim. Allohumma sholli ‘alaa Sayyidinaa Muhammad wa ‘
 
 Allohumma ahyinii miskiinan, wa amitnii miskiinan, wahsyurnii fii jumrotil masaakiin
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad SAW dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yang tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rahmat-Mu kepada Nabi Muhammad Shollallohu 'Alaihi Wasallam dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yang tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
 
 *Ya اَللّهُ, hidupkanlah aku dalam keadaan miskin, matikanlah aku dalam keadaan miskin, dan kumpulkanlah aku (pada hari kiamat) bersama rombongan orang-orang miskin*
 
@@ -72,7 +72,7 @@ Do’a ini dapat ditambah dengan do’a-do’a lainnya yang dikehendaki.
 
 Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai’in lillahi lahum, Al-Fatihah
 
-*Semoga disampaikan kepada junjungan kami Nabi Muhammad SAW, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
+*Semoga disampaikan kepada junjungan kami Nabi Muhammad Shollallohu 'Alaihi Wasallam, semoga اَللّهُ melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
 ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْناَ رَاسَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَالسَّيِّدِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهمُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
