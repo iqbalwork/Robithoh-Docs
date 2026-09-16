@@ -15,7 +15,7 @@ Pedoman ziaroh qubur dalam naskah ini merupakan ijazah langsung dari **Syaikh Ah
 ---
 
 > 🔗 **Tautan Naskah Utama**:
-> - [Bacaan Tahlil TQN Lengkap](TAHLIL_TQN.md)
-> - [Tata Cara Ziarah Kubur Lengkap](DZIARAH_KUBUR.md)
-> - [Tata Cara Ziarah Umum](DZIARAH_UMUM.md)
-> - [Tata Cara Ziarah Waliyulloh](DZIARAH_WALIYULLOH.md)
+> - Bacaan Tahlil TQN Lengkap
+> - Tata Cara Ziarah Kubur Lengkap
+> - Tata Cara Ziarah Umum
+> - Tata Cara Ziarah Waliyulloh

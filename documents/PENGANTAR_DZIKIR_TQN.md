@@ -12,7 +12,7 @@ Hal ini didasari Firman Alloh SWT dalam Al-Qur'an:
 ---
 
 > 📜 **Amanat Mursyid PPKN III**:  
-> *“Ditangan saudara-saudara adalah sebuah buku yang namanya ‘Amaliyah Mursyid’... Kalau sudah di Talqin wajib membaca buku ini, wajib membeli buku ini, wajib di sebar luaskan buku ini...”* — **[Baca Sambutan Lengkap Pangersa Abah Aos](SAMBUTAN_SESEPUH.md)**
+> *“Ditangan saudara-saudara adalah sebuah buku yang namanya ‘Amaliyah Mursyid’... Kalau sudah di Talqin wajib membaca buku ini, wajib membeli buku ini, wajib di sebar luaskan buku ini...”* — **Baca Sambutan Lengkap Pangersa Abah Aos**
 
 ---
 
@@ -39,4 +39,4 @@ Setelah mengamalkan Dzikir Jahar 165x dan do'a penutup dzikir, dilanjutkan denga
 
 ---
 
-> 🔗 **Tautan Naskah Utama**: [Lanjut ke Bacaan Dzikir Harian TQN](DZIKIR_TQN.md)
+> 🔗 **Tautan Naskah Utama**: Lanjut ke Bacaan Dzikir Harian TQN

@@ -12,5 +12,5 @@ Amaliyah Sholat Sunnah Bulanan di lingkungan Thoriqoh Qoodiriyyah Naqsyabandiyya
 ---
 
 > 🔗 **Tautan Naskah Utama**:
-> - [Panduan Sholat Sunnah Bulanan TQN](SHOLAT_BULANAN.md)
-> - [Tata Cara Sholat Syukur Lailatul Qodar](SHOLAT_LAILATUL_QODAR.md)
+> - Panduan Sholat Sunnah Bulanan TQN
+> - Tata Cara Sholat Syukur Lailatul Qodar

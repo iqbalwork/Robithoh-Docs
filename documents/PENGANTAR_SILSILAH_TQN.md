@@ -11,4 +11,4 @@ Dalam pengamalan Thoriqoh Qoodiriyyah Naqsyabandiyyah Ma'had Suryalaya Sirnarasa
 
 ---
 
-> 🔗 **Tautan Naskah Utama**: [Lanjut ke Daftar Lengkap Silsilah 38 Mursyid TQN](SILSILAH_TQN.md)
+> 🔗 **Tautan Naskah Utama**: Lanjut ke Daftar Lengkap Silsilah 38 Mursyid TQN

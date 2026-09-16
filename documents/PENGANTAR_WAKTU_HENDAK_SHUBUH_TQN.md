@@ -7,10 +7,10 @@ Amaliyah Waktu Hendak Shubuh merupakan rangkaian zikir, sholawat, dan puji-pujia
 
 ### Rangkaian 4 Bacaan Waktu Hendak Shubuh
 
-1. **[Tarhim Shubuh](TARHIM_TQN.md)**: Lantunan doa istighotsah dan tarhim memuji Baginda Nabi SAW, Khulafaur Rasyidin, dan memohon rahmat Alloh SWT.
-2. **[Dustur](DUSTUR.md)**: Pembacaan naskah firman Allah SWT peneguh tauhid dan peradaban menjelang Shubuh.
-3. **[Sholawat Sebelum Iqomah Shubuh](IQOMAH_SUBUH.md)**: Sholawat penenang qalbu penghormatan kepada Rasulullah SAW sebelum iqomah.
-4. **[Sholawat Bani Hasyim](SHOLAWAT_BANI_HASYIM.md)**: Pembacaan Sholawat Bani Hasyim sebagai penutup amalan menjelang Shubuh (5 menit sebelum adzan shubuh sudah harus Bani Hasyim).
+1. **Tarhim Shubuh**: Lantunan doa istighotsah dan tarhim memuji Baginda Nabi SAW, Khulafaur Rasyidin, dan memohon rahmat Alloh SWT.
+2. **Dustur**: Pembacaan naskah firman Allah SWT peneguh tauhid dan peradaban menjelang Shubuh.
+3. **Sholawat Sebelum Iqomah Shubuh**: Sholawat penenang qalbu penghormatan kepada Rasulullah SAW sebelum iqomah.
+4. **Sholawat Bani Hasyim**: Pembacaan Sholawat Bani Hasyim sebagai penutup amalan menjelang Shubuh (5 menit sebelum adzan shubuh sudah harus Bani Hasyim).
 
 ---
 

@@ -23,8 +23,8 @@ Amaliyah Sholat Sunnah Tahunan dilaksanakan pada momen-momen bulan mulia dan har
 ---
 
 > 🔗 **Tautan Naskah Utama**:
-> - [Panduan Sholat Sunnah Tahunan TQN](SHOLAT_TAHUNAN.md)
-> - [Sholat Rojab Lengkap](SHOLAT_ROJAB.md)
-> - [Sholat Nisfu Sya'ban](SHOLAT_NISFU_SYABAN.md)
-> - [Sholat Tarowih & Witir](SHOLAT_TAROWIH.md)
-> - [Sholat Lidaf'il Bala](SHOLAT_LIDAFIL_BALA.md)
+> - Panduan Sholat Sunnah Tahunan TQN
+> - Sholat Rojab Lengkap
+> - Sholat Nisfu Sya'ban
+> - Sholat Tarowih & Witir
+> - Sholat Lidaf'il Bala

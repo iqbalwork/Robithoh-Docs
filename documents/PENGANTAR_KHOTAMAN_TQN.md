@@ -24,4 +24,4 @@ Secara umum waktu pelaksanaan khotaman yang biasa dilaksanakan adalah sebagai be
 
 ---
 
-> 🔗 **Tautan Naskah Utama**: [Lanjut ke Bacaan Khotaman TQN Lengkap](KHOTAMAN_TQN.md)
+> 🔗 **Tautan Naskah Utama**: Lanjut ke Bacaan Khotaman TQN Lengkap

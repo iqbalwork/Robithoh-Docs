@@ -23,4 +23,4 @@ Tawassul biasa dan dianjurkan untuk diamalkan pada saat-saat berikut:
 
 ---
 
-> 🔗 **Tautan Naskah Utama**: [Lanjut ke Bacaan Tawassul TQN Lengkap](TAWASSUL_TQN.md)
+> 🔗 **Tautan Naskah Utama**: Lanjut ke Bacaan Tawassul TQN Lengkap

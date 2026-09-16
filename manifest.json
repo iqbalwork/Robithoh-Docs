@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-09-16T19:26:41Z",
+  "version": 1,
+  "updatedAt": "2026-09-16T19:35:58Z",
   "totalDocuments": 90,
   "documents": [
     {
@@ -453,80 +453,80 @@
     },
     {
       "fileName": "PENGANTAR_DOA_DOA_TQN.md",
-      "sha256": "a0177fb3b3b868cb14041e8877bee4ecdc83b59ef0dbb2274ca318ae81abb132",
-      "size": 2729,
+      "sha256": "8fff409ec53eccb315e4c66e85e273c3c1539265b7bd07d03ca4050de291e9ec",
+      "size": 1944,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_DOA_DOA_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_DOA_DOA_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_DOA_DOA_TQN.md"
     },
     {
       "fileName": "PENGANTAR_DZIKIR_TQN.md",
-      "sha256": "e4a18d7c105b22be6d772091318aed1925bf52d6bec667759802373e9b58fff3",
-      "size": 2628,
+      "sha256": "f89e699fc56743201e37b01d9094c806a31486e4b258cd2d8d61ff357658446b",
+      "size": 2588,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_DZIKIR_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_DZIKIR_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_DZIKIR_TQN.md"
     },
     {
       "fileName": "PENGANTAR_KHOTAMAN_TQN.md",
-      "sha256": "847a856bb9a927a75111ef0b85e793c03a91a94d7a9dd039a4f779ca8ee1efe3",
-      "size": 1861,
+      "sha256": "4da7655e0a11e7b340ed2a6b05c709bf9480051f73327df8a345c1408f20c3d8",
+      "size": 1842,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_KHOTAMAN_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_KHOTAMAN_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_KHOTAMAN_TQN.md"
     },
     {
       "fileName": "PENGANTAR_SHOLAT_BULANAN_TQN.md",
-      "sha256": "698a029e75084b7c2eb54e1d0c215c7f6c14ee4b81a661004d0c360de6937793",
-      "size": 853,
+      "sha256": "a49f656b60849d1d514058ae582d2e8e45c274838543a141a99237910ab7a13a",
+      "size": 804,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_BULANAN_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_BULANAN_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_SHOLAT_BULANAN_TQN.md"
     },
     {
       "fileName": "PENGANTAR_SHOLAT_HARIAN_TQN.md",
-      "sha256": "593fa6f2fdac9460ab1cb11d4525d78a57d8d177022ee9b10d16af76ebd2a0cf",
-      "size": 1534,
+      "sha256": "7974fdae9b6ca6038d84905370d43eaf8aba085e4002342ce0174abe326dea31",
+      "size": 1514,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_HARIAN_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_HARIAN_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_SHOLAT_HARIAN_TQN.md"
     },
     {
       "fileName": "PENGANTAR_SHOLAT_TAHUNAN_TQN.md",
-      "sha256": "92a0e89fd8a84218ac517ebb6a1e52d8bf8964680ee488323d9edc059b3456ee",
-      "size": 1515,
+      "sha256": "aa6d0c9a6d4da8446a5a3d7376a5486474974d017e3a4ed3aaeafba95f4f0588",
+      "size": 1402,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_TAHUNAN_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SHOLAT_TAHUNAN_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_SHOLAT_TAHUNAN_TQN.md"
     },
     {
       "fileName": "PENGANTAR_SILSILAH_TQN.md",
-      "sha256": "489c53824b62ee32cb4303ffc2a2a9849caa814d6dc8c13acba6927fc127a460",
-      "size": 1001,
+      "sha256": "29db7a1af85c31f243536d67caaf229de057c20bb70de0ef90dd80c896672739",
+      "size": 982,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SILSILAH_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SILSILAH_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_SILSILAH_TQN.md"
     },
     {
       "fileName": "PENGANTAR_TAHLIL_ZIAROH_TQN.md",
-      "sha256": "61a03e85cbce5acdc6e716ae9b5ba1f94be8c8ef119a10ba5c34634eb92f32b0",
-      "size": 1431,
+      "sha256": "bf8744b962bf269d1d4b25e61bdb308f82efd1663fb9f9c9cc32ac3920d99006",
+      "size": 1350,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_TAHLIL_ZIAROH_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_TAHLIL_ZIAROH_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_TAHLIL_ZIAROH_TQN.md"
     },
     {
       "fileName": "PENGANTAR_TAWASSUL_TQN.md",
-      "sha256": "f5b038dabdc865d01251eb1c6f32f7dd0b3c1d050cdd7ad3ba6ca013eef9e56e",
-      "size": 1461,
+      "sha256": "3e478594087e8459a5c7f4bd673fa1d1560da77e68eb041bb431e38747fadb9f",
+      "size": 1442,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_TAWASSUL_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_TAWASSUL_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_TAWASSUL_TQN.md"
     },
     {
       "fileName": "PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
-      "sha256": "56d8c47623515f439751f5f661cc1af61d95c6264c1588ef6058e79f5cbdd0a9",
-      "size": 1040,
+      "sha256": "c2602a5d2f682c72ad07460a214c0eb733a296ba97b4c2d1c0c516dfd8861c55",
+      "size": 964,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md"

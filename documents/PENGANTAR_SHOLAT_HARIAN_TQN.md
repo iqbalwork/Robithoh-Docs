@@ -19,4 +19,4 @@
 
 ---
 
-> 🔗 **Tautan Naskah Utama**: [Lanjut ke Panduan Sholat Sunnah Harian TQN](SHOLAT_HARIAN.md)
+> 🔗 **Tautan Naskah Utama**: Lanjut ke Panduan Sholat Sunnah Harian TQN
