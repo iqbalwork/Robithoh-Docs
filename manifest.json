@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-09-16T00:56:48Z",
+  "version": 4,
+  "updatedAt": "2026-09-16T01:07:36Z",
   "totalDocuments": 77,
   "documents": [
     {
@@ -269,32 +269,32 @@
     },
     {
       "fileName": "DZIARAH_KUBUR.md",
-      "sha256": "e6d012a04af0c210ee2d0bec098bb20e274be665b65cfb01c3d74bd227cd17c6",
-      "size": 39242,
+      "sha256": "8b84377a48611ce5b8555784c351818932de2d2f28752fcf155ae8fb91a1dbd4",
+      "size": 39254,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_KUBUR.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_KUBUR.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DZIARAH_KUBUR.md"
     },
     {
       "fileName": "DZIARAH_UMUM.md",
-      "sha256": "fe312a14005add5d9fe02dee9ae1168bb8f37a90c9caaad195ab2f73d3d23abd",
-      "size": 34679,
+      "sha256": "d6310414b9ad87f32a0c9f6a98ce75b75c2b456aa163068d6dc3e35530f06bc4",
+      "size": 34691,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_UMUM.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_UMUM.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DZIARAH_UMUM.md"
     },
     {
       "fileName": "DZIARAH_WALIYULLOH.md",
-      "sha256": "d4fbfa64b5b2d053548bdd2ed9d416a49c6c30868c1bd334d11d073967128f70",
-      "size": 34963,
+      "sha256": "a88e214dd6ca78172d5db381b78a0b0526c39f8ebd7da36dffbf1394e4723450",
+      "size": 34975,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_WALIYULLOH.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_WALIYULLOH.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DZIARAH_WALIYULLOH.md"
     },
     {
       "fileName": "DZIKIR_TQN.md",
-      "sha256": "58d12d218c75935279329709d623a37b8d2a24e1499be1b3cddf877d0812e508",
-      "size": 23077,
+      "sha256": "7f92525284c34e4b775ec6b60e22c2593c3652c5a0e40ef7699a79bad32b4aca",
+      "size": 23083,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIKIR_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIKIR_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DZIKIR_TQN.md"
@@ -309,8 +309,8 @@
     },
     {
       "fileName": "KHOTAMAN_TQN.md",
-      "sha256": "a0fbd01c410f6e9f5d6507339e69269743a473853394bfdc28fa804a50a4834d",
-      "size": 41821,
+      "sha256": "266079dff4f242b1afdf80816a409e32675cea1f8964f0d7a62f0c8c04e52466",
+      "size": 41827,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/KHOTAMAN_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/KHOTAMAN_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/KHOTAMAN_TQN.md"
@@ -565,8 +565,8 @@
     },
     {
       "fileName": "TAHLIL_TQN.md",
-      "sha256": "a4731e8c4e9b4e6300ba1b01a7a990f5750f853037e6c7784e2e19e4dac99985",
-      "size": 34345,
+      "sha256": "26513b1163caf78764159d8fb3a3d9187663d752162cbe97e117333751fdcf3e",
+      "size": 34357,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/TAHLIL_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/TAHLIL_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/TAHLIL_TQN.md"
@@ -605,8 +605,8 @@
     },
     {
       "fileName": "TAWASSUL_TQN.md",
-      "sha256": "58d2fa2089ea1c941b9b8fa52197f7d688747d903444c646011b334266196b0e",
-      "size": 26927,
+      "sha256": "ab03618f322cbc12fe1bca4d77d99df0388608f8751ec74cc0f2eee9c8a88d7b",
+      "size": 26933,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/TAWASSUL_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/TAWASSUL_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/TAWASSUL_TQN.md"
