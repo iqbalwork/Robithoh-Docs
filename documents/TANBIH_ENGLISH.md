@@ -15,7 +15,7 @@ TANBIH
 *Bismillāhir-roḥmānir-roḥīm.*  
 *In the name of الله, The Most Gracious, Most Merciful.*
 
-This Admonition is the Will of the Late SYAIKH ‘ABDULLOH MUBAROK BIN NUR MUHAMMAD PPKN 1 Roḍiyallōhu ‘Anhu, who resided in the Hermitage of Suryalaya PPKN 1 Kajembaran Rohmaniyyah. He declared to his male, female, young and old disciples, “May you all be in happiness, and الله Subḥānahu wa taʿālā pours an everlasting blissfulness and there will be no rift among us.”
+This Admonition is the Will of the Late SYAIKH ‘ABDULLOH MUBAROK BIN NUR MUHAMMAD 1 Roḍiyallōhu ‘Anhu, who resided in the Hermitage of Suryalaya 1 Kajembaran Rohmaniyyah. He declared to his male, female, young and old disciples, “May you all be in happiness, and الله Subḥānahu wa taʿālā pours an everlasting blissfulness and there will be no rift among us.”
 
 May the Nation’s Leaders be increasingly honored and exalted, so that they may protect and guide all citizens in peace, justice, and prosperity—both outwardly and inwardly.
 

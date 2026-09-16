@@ -1,4 +1,4 @@
-# DZIKIR HARIAN TQN
+# DZIKIR
 
 ---
 
@@ -30,7 +30,7 @@ Ilaahii Anta maqshuudii wa ridhoo-Ka mathluubii, a’thinii Mahabbata-Ka wa Ma�
 
 Laa Ilaaha Illallooh (3x)
 
-Tiada Tuhan selain اَللّهُ
+*Tiada Tuhan selain اَللّهُ*
 
 Kemudian dilanjutkan dengan Zikir sekurang-kurangnya 165x.
 

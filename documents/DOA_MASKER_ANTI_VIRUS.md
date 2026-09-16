@@ -1,6 +1,8 @@
 # DO'A MASKER ANTI SEGALA VIRUS
 ## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
 ---
 
 ### Pelaksanaan & Bacaan Do'a Masker Anti Virus

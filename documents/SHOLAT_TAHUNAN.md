@@ -1,4 +1,4 @@
-# SHOLAT SUNNAH TAHUNAN TQN
+# Sholat Tahunan
 
 ---
 

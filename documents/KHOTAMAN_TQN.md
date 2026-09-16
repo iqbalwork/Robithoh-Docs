@@ -1,6 +1,8 @@
-# KHOTAMAN TQN
+# KHOTAMAN
 
 ---
+
+KHOTAMAN
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 
@@ -30,7 +32,7 @@
 
 *Semoga disampaikan kepada para Imam Mujtahid dan kepada mereka yang mengikutinya dalam hal agama dan kepada para ulama yang mendapat petunjuk dan kepada ahli Qur’an yang disertai ihklas dan kepada para imam ahli hadits dan ahli tafsir, kepada seluruh ahli tasawwuf yang nyata dan kepada ruh wali-wali اَللّهُ baik, yang berada sebelah timur, barat, kanan dan kiri bumi. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-Fatihah*
 
-ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْناَ رَاسَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أَبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ مَعْرُوْفِ الْكَرَخِي وَالسَّيِّدِ الشَّيْخِ سِرِّ السَّقَطِيِّ وَالسَّيْدِ الشَّيْخِ حَبِيْبِ الْعَجَمِيِّ وَالسَّيِّدِ الشَّيْخِ حَسَنِ الْبَصْرِيِّ وَالسَّيِّدِ الشَّيْخِ جَعْفَرِ الصَّادِقِ وَالسَّيِّدِ الشَّيْخِ يُوْسُفُ الْهَمَدَانِيِّ وَالسَّيِّدِ الشَّيْخِ أَبِي يَزِيْدِ الْبُسْطَامِيِّ وَالسَّيِّدِ الشَّيْخِ سَاهْ بَهَاءُ الدِّيِنِ النَّقْشَبَنْدِيِّ وَحَضْرَةِ إِمَامِ الرَّبَّانِيِّ وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَحَضْرَةِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبُ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهمُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
+ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْناَ رَاسَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أَبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ مَعْرُوْفِ الْكَرَخِي وَالسَّيِّدِ الشَّيْخِ سِرِّ السَّقَطِيِّ وَالسَّيْدِ الشَّيْخِ حَبِيْبِ الْعَجَمِيِّ وَالسَّيِّدِ الشَّيْخِ حَسَنِ الْبَصْرِيِّ وَالسَّيِّدِ الشَّيْخِ جَعْفَرِ الصَّادِقِ وَالسَّيِّدِ الشَّيْخِ يُوْسُفُ الْهَمَدَانِيِّ وَالسَّيِّدِ الشَّيْخِ أَبِي يَزِيْدِ الْبُسْطَامِيِّ وَالسَّيِّدِ الشَّيْخِ سَاهْ بَهَاءُ الدِّيِنِ النَّقْشَبَنْدِيِّ وَحَضْرَةِ إِمَامِ الرَّبَّانِيِّ وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَحَضْرَةِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبُ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهمُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
 *Tsumma ilaa Ahlis Sislilatil Qoodiriyyah Naqsyabandiyyah Ma’ had Suryalaya Sirnarasa PPKN, wajami’i ahlith thuruqi khushuushon ilaa Hadhroti sulthoonil auliyaa’i ghautsil a’zhom quthbil ‘aalamiina Sayyidisy Syaikh Muhyiddin Abdul Qodir al Jailaanii qaddasalloohu sirrohu, was sayyidisy Syaikh Abil Qoosim Junaidil Baghdaadiyyi, was sayyidisy syaikh Ma’ruufil Karkhi, was sayyidisy Syaikh Sirris Saqthi, was sayyidisy Syaikh Habiibil ‘Ajamiyyi, was sayyidisy Syaikh Hasan al Basri, was sayyidisy syaikh Ja’far as Shoodiq, was sayyidisy syaikh Yuusuf al Hamdaniyyi, was sayyidisy Syaikh Abii Yazid al Busthomiyyi, was sayyidisy Syaikh Syaah Bahaauddin an Naqsyabandiyyi, wahadhroti Imaam ar Robbaanii, was sayyidisy Syaikh Ahmad Khotib ibni ‘ Abdil Ghoffar as Sambasi, was sayyidisy Syaikh Tholhah Kaalisaafuu Sirbaunii, wahadhroti Syaikh ‘Abdullooh Mubaarok bin Nur Muhammad, wa Sayyidisy Syaikh Ahmad Shoohibul Wafaa Taajul ‘Aarifin, wa syaikhinal mukarrom Syaikh Muhammad Abdul Gaos Syaifulloh Maslul Qaddasalloohu Sirrohum, wa ushuulihim wa furuu‘ihim wa ahli silsilatihim, Kullu sya’in lillaahi lahum, Al-Fatihah*
 
@@ -56,53 +58,19 @@
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ
-وَوَضَعۡنَا عَنكَ وِزۡرَكَ
-ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ
-وَرَفَعۡنَا لَكَ ذِكۡرَكَ
-فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا
-إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا
-فَإِذَا فَرَغۡتَ فَٱنصَبۡ
-وَإِلَىٰ رَبِّكَ فَٱرۡغَب
+أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ وَرَفَعۡنَا لَكَ ذِكۡرَكَ فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا فَإِذَا فَرَغۡتَ فَٱنصَبۡ وَإِلَىٰ رَبِّكَ فَٱرۡغَب
 
-*Bismillaahirrohmaanirrohiim.*
-*Alam nasyroh laka shodrok*
-*wa wadho’naa ‘anka wizrok*
-*Alladzii ‘anqodho zhohrok*
-*Wa rofa’naa laka dzikrok*
-*Fa innama’al ‘usri yusro*
-*Inna ma’al ‘usri yusro*
-*Fa idzaa faroghta fanshob*
-*wa ilaa robbika farghob. (80x)*
+*Bismillaahirrohmaanirrohiim. Alam nasyroh laka shodrok wa wadho’naa ‘anka wizrok Alladzii ‘anqodho zhohrok Wa rofa’naa laka dzikrok Fa innama’al ‘usri yusro Inna ma’al ‘usri yusro Fa idzaa faroghta fanshob wa ilaa robbika farghob.(80x)*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
-*Bukankah Kami telah melapangkan untukmu dadamu?*
-*Dan Kami telah menghilangkan daripadamu bebanmu.*
-*Yang memberatkan punggungmu.*
-*Dan Kami tinggikan bagimu sebutan (nama)mu.*
-*Karena sesungguhnya sesudah kesulitan itu ada kemudahan.*
-*Sesungguhnya sesudah kesulitan itu ada kemudahan.*
-*Maka apabila kamu telah selesai (dari suatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain.*
-*Dan hanya kepada Tuhanmulah hendaknya kamu berharap.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Bukankah Kami telah melapangkan untukmu dadamu? Dan Kami telah menghilangkan daripadamu bebanmu. Yang memberatkan punggungmu. Dan Kami tinggikan bagimu sebutan (nama)mu. Karena sesungguhnya sesudah kesulitan itu ada kemudahan. Sesungguhnya sesudah kesulitan itu ada kemudahan. Maka apabila kamu telah selesai (dari suatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain. Dan hanya kepada Tuhanmulah hendaknya kamu berharap.*
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ هُوَ ٱللَّهُ أَحَدٌ
-ٱللَّهُ ٱلصَّمَدُ
-لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ
-وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُ
+قُلۡ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُ
 
-*Bismillaahirrohmaanirrohiim.*
-*Qul huwalloohu ahad*
-*Alloohush Shomad*
-*Lam yalid wa lam yuulad*
-*Wa lam yakul lahuu kufuwan Ahad (500x)*
+*Bismillaahirrohmaanirrohiim. Qul huwalloohu ahad  Alloohush Shomad   Lam yalid wa lam yuulad Wa lam yakul lahuu kufuwan Ahad*(500x)
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
-*Katakanlah (Ya Muhammad) اَللّهُ itu Esa.*
-*اَللّهُ adalah Tuhan yang bergantung kepada-Nya segala sesuatu.*
-*Dia tiada beranak dan tiada pula diperanakan.*
-*Dan tidak ada seorangpun yang setara dengan Dia.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakanlah (Ya Muhammad) اَللّهُ itu Esa. اَللّهُ adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tiada pula diperanakan. Dan tidak ada seorangpun yang setara dengan Dia.*
 
 اِلٰى حَضْرَةِ الشَّيْخِ أَحْمَدْ بَاقِرْ الْفَاتِحَةَ
 
@@ -190,25 +158,11 @@
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
-مِن شَرِّ مَا خَلَقَ
-وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
-وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ
-وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
-*Bismillaahirrohmaanirrohiim.*
-*Qul a’uudzu birobbil falaq,*
-*Min syarri maa kholaq,*
-*Wa min syarri ghoosiqin idzaa waqob,*
-*Wa min syarrin naffaatsaati fil ‘uqod,*
-*Wa min syarri haasidin idzaa hasad*
+*Bismillaahirrohmaanirrohiim. Qul a’uudzu birobbil falaq, Min syarri maa kholaqk Wa min syarri ghoosiqin idzaa waqobl Wa min syarrin naffaatsaati fil ‘uqodm Wa min syarri haasidin idzaa hasad*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
-*Katakan aku berlindung kepada Tuhan Yang Maha Menguasai subuh,*
-*dari kejahatan mahkluk-Nya.*
-*Dan dari kejahatan malam apabila telah gelap gulita.*
-*Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul.*
-*Dan dari kejahatan orang yang dengki apabila dengki.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakan aku berlindung kepada Tuhan Yang Maha Menguasai subuh, dari kejahatan mahkluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila dengki.*
 
 اَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِي لَآ إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَاَتُوْبُ إِلَيْهِ
 
@@ -218,28 +172,11 @@
 
 ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
-مَلِكِ ٱلنَّاسِ
-إِلَٰهِ ٱلنَّاسِ
-مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
-ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ
-مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ِ
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ِ
 
-*Bismillaahirrohmaanirrohiim.*
-*Qul a’uudzu birobbin naas*
-*Malikin naas*
-*Ilaahin naas*
-*Min syarril waswaasil khonnaas*
-*Alladzii yuwaswisu fii shuduurin naas*
-*Minal jinnati wan naas*
+*Bismillaahirrohmaanirrohiim. Qul a’uudzu birobbin naas Malikin naas Ilaahin naas Min syarril waswaasil khonnaasm Alladzii yuwaswisu fii shuduurin naasn Minal jinnati wan naas*
 
-*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang.*
-*Katakanlah: Aku berlindung kepada Tuhan manusia.*
-*Raja Manusia.*
-*Sembahan Manusia.*
-*Dari kejahatan (bisikan) syetan yang biasa bersembunyi.*
-*Yang membisikan (kejahatan) kedalam dada manusia,*
-*dari jin dan manusia.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Katakanlah: Aku berlindung kepada Tuhan manusia. Raja Manusia. Sembahan Manusia.  Dari kejahatan (bisikan) syetan yang biasa bersembunyi. Yang membisikan (kejahatan) kedalam dada manusia, dari jin dan manusia.*
 
 اِلٰى حَضْرَةِ سَيِّدِنَا مُظَهِّرْ الْفَاتِحَةَ
 

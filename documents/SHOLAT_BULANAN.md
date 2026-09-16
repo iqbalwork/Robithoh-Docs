@@ -1,4 +1,4 @@
-# SHOLAT SUNNAH BULANAN TQN
+# Sholat Bulanan
 
 ---
 

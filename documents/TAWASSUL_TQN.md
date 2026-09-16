@@ -1,6 +1,8 @@
-# TAWASSUL TQN
+# TAWASUL
 
 ---
+
+TAWASUL
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 

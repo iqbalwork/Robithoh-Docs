@@ -1,4 +1,4 @@
-# SHOLAT LAILATUL QODAR TQN
+# Sholat Lailatul Qodar
 
 ---
 
