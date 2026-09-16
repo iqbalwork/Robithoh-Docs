@@ -1,8 +1,8 @@
-# SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH
+# SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
 ---
 
-SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH PONDOK PESANTREN SURYALAYA
+SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
 رَبُّ الْأَرْبَابِ وَمُعْتِقُ الرِّقَابِ اَللّٰهُ سُبْحَانَهُ وَتَعَالٰى
 
@@ -152,8 +152,8 @@ SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH PONDOK PESANTREN SURYALAYA
 
 37. Syaikh Ahmad Shohibul Wafa Tajul ‘Arifin Radhiyalloohu ‘anhu
 
-الشَّيْخُ مُحَمَّدُ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ رَضِيَ اللّٰهُ عَنْهُ
+الشَّيْخُ مُحَمَّدُ عَبْدُ الْغَوْثِ الصَّمَدَانِي سَيْفُ اللّٰهِ مَسْلُوْلُ الْقَادِرِيُّ النَّقْشَبَنْدِيُّ الْمُتَّقِي الْكَامِلُ الْمُوَفَّقُ الْمُجَدِّدُ الْقُطْبُ قَدَّسَ اللّٰهُ سِرَّهُ
 
-38. Syaikh Muhammad Abdul Ghaos Saifullah Maslul Radhiyalloohu ‘anhu
+38. Syekh Muhammad Abdul Gaos As Shomadany Saefulloh Maslul Al Qodiri An Naqsabandi Al Mutaqi Al Kamil Al Muwaffaq Al Mujadid Al Quthub Qoddasalloohu Sirroh
 
 ۞۞۞

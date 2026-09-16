@@ -1,13 +1,22 @@
-# Doa Syukur Nikmat
+# DO'A SYUKUR NIKMAT
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Doa Sujud Syukur Atas Limpahan Nikmat Allah SWT
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
-## Doa Sujud Syukur Nikmat
+### Teks Do'a Syukur Nikmat
 
-اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ وَلَكَ أَسْلَمْتُ سَجَدَ وَجْهِى لِلَّذِى خَلَقَهُ وَصَوَّرَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ
+الْحَمْدُ لِلّٰهِ الَّذِيْ فَضَّلَنَا عَلٰى كَثِيْرٍ مِّنْ عِبَادِهِ الْمُؤْمِنِيْنَ
 
-Allohumma laka sajadtu wa bika aamantu, wa laka aslamtu, sajada wajhiya lilladhi khalqahu, wa sawwarahu, wa shaqqa sam’ahu wa basarahu, tabaarak-Allohu ahsanul khaaliqeen.
+---
 
-Artinya: "Ya Allah untuk-Mu aku bersujud, kepada-Mu aku beriman dan aku serahkan diriku kepada-Mu, telah bersujud wajahku kepada yang telah menciptakannya, membentuk rupanya, memberikan pendengaran dan penglihatannya, Maha Mulia Allah pencipta yang paling baik."
+### Transliterasi Latin
+
+**Alhamdulillaahilladzii fadhdholanaa 'alaa katsiirim min 'ibaadihil mu'miniin**
+
+---
+
+### Terjemahan Bahasa Indonesia
+
+*Segala puji bagi Allah yang melebihkan kami dari kebanyakan hamba-hamba-Nya yang beriman.* (QS. An-Naml: 15)

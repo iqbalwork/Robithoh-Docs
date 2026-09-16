@@ -1,13 +1,22 @@
-# Doa Bangun Tidur
+# DO'A BANGUN TIDUR
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Doa Syukur Saat Terbangun Dari Tidur
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
-## Doa Bangun Tidur
+### Teks Do'a Bangun Tidur
 
-اَلْحَمْدُ لِلّٰهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ
+اَلْحَمْدُ لِلّٰهِ الَّذِيْ أَحْيَانَا حَيَاةً أَبَدِيَّةً أُخْرَوِيَّةً
 
-Alhamdulillaahilladzii ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur.
+---
 
-Artinya: "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah kami dibangkitkan."
+### Transliterasi Latin
+
+**Alhamdulillaahilladzii ahyaanaa hayaatan abadiyyatan ukhrowiyyah**
+
+---
+
+### Terjemahan Bahasa Indonesia
+
+*Segala puji bagi Allah Yang telah menghidupkan kami dengan kehidupan abadi yang berorientasi akhirat.*

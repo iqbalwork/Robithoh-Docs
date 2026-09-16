@@ -103,3 +103,7 @@ Alloohumma sholli ‘alannabiyyil hasyimiyyi Muhammadiw wa ‘alaa aalihii wa sa
 رَبَّنَا  رَبَّنَا, رَبَّنَا ظَلَمْنَآ أَنْفُسَـنَا, وَإِنْ لَّمْ تَغْـفِرْ لَنَا وَتَـرْحَمْنَا, لَنَكُـْونَنَّ مِنَ الْخَـاسِرِيْنَ
 
 robbanaa robbanaa, robbanaa zholamnaa anfusanaa, wa illam taghfir lanaa wa tarhamnaa lanakuunanna minal khoosiriin
+
+---
+
+> ⏭️ **Bacaan Berikutnya (Urutan ke-2)**: [Lanjut ke Bacaan Naskah Dustur](DUSTUR.md)

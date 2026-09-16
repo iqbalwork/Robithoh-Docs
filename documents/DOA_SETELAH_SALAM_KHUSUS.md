@@ -1,15 +1,36 @@
-# Doa Setelah Salam Ketika Sholat
+# DO’A SETELAH MENGUCAPKAN SALAM KEKANAN DAN KEKIRI KETIKA SHOLAT
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Doa Persis Setelah Mengucapkan Salam Ke Kanan & Ke Kiri Ketika Sholat
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
-## Doa Setelah Salam Sholat
+### 1. Salam Ke Kanan
 
-اَلْحَمْدُ لِلّٰهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ اِنَّ رَبَّنَا لَغَفُوْرٌ شَكُوْرٌ
+اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ
 
-Alhamdulillaahil ladzi adzhaba ‘annal hazan inna robbbannaa laghofuurun syakur.
+*Ditambah dengan membaca:*
 
-Artinya: "Segala puji bagi Allah yang telah menghilangkan kesedihan dari kami. Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri." (QS. Fathir: 34)
+إِنِّيْ أَسْأَلُكَ فَوْزًا بِالْجَنَّةِ
 
-Catatan: Dibaca di setiap selesai sholat fardhu maupun sunnah, persis selepas mengucapkan salam (ke kanan dan ke kiri).
+**Inni As Aluka Fauza Bil jannah**
+
+> *Artinya: "Sesungguhnya aku memohon kepada-Mu kemenangan (keberuntungan) dengan Surga."*
+
+---
+
+### 2. Salam Ke Kiri
+
+اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ
+
+*Ditambah dengan membaca:*
+
+إِنِّيْ أَسْأَلُكَ نَجَاةً مِّنَ النَّارِ وَالْعَفْوَ عِنْدَ الْحِسَابِ
+
+**Inni As Aluka Najatam Minannar Wa Afwa ‘Indal Hisab**
+
+> *Artinya: "Sesungguhnya saya meminta kepada Engkau keselamatan dari api neraka, dan pengampunan di hari perhitungan amal."*
+
+---
+
+> ℹ️ *Catatan: Dibaca persis saat/setelah mengucapkan salam pertama (ke kanan) dan salam kedua (ke kiri) pada setiap sholat fardhu maupun sunnah.*

@@ -11,6 +11,12 @@ Hal ini didasari Firman Alloh SWT dalam Al-Qur'an:
 
 ---
 
+> 📜 **Amanat Mursyid PPKN III**:  
+> *“Ditangan saudara-saudara adalah sebuah buku yang namanya ‘Amaliyah Mursyid’... Kalau sudah di Talqin wajib membaca buku ini, wajib membeli buku ini, wajib di sebar luaskan buku ini...”* — **[Baca Sambutan Lengkap Pangersa Abah Aos](SAMBUTAN_SESEPUH.md)**
+
+---
+
+
 ### Ketentuan Pokok Dzikir Harian
 
 1. **Keharusan Mengamalkan Dzikir**: Bagi ikhwan Thoriqoh Qoodiriyyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III Mesti mengamalkan dzikir kalimah Thoyyibah (*Laa ilaaha illallooh*) sekurang-kurangnya **165 kali** setiap selesai sholat fardhu.

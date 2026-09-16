@@ -68,7 +68,7 @@ Setiap dua roka’at setelah salam membaca doa :
 
 Laa ilaaha illallohu wahdahu laa syariika lah, lahul mulku wa lahul hamdu yuhyii wa yumiitu wa huwa hayyun laa yamuutu biyadihil khoiru wa huwa ‘alaa kulli syai-in qodiir. Allohumma laa maani’a limaa a’thoita wa laa mu’thiya limaa mana’ta wa laa yangfa’u dzal dzaddi mingkal jaddu
 
-Artinya: “Tiada Tuhan selain اَللّهُ , tiada sekutu bagi-Nya , hanya milik-Nya lah kekuasaan-Nya , hanya milik-Nya lah segala pujian, Dia menghidupkan dan mematikan dan Dia Maha Kuasa atas segala sesuatu , Semoga اَللّهُ mencurahkan Rahmatnya kepada Nabi Muhammad Sholallohu ‘alaihi wa sallam dan juga kepada keluarganya yang suci, tiada daya dan upaya kecuali milik اَللّهُ.
+Artinya: "Tiada Tuhan selain Allah semata, tiada sekutu bagi-Nya, milik-Nya segala kerajaan dan bagi-Nya segala pujian, Dia yang menghidupkan dan mematikan, dan Dia Maha Hidup tidak pernah mati, di tangan-Nya lah segala kebaikan dan Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau berikan, dan tidak ada yang dapat memberi apa yang Engkau halangi, dan tidak bermanfaat kekayaan/kebesaran bagi orang yang memilikinya dari kekuasaan-Mu."
 
 ---
 
@@ -156,7 +156,7 @@ Setiap dua roka’at setelah salam membaca doa :
 
 Laa ilaaha illallohu wahdahu laa syariika lah, lahul mulku wa lahul hamdu yuhyii wa yumiitu wa huwa hayyun laa yamuutu biyadihil khoiru wa huwa ‘alaa kulli syai-in qodiir. Illahan waahidan ahadan shomadan fardan witron lam yattakhidz shoohibatan wa laa waladan.
 
-Artinya: “Tiada Tuhan selain اَللّهُ , tiada sekutu bagi-Nya , hanya milik-Nya lah kekuasaan-Nya , hanya milik-Nya lah segala pujian, Dia menghidupkan dan mematikan dan Dia Maha Kuasa atas segala sesuatu , Semoga اَللّهُ mencurahkan Rahmatnya kepada Nabi Muhammad Sholallohu ‘alaihi wa sallam dan juga kepada keluarganya yang suci, tiada daya dan upaya kecuali milik اَللّهُ.
+Artinya: "Tiada Tuhan selain Allah semata, tiada sekutu bagi-Nya, milik-Nya segala kerajaan dan bagi-Nya segala pujian, Dia yang menghidupkan dan mematikan, dan Dia Maha Hidup tidak pernah mati, di tangan-Nya lah segala kebaikan dan Dia Maha Kuasa atas segala sesuatu; sebagai Tuhan Yang Maha Esa, Maha Tunggal, tempat bergantung segala sesuatu, Maha Menyendiri, Maha Ganjil, yang tidak beristri dan tidak pula beranak."
 
 ---
 

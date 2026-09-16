@@ -1,6 +1,11 @@
 # PENGANTAR KUMPULAN DO'A - DO'A HARIAN & KHUSUS
 ## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
+> 📜 **Amanat Mursyid PPKN III**:  
+> *“Ditangan saudara-saudara adalah sebuah buku yang namanya ‘Amaliyah Mursyid’... Kalau sudah di Talqin wajib membaca buku ini, wajib membeli buku ini, wajib menerima pemberian buku ini, wajib di sebar luaskan buku ini...”* — **[Baca Sambutan Sesepuh Pangersa Abah Aos](SAMBUTAN_SESEPUH.md)**
+
+---
+
 Naskah **‘AMALIAH MURSYID** memuat kumpulan do'a-do'a harian dan do'a khusus yang diijazahkan oleh Pangersa Abah Anom dan Pangersa Abah Aos kepada para ikhwan TQN Suryalaya Sirnarasa PPKN III. Do'a-do'a ini mencakup seluruh aspek kehidupan, mulai dari ibadah harian, perlindungan lahir batin, keselamatan keluarga, hingga hajat rezeki dan peradaban dunia.
 
 ---
@@ -12,7 +17,7 @@ Naskah **‘AMALIAH MURSYID** memuat kumpulan do'a-do'a harian dan do'a khusus y
 3. **Sholawat Jiyaroh ke Rosululloh** (`SHOLAWAT_JIYAAROH_KE_ROSULULLOH.md`)
 4. **Do'a Istighosah** (`DOA_ISTIGHOTSAH.md`)
 5. **Do'a Setiap Setelah Salam Sholat** (`DOA_SELEPAS_SALAM.md`)
-6. **'Amalan Untuk Para Ikhwan Yang Masih Perlu Rezeki**
+6. **'Amalan Untuk Para Ikhwan Yang Masih Perlu Rezeki** (`DOA_IKHWAN_PERLU_REZEKI.md`)
 7. **Do'a Hendak Minum Air Zam Zam Sirnarasa** (`DOA_MINUM_AIR_ZAMZAM.md`)
 8. **Do'a Hendak Tidur** (`DOA_HENDAK_TIDUR.md`)
 9. **Do'a Bangun Tidur** (`DOA_BANGUN_TIDUR.md`)
@@ -21,7 +26,7 @@ Naskah **‘AMALIAH MURSYID** memuat kumpulan do'a-do'a harian dan do'a khusus y
 12. **Do'a Berserah Diri** (`DOA_BERSERAH_DIRI.md`)
 13. **Do'a Ketika Turun Hujan** (`DOA_TURUN_HUJAN.md`)
 14. **Do'a Meminta Jodoh** (`DOA_MEMINTA_JODOH.md`)
-15. **Do'a Tahun Baru Islam (Awal & Akhir Tahun)**
+15. **Do'a Tahun Baru Islam** (`DOA_TAHUN_BARU_ISLAM.md`)
 16. **Do'a Bersin** (`DOA_BERSIN.md`)
 17. **Do'a Buang Angin** (`DOA_BUANG_ANGIN.md`)
 18. **Do'a Setelah Sholat Jum'at** (`DOA_SETELAH_BADA_JUMAT.md`)
@@ -29,11 +34,11 @@ Naskah **‘AMALIAH MURSYID** memuat kumpulan do'a-do'a harian dan do'a khusus y
 20. **'Amalan Untuk Orang yang Sedang Hamil** (`AMALIAH_IBU_HAMIL.md`)
 21. **Wirid Kemalaikatan / Hari Lahir** (`WIRID_KEMALAIKATAN.md`)
 22. **Do'a Tartib Isyroq** (`DOA_TARTIB_ISYROQ.md`)
-23. **Do'a Sholat Dhuha**
+23. **Do'a Sholat Dhuha** (`DOA_SHOLAT_DHUHA.md`)
 24. **Do'a Masker Anti Segala Virus** (`DOA_MASKER_ANTI_VIRUS.md`)
-25. **Bacaan Sebelum Sholawat Bani Hasyim**
-26. **Do'a Keluar Rumah & Masuk Rumah** (`DOA_KELUAR_RUMAH.md` & `DOA_MASUK_RUMAH.md`)
-27. **Do'a Setelah Mengucapkan Salam (Kekanan dan Kekiri) Ketika Sholat**
+25. **Bacaan Sebelum Sholawat Bani Hasyim** (`NADZOM_SHOLAWAT_BANI_HASYIM.md`)
+26. **Do'a Keluar Rumah** (`DOA_KELUAR_RUMAH.md`)
+27. **Do'a Setelah Mengucapkan Salam (Kekanan dan Kekiri) Ketika Sholat** (`DOA_SETELAH_SALAM_KHUSUS.md`)
 28. **Do'a Sakit Mata & Agar Kuat Melek (Tidak Mengantuk)** (`DOA_SAKIT_MATA_TIDAK_MENGANTUK.md`)
 
 ---
