@@ -2,94 +2,98 @@
 
 ---
 
-اَلسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُاللهِ وَبَرَكَاتُهُ
+اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-*Assalamu’alaikum warohmatullohi wabarokatuh*
+Assalāmu’alaikum waroḥmatullōhi wabarokātuh
 
-اِلٰى حَضْرَةِ الشَّيْخِ عَبْدُ اللّٰهِ مُبَارَكْ بِنْ نُوْر مُحَمَّدْ ، اَلْفَـاتـِحَةَ
+إِلَى حَضْرَةِ الشَّيْخِ عَبْدِ اللهِ مُبَارَكْ بْنِ نُوْرِ مُحَمَّدٍ [^1] PPKN 1 ، ر.م.ص.و [^2] ، رَضِيَ اللهُ عَنْهُ، اَلْفَاتِحَةُ...
 
-“*Ilaa Hadhrotis Syaikh Abdulloh Mubarok bin Nur Muhammad Rodhiyalloohu ‘Anhu*”*Al-Faatihah…*
+“Ilā ḥadlrotisy Syaikh ‘Abdulloh Mubarok ibni Nur Muhammad, PPKN 1, Rodliyallōhu ‘anh(u);
+Al-Fātiḥah..”
 
 TANBIH
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-*Bismillaahirrohmaanirrohiim*
+Bismillāhirroḥmānirroḥīm
 
-Ieu pangéling-ngéling ti Pangersa Guru Almarhum, *SYAIKH ABDULLOH MUBAROK BIN NUR MUHAMMAD Rodhiyallohu ‘Anhu*, panglinggihan di Patapan Suryalaya PPKN1 Kajembaran Rohmaniyyah. Dawuhanana khusus kangge ka sadaya murid-murid pameget, istri, sepuh, anom, muga-muga sing ginanjar kawilujengan, masing-masing rahayu sapapanjangna, ulah aya kebengkahan jeung sadayana.
+Ieu pangéling-ngéling ti Pangersa Guru Almarhum, SYAIKH ‘ABDULLOH MUBAROK BIN NUR MUHAMMAD PPKN 1 Rodliyallōhu ‘Anhu, panglinggihan di Patapan Suryalaya PPKN 1 Kajembaran Rohmaniyyah. Dawuhanana khusus kanggé ka sadaya murid-murid pameget, istri, sepuh, anom, mugi-mugi sing ginanjar kawilujengan, masing-masing rahayu sapapanjangna, ulah aya kebengkahan jeung sadayana.
 
-Ogé nu jadi Papayung Nagara sina tambih kamulyaananan, kaagunganana tiasa nangtayungan ka sadaya ‘abdi-abdina, ngauban ka sadaya ra’yatna dipaparin karaharjaan, kajembaran, kani’matan ku Gusti Nu Maha Suci, dhohir-bathin.
+Ogé nu jadi Papayung Nagara sina tambih kamulyaanana, kaagunganana tiasa nangtayungan ka sadaya ‘abdi-abdina, ngauban ka sadaya ra’yatna dipaparin karaharjaan, kajembaran, kani’matan ku Gusti Nu Maha Suci, dlohir bathin.
 
-Jeungna sim kuring nu jadi pananyaan MTQN SURYALAYA SIRNARASA PPKN III, ngahaturkeun kagegelan wasiat ka sadaya murid-murid poma sing hadé-hadé dina sagala laku lampah, ulah aya carekeun AGAMA jeung NAGARA.
+Jeungna sim kuring nu jadi pananyaan THORĪQOH QŌDIRIYYAH NAQSYABANDIYYAH MA’HAD SURYALAYA SIRNARASA PPKN, ngahaturkeun kagegelan wasiat ka sadaya murid-murid poma sing hadé-hadé dina sagala laku lampah, ulah aya carékeun AGAMA jeung NAGARA.
 
-Éta dua-duanana kawulaan sapantesna, samistina kudu kitu manusa anu tetep cicing dina kaimanan, tegesna tiasa ngawujudkeun karumasaan terhadep AGAMA jeung NAGARA, ta’at ka HADLROT ILAAHI nu ngabuktikeun paréntah dina AGAMA jeung NAGARA.
+Éta dua-duanana kawulaan sapantesna, samistina kudu kitu manusa anu tetep cicing dina kaimanan, tegesna tiasa ngawujudkeun karumasaan terhadep AGAMA jeung NAGARA, ta’at ka ḤADLROT ILĀHI nu ngabuktikeun paréntah dina AGAMA jeung NAGARA.
 
-Inget sakabeh murid-murid, ulah kabaud ku pangwujuk napsu, kagendam ku panggoda syetan, sina awas kana jalan anu matak méngparkeun kana parentah AGAMA jeung NAGARA, sing telik kana diri bisi katarik ku iblis anu nyelipkeun dina bathin urang saréréa.
+Inget sakabeh murid-murid, ulah kabaud ku pangwujuk napsu, kagendam ku panggoda syétan, sina awas kana jalan anu matak méng-parkeun kana paréntah AGAMA jeung NAGARA, sing telik kana diri bisi katarik ku iblis anu nyelipkeun dina bathin urang saréréa.
 
-Anggurmah buktikeun kahadéan sina medal tina kasucian:
+Anggur mah buktikeun kahadéan sina medal tina kasucian:
 
-KAHIJI: *Ka saluhureun ulah nanduk boh saluhureun harkatna atawa darajatna, boh dina kabogana éstu kudu luyu akur jeung batur-batur.*
+KAHIJI: Ka saluhureun ulah nanduk boh saluhureun harkatna atawa darajatna, boh dina kabogana éstu kudu luyu akur jeung batur-batur.
 
-KADUA : *Ka sasama tegesna ka papantaran urang dina sagala-galana ulah rék paséa, sabalikna kudu rendah babarengan dina enggoning ngalakukeun paréntah AGAMA jeung NAGARA, ulah jadi pacogrégan pacéngkadan, bisi kaasup kana pangandika  “ ‘Adzabun alim ”, anu hartina jadi pilara salawasna, ti dunya nepi ka akhérat (badan payah ati susah).*
+KADUA: Ka sasama tegesna ka papantaran urang dina sagala-galana ulah rék paséa, sabalikna kudu rendah babarengan dina enggoning ngalakukeun paréntah AGAMA jeung NAGARA, ulah jadi pacogrégan pacéngkadan, bisi kaasup kana pangandika “’Adzābun Alīm”, anu hartina jadi pilara salawasna, ti dunya nepi ka akhérat (badan payah ati susah).
 
-KATILU : *Ka sahandapeun ulah hayang ngahina atawa nyieun deleka culika, henteu daék ngajénan, sabalikna kudu héman, kalawan karidloan, malah senang rasana gumbira atina, ulah sina ngarasa reuwas jeung giras, rasa kapapas mamaras, anggur ditungtun dituyun ku naséhat anu lemah lembut, nu matak nimbulkeun nurut, bisa napak dina jalan kahadéan.*
+KATILU: Ka sahandapeun ulah hayang ngahina atawa nyieun deleka culika, henteu daék ngajénan, sabalikna kudu héman, kalawan karidloan, malah senang rasana gumbira atina, ulah sina ngarasa reuwas jeung giras, rasa kapapas mamaras, anggur ditungtun dituyun ku naséhat anu lemah lembut, nu matak nimbulkeun nurut, bisa napak dina jalan kahadéan.
 
-KAOPAT : *Kanu pakir jeung miskin kudu welas asih, soméah, tur budi beresih, sarta daék méré mawéh, nganyatakeun haté urang saréh. Geura rasakeun awak urang sorangan kacida ngerikna ati ari dina kakurangan. Anu matak ulah rék kajongjonan ngeunah déwék henteu lian, da pakir miskin téh lain kahayangna sorangan, éstu kadaring Pangéran.*
+KAOPAT: Kanu pakir jeung nu miskin kudu welas asih, soméah, tur budi beresih, sarta daék méré mawéh, nganyatakeun haté urang saréh. Geura rasakeun awak urang sorangan kacida ngerikna ati ari dina kakurangan. Anu matak ulah rék kajongjonan ngeunah déwék henteu lian, da pakir miskin téh lain kahayangna sorangan, éstu kadaring Pangeran.
 
-Tah kitu pigeusaneun manusa anu pinuh karumasaan, sanajan jeung séjén bangsa, sabab tunggal turunan ti Nabi Adam *‘Alaihis Salam*. numutkeun ayat 70 surat Isro anu pisundaeunana kieu:
+Tah kitu pigeusaneun manusa anu pinuh karumasaan sanajan jeung séjén bangsa, sabab tunggal turunan ti Nabi Adam ‘Alaihis Salām. Numutkeun ayat 70 suroh al-Isrō' anu pisundaeunana kieu: “Kacida ngamulyakeunana Kami ka turunan Adam ‘Alaihis Salām, jeung Kami nyebarkeun sakabéh daratan ogé lautan, jeung ngarijkian Kami ka maranéhanana, anu aya di darat jeung lautan, jeung Kami ngutamakeun ka maranéhanana, malah leuwih utama ti makhluk anu séjénna.”
 
-“*Kacida ngamulyakeunana Kami ka turunan Adam ‘Alaihis Salam,  jeung Kami nyebarkeun sakabéh daratan ogé lautan, jeung ngarijkian Kami ka maranéhanana, anu aya di darat jeung lautan, jeung Kami ngutamakeun ka maranéhanana, malah leuwih utama ti mahkluk anu séjénna.*”
+Jadi harti ieu ayat nyaéta akur jeung batur-batur ulah aya kuciwana, nurutkeun ayat tina suroh Al-Mā'idah anu sundana: “Kudu silih tulungan jeung batur-batur dina enggoning kahadéan jeung katakwaan terhadep AGAMA jeung NAGARA, soson-soson ngalampahkeunana, sabalikna ulah silih tulungan kana jalan perdosaan jeung permusuhan terhadep paréntah AGAMA jeung NAGARA.”
 
-Jadi harti ieu ayat nyaéta akur jeung batur-batur ulah aya kuciwana, nurutkeun ayat tina surat Al-Ma’idah anu sundana:
+Ari sebagi agama, saagamana-saagamana, nurutkeun suroh Al-Kāfirūn ayat 6: “Agama anjeun keur anjeun, agama kuring keur kuring,” surahna ulah jadi papaséaan, “kudu akur jeung batur-batur tapi ulah campur baur.”
 
-“*Kudu silih tulungan jeung batur-batur dina enggoning kahadéan jeung katakwaan terhadep AGAMA jeung NAGARA, soson-soson ngalampahkeunana, sabalikna ulah silih tulungan kana jalan perdosaan jeung permusuhan terhadep paréntah AGAMA jeung NAGARA*.”
+Geuning dawuhan sepuh baheula: “Sina logor dina liang jarum, ulah sereg di buana.” Lamun urang henteu kitu tangtu hanjakal di akhirna. Karana anu matak tugenah terhadep badan urang masing-masing éta téh tapak amal perbuatanana.
 
-Ari sebagi agama, saagamana-saagamana, nurutkeun surat Al-Kafirun ayat 6: *“Agama anjeun keur anjeun, agama kuring keur kuring”,*
+Dina suroh An-Nahl ayat 112 diunggelkeun anu kieu: “Gusti الله geus maparin conto pirang-pirang tempat, boh kampungna atawa désana atawa nagarana, anu dina éta tempat nuju aman santosa, gemah ripah loh jinawi, kari-kari pendudukna (nu nyicinganana) teu narima kana ni’mat ti Pangéran, maka tuluy baé dina éta tempat kalaparan, loba kasusah, loba karisi jeung sajabana, kitu téh samata-mata pagawéan maranéhanana.”
 
-Surahna ulah jadi papaséaan *“kudu akur jeung batur-batur tapi ulah campur baur”.*
+Ku lantaran kitu, sakabéh murid-murid kudu arapik tilik jeung pamilih, dina nyiar jalan kahadéan lahir bathin dunya akhérat sangkan ngeunah nyawa betah jasad, ulah jadi kabengkahan anu disuprih “Cageur Bageur”.
 
-Geuning dawuhan sepuh baheula: *“Sina logor dina liang jarum, ulah sereg di buana”*. Lamun urangna henteu kitu tangtu hanjakal diakhirna. Karana anu matak tugeunah terhadep badan urang masing-masing éta téh tapak amal perbuatanana. Dina surat An-Nahli ayat 112 diunggelkeun anu kieu:
+Teu aya lian, pagawéan urang saréréa THORĪQOH QŌDIRIYYAH NAQSYABANDIYYAH MA’HAD SURYALAYA SIRNARASA PPKN amalkeun kalawan enya-enya keur ngahontal sagala kahadéan dlohir bathin, keur nyingkahan sagala kagoréngan dlohir bathin, anu ngeunaan ka jasad utama nyawa anu dirungrung ku pangwujuk napsu, digoda ku dayana syétan.
 
-“*Gusti اَللّهُ geus maparing conto pirang-pirang tempat, boh kampungna atawa désana atawa nagarana, anu dina éta tempat nuju aman sentosa, gemah ripah loh jinawi, kari-kari pendudukna (nu nyicinganana) teu narima kana ni’mat ti Pangéran, maka tuluy baé dina éta tempat kalaparan, loba kasusah, loba karisi jeung sajabana, kitu téh samata-mata pagawéan maranéhanana*”.
+Ieu wasiat kudu dilaksanakeun ku sadaya murid-murid, supaya jadi kasalametan dunya rawuh akhérat.
 
-Ku lantaran kitu, sakabéh murid-murid kudu arapik tilik jeung pamilih, dina nyiar jalan kahadéan lahir bathin dunya akhérat sangkan ngeunah nyawa betah jasad, ulah jadi kabengkahan anu disuprih*“Cageur Bageur”.*
-
-Teu aya lian pagawéan urang saréréa MTQN SURYALAYA SIRNARASA PPKN III amalkeun kalawan enya-enya keur ngahontal sagala kahadéan dhohir bathin, keur nyingkahan sagala kagoréngan dhohir bathin, anu ngeunaan ka jasad utama nyawa, anu dirungrung ku pangwujuk napsu, digoda ku dayana syétan.
-
-Ieu wasiat kudu dilaksanakaeun ku sadaya murid-murid, supaya jadi kasalametan dunya rawuh akhérat.
-
-PATAPAN SURYALAYA, 13 Februari 1956
-
-Ieu wasiat dihaturkeun ka sadaya ahli-ahli
-
+PATAPAN SURYALAYA, 13 Februari 1956.
+Ieu wasiat dihaturkeun ka sadaya ahli-ahli,
 ditawis ku,
 
-*(SYAIKH AHMAD SHOHIBUL WAFA TAJUL ‘ARIFIN RODHIYALLOOHU ‘ANHU. QODDASALLOHU SIRROHU.)*
+(SYAIKH AHMAD SHOHIBUL WAFA TAJUL ’ARIFIN,
+PPKN 2, RODLIYALLŌHU ‘ANHU, 
+QODDASALLŌHU SIRROH(U))
 
-*Ila Hadroti Syaikh Ahmad Shohibul Wafa Tajul ‘Arifin Rodhiyallohu ‘Anhu. Qoddasallohu Sirrohu,Al-Fatihah…….*
+Ilā ḥadlrotisy Syaikh Ahmad Shohibul Wafa Tajul ‘Arifin,
+PPKN 2, Rodliyallōhu ‘anhu, Qoddasallōhu sirroh(u);
+Al-Fātiḥah…
 
-RANGGEUYAN MUTIARA :
+RANGGEUYAN MUTIARA:
 
- 1. ULAH NGÉWA KA ULAMA ANU SAJAMAN
- 2. ULAH NYALAHKEUN KANA PANGAJARAN BATUR
- 3. ULAH MARIKSA MURID BATUR
- 4. ULAH MEDAL SILA UPAMA KAPANAH
- 5. KUDU ASIH KA JALMA NU MIKANGÉWA KA MANEH
+1. ULAH NGÉWA KA ULAMA ANU SAJAMAN;
+2. ULAH NYALAHKEUN KANA PANGAJARAN BATUR;
+3. ULAH MARIKSA MURID BATUR;
+4. ULAH MEDAL SILA UMPAMA KAPANAH;
+5. KUDU ASIH KA JALMA NU MIKA NGÉWA KA MANÉH.
 
-*(Pangersa Guru Almarhum)*
+(Pangersa Guru Almarhum)
 
-*Bikaromati  SYAIKH MUHAMMAD ABDUL GAOS SAEFULLOH MASLUL AL QODIRI AN-NAQSYABANDI AL-KAMIL AL-MUWAFFAQ, QODDASALLAHU SIRROHU.  Al-Faatihah…*
+Bi karōmati
+SYAIKH MUHAMMAD ‘ABDUL GAOS SAEFULLOH MASLUL AL-QŌDIRI AN-NAQSYABANDI AL-KAMIL AL-MUWAFFAQ, PPKN 3, QODDASALLŌHU SIRROH(U);
+Al-Fātiḥah..
 
 ۞۞۞
 
 PANCASILA
 
 1. Ketuhanan Yang Maha Esa.
-2. Kemanusiaan Yang Adil Dan Beradab.
+2. Kemanusiaan yang Adil dan Beradab.
 3. Persatuan Indonesia.
-4. Kerakyatan Yang Dipimpin Oleh Hikmat KebijaksanaanDalam Permusyawaratan Perwakilan.
-5. Keadilan Sosial Bagi Seluruh Rakyat Indonesia.
+4. Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan.
+5. Keadilan Sosial bagi Seluruh Rakyat Indonesia.
 
-*Wassalaamu’alaikum warohmatulloh wabarokaatuh.*
+Wassalāmu’alaikum waroḥmatullōhi wabarokātuh.
 
 ۞۞۞
+
+---
+
+[^1]: Penghulu Pesantren Ketahanan Nasional
+[^2]: رَئِيْسُ الْمَعْهَدِ الصُّمُوْدِ الْوَطَنِيِّ الْأَوَّلِ (terjemahan *Penghulu Pesantren Ketahanan Nasional* ke dalam bahasa Arab)
