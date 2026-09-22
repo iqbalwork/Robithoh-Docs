@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-09-21T23:32:25Z",
+  "version": 6,
+  "updatedAt": "2026-09-22T22:32:29Z",
   "totalDocuments": 90,
   "documents": [
     {
@@ -429,8 +429,8 @@
     },
     {
       "fileName": "MC_MANAQIB_INDONESIA.md",
-      "sha256": "8e6a727bbea9ca3d4eae11ea7368322e0b3b7be068f8f68745e616a94a4d618f",
-      "size": 2133,
+      "sha256": "2045d5cbb2b3f7f7c440907dec09472ffccf9859323b36a6c81a9c0ebea2b498",
+      "size": 2527,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MC_MANAQIB_INDONESIA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MC_MANAQIB_INDONESIA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MC_MANAQIB_INDONESIA.md"

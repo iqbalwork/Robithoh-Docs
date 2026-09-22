@@ -1,10 +1,15 @@
 # MC Manaqib
 
+## MC TERBARU PENGAJIAN KETAHANAN NASIONAL NKRI
+**AMANAH PENGERSA ABAH SELASA 22 SEPTEMBER 2026, MARKAS BESAR PENGHULU PESANTREN KETAHANAN NASIONAL III**
+
 ---
 
-Assalamualaikum warohmatulloh wabarokatuh. Bismillahirrohmanirrohim Alhamdulillahi robbil alamin Washsholatu wassalaamu ala syamsil mursalin wa qomarin nabiyyin wa sidroti muntahal ‘arifin sayidina Muhammadin wa ala alihi washohbihi ajma’in amma ba’ad..
+اَلسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-Pengajian Anti Gempa, manaqiban kali ini dalam rangka merayakan 9 kemenangan :
+Bismillahirrohmanirrohim Alhamdulillahi robbil alamin Washsholatu Wassalaamu ala syamsil mursalin wa qomarin nabiyyin wa sidroti muntahal ‘arifin sayidina Muhammadin wa ala alihi washohbihi ajma’in amma ba’du
+
+Pengajian Ketahanan Nasional NKRI kali ini dalam rangka merayakan 9 kemenangan :
 
 1. La’alakum Tattaqun
 2. Nuzuulul Qur’an
@@ -18,27 +23,31 @@ Pengajian Anti Gempa, manaqiban kali ini dalam rangka merayakan 9 kemenangan :
 
 Dengan Acara Sebagai Berikut :
 
-### A. Khidmat ‘Amaliyah
+**Khidmat ‘Amaliyah**
 1. Pembacaan ayat Al-Qur’an oleh : ……………………..
 2. Pembacaan Sholawat Thoriqiyyah oleh : ……………………..
-3. Pembacaan Tanbih dengan Pancasila oleh : ……………………..
+3. Pembacaan Tanbih dan Pancasila oleh : ……………………..
 4. Pembacaan Tawassul oleh : ……………………..
-5. Pembacaan Manqobah oleh : ……………………..
+5. Pembacaan Manqobah sejarah pembela agama dan negara oleh : ……………………..
+6. Tabaruk Kitab Fadhoilussyuhuur disampaikan oleh : ……………………..
 
-### B. (Jika ada) Sambutan oleh : ……………………..
-
-### C. (Jika ada) Tabaruk Kitab Fadhoilussyuhuur disampaikan oleh : ……………………..
-
-### D. Khidmat ‘Ilmiyyah disampaikan oleh :
+8. **Khidmat ‘Ilmiyyah untuk kejayaan agama dan negara disampaikan oleh :**
 1. ……………………..
 2. ……………………..
 3. Pangersa Abah Aos
 
-### E. Sholawat Bani Hasyim (3x) dilanjutkan dengan Sholawat Badriyyah
+Sholawat Bani Hasyim (3x) dilanjutkan dengan Sholawat Badriyyah  
+Kepada para petugas dipersilahkan
 
-Kepada para petugas dipersilahkan secara estafet.
+وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-Wassalamu’alaikum warohmatulloh wabarokatuh.
+---
+
+**SUMBER :**  
+SYAIKH MUHAMMAD ABDUL GAOS SAEFULLOH MASLUL  
+
+**PENYUSUN REDAKSI:**  
+ACEP DEDEN PRAJA TASMAN (KETUA BADAN EKSEKUTIF SISWATAMA /BES IAISM)
 
 ---
 
