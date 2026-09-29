@@ -58,7 +58,7 @@ Syaikh Abdul Qodir telah berwasiat kepada putranya yang bernama Abdul Rozak deng
 
 Perihara olehmu kehormatan guru-guru, dan berbuat baiklah kepada orang lain, beri nasihat yang baik kepada orang-orang besar tingkat kedudukanya, demikian pula bagi masyarakat kecil. Jangan suka berbantah-bantahan dengan orang lain kecuali dalam masalah agama.
 
-Ketahuilah bahwa hakikat kemiskinan adalah perlu kepada orang lain, dan hakikat tidak perlu kepada orang lain. Tasawwuf dicapai dengan jalan lapar dan pantangan dari hal-hal yang disukai dan dihalalkan, dan tidak banyak bicara, jika kamu berhadapan dengan orang faqir, jangan dimulai dengan ilmu, sebab akan menjauh denganmu. Sebaiknya, hendaklah dimulai dengan kasih sayang, bersikap lembutlah terhadapnya, membuatnya lebih dekat padamu.
+Ketahuilah bahwa hakikat kemiskinan adalah perlu kepada orang lain, dan hakikat kekayaan tidak perlu kepada orang lain. Tasawwuf dicapai dengan jalan lapar dan pantangan dari hal-hal yang disukai dan dihalalkan, dan tidak banyak bicara, jika kamu berhadapan dengan orang faqir, jangan dimulai dengan ilmu, sebab akan menjauh denganmu. Sebaiknya, hendaklah dimulai dengan kasih sayang, bersikap lembutlah terhadapnya, membuatnya lebih dekat padamu.
 
 Tasawwuf dibangun diatas delapan hal yakni; 1. Dermawan, 2. Ridlo, 3. Sabar, 4. ‘Isyaroh, 5. Mengembara, 6. Berbusana bulu, 7. Pecinta alam, dan faqir. Dermawan Nabi Ibrohim, ridho Nabi Ishaq, sabar Nabi Ayyub, Isyarohnya Nabi Zakaria, mengembara seperti Nabi Yusuf, berbusana wool seperti Nabi Yahya, pecinta alam Nabi Isa, dan kefakiran Nabi Muhammad Shollallohu 'Alaihi Wasallam.
 
@@ -66,7 +66,7 @@ Bila kamu berkumpul bersama orang kaya, perlihatkan kegagahanmu, kerendahan hati
 
 Perhatikan olehmu bahwa yang paling dekat kepada اَللّهُ ialah orang yang paling budi pekertinya. Dan amal yang paling utama ialah memelihara hati dari melirik kepada selain اَللّهُ.
 
-Bila bergaul dengan orang miskin, berwasiatlah dengan kebenaran dan kesabaran. Cukup bagimu dari dunia itu dua hal: pertama, bergaul dengan orang miskin, kedua menghormati wali. Selain dari pada اَللّهُ, segala sesuatu itu jangan dipandang cukup, gagah kepada yang dibawahmu adalah pengecut, gagah terhadap sesuatu adalah lemah dan gagah kepada orang yang lebih tinggi kedudukanya adalah sombong. Ketahuilah bahwa Tasawwuf dan fakir merupakan Dwi Tunggal kebenaran yang hakiki, bukan main-main, oleh karena itu jangan dicampur dengan main-main”.
+Bila bergaul dengan orang miskin, berwasiatlah dengan kebenaran dan kesabaran. Cukup bagimu dari dunia itu dua hal: pertama, bergaul dengan orang miskin, kedua menghormati wali. Selain dari pada اَللّهُ, segala sesuatu itu jangan dipandang cukup, gagah kepada yang dibawahmu adalah pengecut, gagah terhadap sesama adalah lemah dan gagah kepada orang yang lebih tinggi kedudukanya adalah sombong. Ketahuilah bahwa Tasawwuf dan fakir merupakan Dwi Tunggal kebenaran yang hakiki, bukan main-main, oleh karena itu jangan dicampur dengan main-main”.
 
 Demikian wasiat ayah, semoga اَللّهُ melimpahkan taufiq dan hidayahnya kepadamu dan kepada murid-murid, atau kepada siapapun yang mendengar wasiat ini, semoga dapat mengamalkanya dengan syafa’at junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam, Aamiin ya Robbal ‘alamin.
 

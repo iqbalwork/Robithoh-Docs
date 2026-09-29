@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updatedAt": "2026-09-23T09:07:57Z",
+  "version": 10,
+  "updatedAt": "2026-09-29T22:16:28Z",
   "totalDocuments": 91,
   "documents": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "fileName": "AMALIYAH_ROBIUTSTSANI.md",
-      "sha256": "3f7e0ca89e0cf71b3b2e62299d152378c7ddedd87295626630c4405ad2bfc19f",
-      "size": 13731,
+      "sha256": "c5296800c660bd2374ec9ec5c51b48977294dfe6d8fb7c69c91cbd0411a7880e",
+      "size": 13739,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIUTSTSANI.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIUTSTSANI.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_ROBIUTSTSANI.md"
@@ -421,8 +421,8 @@
     },
     {
       "fileName": "MANQOBAH_INDONESIA.md",
-      "sha256": "ce6b4edb79d9cd5083d832f4229feaf07848eeecd32ccc5a3a893f4d70b07341",
-      "size": 50963,
+      "sha256": "bde9938f141f0d32ab05f47551ffedb63ba23a93088c790d66c22fa95c6a9bde",
+      "size": 50971,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MANQOBAH_INDONESIA.md"
