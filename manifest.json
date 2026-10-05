@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updatedAt": "2026-10-05T04:36:05Z",
+  "version": 15,
+  "updatedAt": "2026-10-05T08:22:12Z",
   "totalDocuments": 91,
   "documents": [
     {
@@ -341,8 +341,8 @@
     },
     {
       "fileName": "DZIARAH_KUBUR.md",
-      "sha256": "2eff40bb0a84fad04ee6e4886c4a2b022a1c73910b3844b5d9d59705601d7151",
-      "size": 41989,
+      "sha256": "df5b16740b5a766d45f2579242076dc9aced2cc403299ccfc560c435e2c887d1",
+      "size": 42099,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_KUBUR.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DZIARAH_KUBUR.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DZIARAH_KUBUR.md"
