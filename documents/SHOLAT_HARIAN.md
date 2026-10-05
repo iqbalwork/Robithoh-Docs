@@ -1736,13 +1736,24 @@ Al-Ikhlash
 
 Qul Huwalloohu Ahad, Alloohus-Shomad, Lam Yalid Wa Lam Yuulad, Wa Lam Yakul-Lahuu Kufuwan Ahad.
 
-Dilanjutkan dengan Do’a :
+Dilanjutkan dengan Do’a (Dibaca sebanyak 26 kali) :
 
-اَللَّهُمَّ اِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ، فَاعْفُ عَنَّا
+> **Amanah Pangersa Abah (Sabtu, 3 Oktober 2026)**:
+> - **Bacaan Ke-1 s/d Ke-25 (dibaca 25x):**
+> 
+> اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا
+> 
+> *Allohumma innaka 'afuwwun kariim tuhibbul 'afwa fa'fu 'annaa*
+> 
+> - **Bacaan Ke-26 (Memakai tambahan "يَا كَرِيمُ" di akhir):**
+> 
+> اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا يَا كَرِيمُ
+> 
+> *Allohumma innaka 'afuwwun kariim tuhibbul 'afwa fa'fu 'annaa yaa kariim*
+> 
+> *(Sumber: Ustadz Lukman - Aspri Pangersa Abah Aos | Penyusun Redaksi: Acep Deden Praja Tasman)*
 
-Allohumma innaka afuwwun tuhibbul afwa fa’fuannaa 26x
-
-Artinya : Yaa اَللّهُ , sesungguhnya Engkau Dzat Maha Pengampun lagi Maha Mulia dan suka Mengampuni, ampunilah kami wahai Dzat Yang Maha Mulia.*
+*Artinya : Yaa اَللّهُ , sesungguhnya Engkau Dzat Maha Pengampun lagi Maha Mulia dan suka Mengampuni, ampunilah kami wahai Dzat Yang Maha Mulia.*
 
 ## SEBELUM TIDUR
 
