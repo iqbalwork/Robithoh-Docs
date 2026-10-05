@@ -6,13 +6,67 @@ Ziaroh Kubur
 
 ---
 
-Ucapkan salam dengan posisi berdiri kepada ahli kubur sebelum memulai Ziaroh.
+### Salam Pembuka Ziaroh Qubur
 
-اَلسَّلَامُ عَلَيْكُمْ يَا
+Ucapkan salam dengan posisi berdiri kepada ahli kubur sebelum duduk:
 
-اتَحِيَّةً مِّنَّا اِلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، اَلْفَاتِحَةْ
+**1. Ziaroh Umum (Untuk Almarhum - Laki-laki Tunggal):**
 
-ِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
+اَلسَّلَامُ عَلَيْكُمْ يَا أَيُّهَا الْمَرْحُوْمُ، تَحِيَّةً مِنِّيْ إِلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+*Assalaamu ‘alaikum yaa ayyuhal marhuum, tahiyyatam minnii ilaikum wa rohmatulloohi wa barokaatuh.*
+
+*Keselamatan semoga tercurah atasmu wahai almarhum, salam penghormatan dariku kepadamu serta rahmat dan berkah Allah.*
+
+**2. Ziaroh Umum (Untuk Almarhumah - Perempuan Tunggal):**
+
+اَلسَّلَامُ عَلَيْكُمْ يَا أَيَّتُهَا الْمَرْحُوْمَةُ، تَحِيَّةً مِنِّيْ إِلَيْكُنَّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+*Assalaamu ‘alaikum yaa ayyatuhal marhuumah, tahiyyatam minnii ilaikunna wa rohmatulloohi wa barokaatuh.*
+
+*Keselamatan semoga tercurah atasmu wahai almarhumah, salam penghormatan dariku kepadamu serta rahmat dan berkah Allah.*
+
+**3. Ziaroh Qubur Waliyulloh (Sebelum Duduk Sampaikan Salam):**
+
+اَلسَّلَامُ عَلَيْكُمْ يَا وَلِيُّ، تَحِيَّةً مِنِّيْ / مِنَّا إِلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+*Assalaamu ‘alaikum yaa waliyyu, tahiyyatam minnii / minnaa ilaikum wa rohmatulloohi wa barokaatuh.*
+
+*Keselamatan semoga tercurah atasmu wahai waliyullah, salam penghormatan dariku / dari kami kepadamu serta rahmat dan berkah Allah.*
+
+---
+
+### Tata Cara Mengucurkan Air ke Kuburan
+
+Cara mengucurkan air ke kuburan sesuai sunnah sebanyak 3 kali (dikucurkan dari arah kaki ke arah kepala):
+
+**1. Cucuran Pertama, sambil membaca:**
+
+مِنْهَا خَلَقْنَاكُمْ، اَللَّهُمَّ افْتَحْ أَبْوَابَ السَّمَاءِ لِرُوْحِهِ / لِرُوْحِهَا
+
+*Minhaa kholaqnaakum, alloohummaftah abwaabas samaa-i li ruuhihii / li ruuhihaa.*
+
+*Dari bumi (tanah) itulah Kami menciptakan kamu. Ya Allah, bukakanlah pintu-pintu langit bagi ruhnya (laki-laki / perempuan).*
+
+**2. Cucuran Kedua, sambil membaca:**
+
+وَفِيْهَا نُعِيْدُكُمْ، اَللَّهُمَّ جَافِ الْأَرْضَ عَنْ جَنْبَيْهِ / جَنْبَيْهَا
+
+*Wa fiihaa nu'iidukum, alloohumma jaafil ardho 'an jambaihi / jambaihaa.*
+
+*Dan kepadanya Kami akan mengembalikan kamu. Ya Allah, renggangkanlah tanah bumi dari kedua lambungnya (laki-laki / perempuan).*
+
+**3. Cucuran Ketiga, sambil membaca:**
+
+وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَى، اَللَّهُمَّ لَقِّنْهُ حُجَّتَهُ / حُجَّتَهَا
+
+*Wa minhaa nukhrijukum taarotan ukhroo, alloohumma laqqinhu hujjatahuu / laqqinhaa hujjatahaa.*
+
+*Dan daripadanya Kami akan mengeluarkan kamu pada kali yang lain. Ya Allah, tuntunkanlah kepadanya hujjahnya (jawaban/kesaksiannya).*
+
+---
+
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
 اِلٰى حَضْرَةِ النَّبِيِّ الْمُصْطَفٰى مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَعَلٰى اٰلِهٖ وَاَصْحَابِهٖ وَاَزْوَاجِهٖ وَذُرِّيّٰتِهٖ وَاَهْلِ بَيْتِهٖ وَلِمَنْ دَخَلَ فِي بَيْتِهٖ اَجْمَعِيْنَ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
