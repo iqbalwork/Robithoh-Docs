@@ -7,29 +7,29 @@
 
 ### 1. Salam Ke Kanan
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-*Ditambah dengan membaca:*
+*Ditambah dengan:*
 
-إِنِّيْ أَسْأَلُكَ فَوْزًا بِالْجَنَّةِ
+إِنِّي أَسْأَلُكَ فَوْزًا بِالْجَنَّةِ
 
 **Inni As Aluka Fauza Bil jannah**
 
-> *Artinya: "Sesungguhnya aku memohon kepada-Mu kemenangan (keberuntungan) dengan Surga."*
+> *Artinya: Sesungguhnya aku memohon kepada-Mu kemenangan (keberuntungan) dengan Surga.*
 
 ---
 
 ### 2. Salam Ke Kiri
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-*Ditambah dengan membaca:*
+*Ditambah Dengan:*
 
-إِنِّيْ أَسْأَلُكَ نَجَاةً مِّنَ النَّارِ وَالْعَفْوَ عِنْدَ الْحِسَابِ
+إِنِّي اَسْأَلُكَ نَجَاةً مَّنَ النَّارِ وَالْعَفْوَ عِنْدَ الْحِسَابِ
 
 **Inni As Aluka Najatam Minannar Wa Afwa ‘Indal Hisab**
 
-> *Artinya: "Sesungguhnya saya meminta kepada Engkau keselamatan dari api neraka, dan pengampunan di hari perhitungan amal."*
+> *Artinya: "Sesungguhnya Saya Meminta Kepada Engkau Keselamatan Dari Api Neraka, Dan Pengampunan Di Hari Perhitungan amal."*
 
 ---
 
