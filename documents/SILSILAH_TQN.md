@@ -1,159 +1,40 @@
-# SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
-
----
-
-SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
-
-رَبُّ الْأَرْبَابِ وَمُعْتِقُ الرِّقَابِ اَللّٰهُ سُبْحَانَهُ وَتَعَالٰى
-
-1. Robbul Arbaabi, wa Mu’tiqur riqoobi, اَللّهُ Subhaanahu wa Ta’aala
-
-سَيِّدُنَا جِبْرِيْلُ عَلَيْهِ السَّلَامُ
-
-2. Sayyiduna Jibril ‘Alihis Salam
-
-سَيِّدُنَا مَنْبُعُ الْعِلْمِ وَالْأَسْرَارِ وَمـَخْزَنُ الْفَيْضِ وَالْأَنْوَارِ وَمَلْجَاءُ الْأُمَّةِ وَالْأَبْرَارِ وَمَهْبَطُ جِبْرِيْلَ فِي اللَّيْلِ وَالنَّهَارِ حَبِيْبُ اللّٰهِ السَّـتَّارِ الَّذِي أُنْزِلَ عَلَيْهِ أَفْضَلُ الْكُتُبِ وَالْأَسْفَارِ سَيِّدُنَا مُحـَمَّدُ الْـمُخْتَارُ صَلَّى اللّٰهُ عَلَيْهِ وَعَلٰى اٰلِهٖ وَاَصْحَابِهِ الْأَخْيَارِ
-
-3.  Sayyidunaa Manba’ul ‘ilmi wal asroori wa  makhzanul, faidhi wal anwaari wa malja’ul ummati wal abroori wa mahbathu Jibrila fil laili wan nahaari, Habibullahis sattaaril ladzii unzila ‘alaihi afdholul kutubi wal asfaari, Sayyidina Muhammad Al Mukhtaar, shollallaahu ‘alaihi wa ‘alaa aalihi wa ashhaabihil akhyaar
-
-سَيِّدُنَا عَلِيُّ كَرَّمَ اللّٰهُ وَجْهَهُ
-
-4. Sayyidunaa Ali Karromalloohu wajhahu
-
-سَيِّدُنَا حُسَيْنُ رَضِيَ اللّٰهُ عَنْهُ
-
-5. Sayyidunaa Husain Radhiyalloohu ‘anhu
-
-سَيِّدُنَا زَيْنُ الْعَابِدِيْنَ رَضِيَ اللّٰهُ عَنْهُ
-
-6. Sayyidunaa Zainul ‘Aabidin Radhiyalloohu ‘anhu
-
-سَيِّدُنَا مُـحَمَّدُ الْبَاقِرُ رَضِيَ اللّٰهُ عَنْهُ
-
-7. Sayyidunaa Muhammad Al Baaqir Radhiyalloohu ‘anhu
-
-سَيِّدُنَا جَعْفَرُ الصَّادِقُ رَضِيَ اللّٰهُ عَنْهُ
-
-8. Sayyidunaa Ja’far Ash Shoodiq Radhiyalloohu ‘anhu
-
-سَيِّدُنَا الْإِمَامُ مُوْسٰى الْكَاظِمُ رَضِيَ اللّٰهُ عَنْهُ
-
-9. Sayyidunaa Imam Musa Al Kaazhim Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُوْ الْحَسَنِ عَلِيُّ ابْنُ مُوْسٰى الرِّضٰى رَضِيَ اللّٰهُ عَنْهُ
-
-10. Syaikh Abul Hasan ‘Ali bin Musa Ar Ridho Radhiyalloohu ‘anhu
-
-الشَّيْخُ مَعْرُوْفُ الْكَرْخِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-11. Syaikh Ma’ruf Al Karkhi Radhiyalloohu ‘anhu
-
-الشَّيْخُ سِرُّ السَّقْطِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-12. Syaikh Sirri As Saqthi Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو الْقَاسِمِ الْـجُنَيْدُ الْبَغْدَادِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-13. Syaikh Abul Qosim Al Junaid Al Baghdadi Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو بَكْرٍ دِلْفِ الشِّبْلِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-14. Syaikh Abu Bakar Dilf As Syibli Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو الْفَضْلِ أَوْ عَبْدُ الْوَاحِدِ التَّمِيْمِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-15. Syaikh Abul Fadhli / Abdul Wahid At Tamimi Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو الْفَرَجِ الطُّرْطُوْسِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-16. Syaikh Abul Faroj At Thurthusi Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو الْحَسَنِ عَلِيُّ ابْنُ يُوْسُفُ الْقِرْسِيُّ الْهَكَّارِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-17. Syaikh Abul Hasan ‘Ali bin Yusuf Al Qirsi Al Hakkari Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو سَعِيْدُ الْمُبَارَكِ ابْنُ عَلِيُّ الْـمَحْزُوْمِيُّ رَضِيَ اللّٰهُ عَنْهُ
-
-18. Syaikh Abu Sa’id Al Mubarok bin ‘Ali Al Mahzumi Radhiyalloohu ‘anhu
-
-الشَّيْخُ عَبْدُ الْقَادِرِ الْـجَيْلَانِيُّ قَدَّسَ اللّٰهُ سِرَّهُ
-
-19. Syaikh Abdul Qodir Al Jailani Qoddasalloohu sirrohu
-
-الشَّيْخُ عَبْدُ الْعَزِيْزِ رَضِيَ اللّٰهُ عَنْهُ
-
-20. Syaikh Abdul Aziz Radhiyalloohu ‘anhu
-
-الشَّيْخُ مُـحَمَّدُ الْهَتَّاكُ رَضِيَ اللّٰهُ عَنْهُ
-
-21. Syaikh Muhammad Al Hattak Radhiyalloohu ‘anhu
-
-الشَّيْخُ شَمْسُ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-22. Syaikh Syamsuddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ شَرَفُ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-23. Syaikh Syarafuddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ نُوْرُ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-24. Syaikh Nuruddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ وَلِيُّ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-25. Syaikh Waliyyuddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ حِشَامُ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-26. Syaikh Hisyamuddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ يحيٰى رَضِيَ اللّٰهُ عَنْهُ
-
-27. Syaikh Yahya Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَبُو بَكْرٍ رَضِيَ اللّٰهُ عَنْهُ
-
-28. Syaikh Abu Bakar Radhiyalloohu ‘anhu
-
-الشَّيْخُ عَبْدُ الرَّحِيْمِ رَضِيَ اللّٰهُ عَنْهُ
-
-29. Syaikh Abdurrohim Radhiyalloohu ‘anhu
-
-الشَّيْخُ عُثْمَانُ رَضِيَ اللّٰهُ عَنْهُ
-
-30. Syaikh Usman Radhiyalloohu ‘anhu
-
-الشَّيْخُ عَبْدُ الْفَتَّاحِ رَضِيَ اللّٰهُ عَنْهُ
-
-31. Syaikh Abdul Fattah Radhiyalloohu ‘anhu
-
-الشَّيْخُ مُـحَمَّدُ مُرَادِ رَضِيَ اللّٰهُ عَنْهُ
-
-32. Syaikh Muhammad Murad Radhiyalloohu ‘anhu
-
-الشَّيْخُ شَمْسُ الدِّيْنِ رَضِيَ اللّٰهُ عَنْهُ
-
-33. Syaikh Syamsuddin Radhiyalloohu ‘anhu
-
-الشَّيْخُ أَحْمَدُ خَاطِبِ ابْنِ عَبْدُ الغَفَّارِ السَّمْبَاسِيِّ رَضِيَ اللّٰهُ عَنْهُ
-
-34. Syaikh Ahmad Khotib bin Abdul Ghoffar As Sambasi Radhiyalloohu ‘anhu
-
-الشَّيْخُ طَلْحَةُ رَضِيَ اللّٰهُ عَنْهُ
-
-35. Syaikh Tholhah Kalisapu Cirebon Radhiyalloohu ‘anhu
-
-الشَّيْخُ عَبْدُ اللّٰهِ مُبَارَكِ بِنْ نُوْرِ مُحَمَّدٍ رَضِيَ اللّٰهُ عَنْهُ
-
-36. Syaikh Abdulloh Mubarak bin Nur Muhammad Radhiyalloohu ‘anhu
-
-الشَّيْخُ اَحْمَدُ صَاحِبُ الْوَفٰى تَاجُ الْعَارِفِيْنَ رَضِيَ اللّٰهُ عَنْهُ
-
-37. Syaikh Ahmad Shohibul Wafa Tajul ‘Arifin Radhiyalloohu ‘anhu
-
-الشَّيْخُ مُحَمَّدُ عَبْدُ الْغَوْثِ الصَّمَدَانِي سَيْفُ اللّٰهِ مَسْلُوْلُ الْقَادِرِيُّ النَّقْشَبَنْدِيُّ الْمُتَّقِي الْكَامِلُ الْمُوَفَّقُ الْمُجَدِّدُ الْقُطْبُ قَدَّسَ اللّٰهُ سِرَّهُ
-
-38. Syekh Muhammad Abdul Gaos As Shomadany Saefulloh Maslul Al Qodiri An Naqsabandi Al Mutaqi Al Kamil Al Muwaffaq Al Mujadid Al Quthub Qoddasalloohu Sirroh
-
-۞۞۞
+# SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA’HAD SURYALAYA SIRNARASA PPKN III
+
+1. **Robbul Arbaabi Wamu'tiqur Riqoobi Alloh Subhanahu Wa Ta'ala**
+2. **Sayyidunaa Jibbriil 'Alaihis Salaam**
+3. **Sayyidunaa Manba-Ul 'Ilmi Wal Asroori Wa Makhzanul Faidli Wal Anwaari Wa Maljaa-Ul Ummati Wal Abroori Wamahbathu Jibriila Fil-Laili Wan Nahaari Wa Habiibulloohis Sattaaril Ladzii Unzila 'Alaihi Afdlolul Kutubi Wal Asfaari Sayyidunaa Muhammadunil Mukhtaari Shollaoohu 'Alaihi Wa 'Alaa Aalihi Wa Ash-Haabihil Akhyaar**
+4. **Sayyidunaa 'Aliy Karomalloohu Wajhah**
+5. **Sayyiduna Husain Rodliyalloohu 'Anhu**
+6. **Sayyidunaa Zainal 'Abidin Rodliyalloohu 'Anhu**
+7. **Sayyidunaa Muhammad Baaqir Rodliyalloohu 'Anhu**
+8. **Sayyidunaa Ja'far Shodhiq Rodliyalloohu 'Anhu**
+9. **Sayyidunaa Imam Musa Al-Kaadhim Rodliyalloohu 'Anhu**
+10. **Syekh Abul Hasan 'Ali Bin Musa Al-Ridho Rodliyalloohu 'Anhu**
+11. **Syekh Ma'ruuf Al-Karkhi Rodliyalloohu 'Anhu**
+12. **Syekh Sirris Saqothi Rodliyalloohu 'Anhu**
+13. **Syekh Abul Qosim Junaidil Baghdadiy Rodliyallohu 'Anhu**
+14. **Syekh Abu Bakrin Dilfisy-Syibli Rodliyalloohu 'Anhu**
+15. **Syekh Abul Fadl-Li Ao 'Abbdul Waahid At-Tamiimii Rodliyalloohu 'Anhu**
+16. **Syekh Abdul Faroj At-Thurthuusi Rodliyalloohu 'Anhu**
+17. **Syekh Abul Hasan Alii Bin Yuusuf Al- Qirsyi Al Hakaarii Rodliyalloohu 'Anhu**
+18. **Syekh Abuu Sa'iid Al Mubarok Bin Alii Makhzuumii Rodliyalloohu 'Anhu**
+19. **Syekh 'Abdul Qoodir Al Jaelani Qoddasalloohu Sirrohu**
+20. **Syekh 'Abdul 'Aziiz Rodliyalloohu 'Anhu**
+21. **Syekh Muhammad Al-Hattaak Rodliyalloohu 'Anhu**
+22. **Syekh Syamsuddin Rodliyalloohu 'Anhu**
+23. **Syekh Syarofudiin Rodliyalloohu 'Anhu**
+24. **Syekh Nuuruddiin Rodliyalloohu 'Anhu**
+25. **Syekh Waliyuddiin Rodliyalloohu 'Anhu**
+26. **Syekh Hisaamuddiin Rodliyalloohu 'Anhu**
+27. **Syekh Yahya Rodliyalloohu 'Anhu**
+28. **Syekh Abuu Bakar Rodliyalloohu 'Anh**
+29. **Syekh Abdurrohiim Rodliyalloohu 'Anhu**
+30. **Syekh 'Ustman Rodliyalloohu 'Anhu**
+31. **Syekh 'Abdul Fattah Rodliyalloohu 'Anhu**
+32. **Syekh Muhammad Murood Rodliyalloohu 'Anhu**
+33. **Syekh Syamsuddiin Rodliyalloohu 'Anhu**
+34. **Syekh Ahmad Khootib Syambaasi Rodliyalloohu 'Anhu**
+35. **Syekh Tholhah Rodliyalloohu 'Anhu**
+36. **Syekh Abdulloh Mubarok Bin Nur Muhammad Rodliyalloohu 'Anhu**
+37. **Syekh Ahmad Shohibulwafa Tajul 'Arifin Rodliyalloohu 'Anhu**
+38. **Syekh Muhammad Abdul Gaos As Shomadany Saefulloh Maslul Al Qodiri An Naqsabandi Al Mutaqi Al Kamil Al Muwaffaq Al Mujadid Al Quthub Qoddasalloohu Sirroh**

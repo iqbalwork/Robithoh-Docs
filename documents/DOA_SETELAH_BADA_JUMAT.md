@@ -1,6 +1,9 @@
-# Amaliyah Setelah Sholat Sunnah Ba'da Jum'at
+# DO'A SETELAH SHOLAT JUM'AT (BA'DA JUM'AT)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H*
 
 ---
 

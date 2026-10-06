@@ -1,8 +1,15 @@
-# IQOMAH SUBUH
+# BACAAN SHOLAWAT SEBELUM IQOMAH SHOLAT SHUBUH
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Rangkaian Waktu Hendak Shubuh**:
+> 1. [Tarhim Shubuh](TARHIM_TQN.md)
+> 2. [Dustur](DUSTUR.md)
+> 3. **Sholawat Sebelum Iqomah Shubuh** *(Naskah ini)*
+> 4. [Sholawat Bani Hasyim](SHOLAWAT_BANI_HASYIM.md)
 
 ---
 
-## Bacaan Menjelang Iqomah Subuh
+### Teks Shalawat Menjelang Iqomah Subuh
 
 اَللّهُمَّ صَلِّ وَسَلِّمْ وَزِدْ وَدِمْ وَأَنْعِمْ وَتَفَضَّلْ وَبَارِكْ بِجَلَالِكَ وَكَمَالِكَ عَلَى زَيْنِ عِبَادِكَ، وَأَشْرَفِ عُبَّادِكَ، وَأَسْعَدِ الْعَرَبِ وَالْعَجَمِ، وَإِمَامِ طَيْبَةَ وَالْحَرَمِ، وَمَنْبَعِ الْعِلْمِ وَالْحِلْمِ وَالْحِكْمَةِ وَالْحِكَمِ، أَبِي الْقَاسِمِ سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ، وَسَلِّمْ وَرَضِيَ اللهُ تَبَارَكَ وَتَعَالَى عَنْ كُلِّ صَحَابَةِ رَسُوْلِ اللهِ أَجْمَعِيْنَ.
 

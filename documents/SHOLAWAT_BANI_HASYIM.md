@@ -1,4 +1,11 @@
 # SHOLAWAT BANI HASYIM
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Rangkaian Waktu Hendak Shubuh**:
+> 1. [Tarhim Shubuh](TARHIM_TQN.md)
+> 2. [Dustur](DUSTUR.md)
+> 3. [Sholawat Sebelum Iqomah Shubuh](IQOMAH_SUBUH.md)
+> 4. **Sholawat Bani Hasyim** *(Naskah ini)*
 
 ---
 
@@ -19,5 +26,9 @@ Artinya: *Rahmat dan keselamatan serta penghormatan yang paling suci tercurah ke
 Allohumma shalli ‘alaannabiyyil hasyimiyyi Muhammadiw wa’alaa aalihi wa sallim tasliima.
 
 Artinya : *Ya اَللّهُ, Berikanlah rahmat sertasalam kepada seorang nabi keturunan Bangsawan Hasyim, yakni Muhammad beserta keluarganya, semogalah tetap selamat dan sejahtera.*
+
+---
+
+> ℹ️ **Catatan Waktu**: *5 menit sebelum adzan shubuh sudah harus membaca Sholawat Bani Hasyim.*
 
 ۞۞۞

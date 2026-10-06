@@ -1,6 +1,9 @@
-# Doa di Antara Dua Khuthbah
+# DO'A DI ANTARA DUA KHUTBAH
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Guru Agung Hadrotus Syeikh ABAH AOS Ra Qs ~ Jum'at, 23 Desember 2022
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Guru Agung Hadrotus Syeikh ABAH AOS Ra Qs ~ Jum'at, 23 Desember 2022*
 
 ---
 

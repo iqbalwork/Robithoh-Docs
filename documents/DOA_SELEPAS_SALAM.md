@@ -1,6 +1,9 @@
-# Doa Selepas Salam Sholat
+# DO'A SETIAP SETELAH SALAM SHOLAT (QS. FATHIR: 34)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Al Khoir 38 ~ Pangersa ABAH AOS Qs
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Al Khoir 38 ~ Pangersa ABAH AOS Qs*
 
 ---
 

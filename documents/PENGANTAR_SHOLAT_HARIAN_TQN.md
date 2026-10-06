@@ -7,15 +7,15 @@
 
 ### Pembagian 9 Waktu Sholat Harian
 
-1. **Waktu Malam**: Mandi Taubat, Sholat Syukrul Wudhu, Sholat Tahiyyatul Masjid, Sholat Taubat, Sholat Hajat, Sholat Tahajjud, Sholat Tasbih, dan Fardhu Shubuh.
-2. **Waktu Shubuh**: Sholat Sunnah Shubuh (Fajar), Fardhu Shubuh, dan Doa Persatuan/Benteng Musuh/Bala/Profesi/Hidayah/Kesabaran.
-3. **Waktu Isyroq**: Sholat Isyroq, Sholat Istikhoroh, Sholat Isti'anah, dan **Sholat Sunnah Syukur Kabinet Merah Putih**.
-4. **Waktu Dhuha**: Sholat Dhuha 4, 8, atau 12 Roka'at + Doa Sholat Dhuha.
-5. **Waktu Dzuhur**: Sholat Kifaarotul Bauli, Qobliyah Dzuhur, Fardhu Dzuhur, dan Ba'diyah Dzuhur.
-6. **Waktu Ashar**: Sholat Qobliyah Ashar dan Fardhu Ashar.
-7. **Waktu Maghrib**: Sholat Qobliyah Maghrib, Fardhu Maghrib, Ba'diyah Maghrib, Sholat Awwaabiin, Sholat Taubat, Sholat Birrul Waalidain, Sholat Hifzhil Iman, dan Sholat Syukrun Ni'mat.
-8. **Waktu Isya**: Sholat Qobliyah Isya, Fardhu Isya, dan Ba'diyah Isya.
-9. **Hendak Tidur**: Sholat Wudhu, Taubat, Istikhoroh, Hajat, dan Sholat Syukri Lailatul Qodar.
+1. **Waktu Malam**: Mandi Taubat, Syukrul Wudhu, Sholat Taubat, Tahiyyatul Masjid, Sholat Hajat (langkah Baghdad & sujud hajat), Sholat Tahajjud, Sholat Tasbih (300 tasbih), Sholat Witir (3 roka'at & wirid/doa witir), dan Sholat Lidaf'il Bala.
+2. **Waktu Shubuh**: Syukrul Wudhu, Tahiyyat Masjid, Syukur Ni'mat, Sholat Sunnah Shubuh (Qobliyah/Fajar), Sholat Lidaf'il Bala, Fardhu Shubuh, dan Dzikir Harian beserta doa-doa benteng/hajat.
+3. **Waktu Isyroq**: Syukrul Wudhu, Sholat Isyroq, Sholat Isti'adzah, Sholat Istikhoroh, Sholat Isti'anah, dan Sholat Sunnah Syukur Kabinet Merah Putih (Maklumat PPKN III).
+4. **Waktu Dhuha**: Syukrul Wudhu, Syukur Ni'mat (duduk), Sholat Dhuha (8 roka'at/2 salam tanpa tasyahud awal), dan Sholat Kifaarotul Bauli (2 roka'at duduk + QS. Asy-Syura: 19 sebanyak 38x).
+5. **Waktu Dzuhur**: Syukrul Wudhu, Tahiyyat Masjid, Syukur Ni'mat, Sholat Sunnah Qobliyah Dzuhur, Fardhu Dzuhur, Dzikir Harian, dan Sholat Sunnah Ba'diyah Dzuhur (4 roka'at: 2 berdiri, 2 duduk).
+6. **Waktu Ashar**: Syukrul Wudhu, Tahiyyat Masjid, Syukur Ni'mat, Sholat Sunnah Qobliyah Ashar, Fardhu Ashar, dan Dzikir Harian.
+7. **Waktu Maghrib**: Syukrul Wudhu, Tahiyyat Masjid, Syukur Ni'mat, Qobliyah Maghrib, Fardhu Maghrib, Dzikir Harian, Ba'diyah Maghrib, Sholat Birrul Waalidain, Sholat Taubat, Sholat Awwaabiin, Sholat Lidaf'il Bala, dan Sholat Hifdhil Imaan.
+8. **Waktu Isya**: Syukrul Wudhu, Tahiyyat Masjid, Syukur Ni'mat, Qobliyah Isya, Fardhu Isya, Dzikir Harian, Ba'diyah Isya, dan Sholat Lidaf'il Bala.
+9. **Sebelum Tidur (Hendak Tidur)**: Syukrul Wudhu, Sholat Taubat, Sholat Istikhoroh, Sholat Hajat, Dzikir & Doa hendak tidur.
 
 ---
 

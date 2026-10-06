@@ -1,4 +1,7 @@
-# Doa Sebelum Makan
+# DO'A HENDAK MAKAN (SEBELUM MAKAN)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 

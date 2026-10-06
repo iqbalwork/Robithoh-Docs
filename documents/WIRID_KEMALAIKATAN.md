@@ -1,6 +1,9 @@
-# Wirid Kemalaikatan
+# WIRID KEMALAIKATAN
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Maklumat Guru Agung Hadrotus Syeikh ABAH AOS Ra Qs ~ Senin, 5 Juni 2023
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Maklumat Guru Agung Hadrotus Syeikh ABAH AOS Ra Qs ~ Senin, 5 Juni 2023*
 
 ---
 

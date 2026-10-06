@@ -1,4 +1,9 @@
-# Doa Ketika Turun Hujan
+# DO'A KETIKA TURUN HUJAN
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Maklumat PPKN III ~ Selasa, 4 Maret 2025. Khusus hanya untuk orang yang sudah ditalqin saja.*
 
 ---
 

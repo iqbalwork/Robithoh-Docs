@@ -1,6 +1,9 @@
-# Amalan Untuk Para Ikhwan Yang Masih Perlu Rezeki
+# 'AMALAN IKHWAN YANG PERLU REZEKI (QS. ASY-SYURA: 19)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Doa & Amalan Pembuka Pintu Rezeki ~ Pangersa ABAH AOS Qs
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Doa & Amalan Pembuka Pintu Rezeki ~ Pangersa ABAH AOS Qs*
 
 ---
 

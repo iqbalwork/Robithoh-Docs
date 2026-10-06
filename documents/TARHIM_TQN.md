@@ -1,8 +1,15 @@
-# TARHIM
+# TARHIM SHUBUH TQN
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Rangkaian Waktu Hendak Shubuh**:
+> 1. **Tarhim Shubuh** *(Naskah ini)*
+> 2. [Dustur](DUSTUR.md)
+> 3. [Sholawat Sebelum Iqomah Shubuh](IQOMAH_SUBUH.md)
+> 4. [Sholawat Bani Hasyim](SHOLAWAT_BANI_HASYIM.md)
 
 ---
 
-TARHIM
+### Teks Naskah Tarhim Shubuh
 
 يَآ أَرْحَمَ الرَّاحِمِيْنَ إرْحَمْنَا ٣
 

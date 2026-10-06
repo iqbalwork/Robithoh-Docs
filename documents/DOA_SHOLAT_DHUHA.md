@@ -1,6 +1,9 @@
-# Doa Sholat Dhuha
+# DO'A SHOLAT DHUHA
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Doa Memohon Keberkahan & Kecukupan Rezeki Sholat Dhuha
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Doa Memohon Keberkahan & Kecukupan Rezeki Sholat Dhuha*
 
 ---
 
