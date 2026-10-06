@@ -2,8 +2,6 @@
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-### Pasal 1
-
 إِلَى حَضْرَةِ النَّبِيِّ الْمُصْطَفَى مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَعَلَى الِهِ وَأَصْحَابِهِ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ وَأَهْلِ بَيْتِهِ وَلِمَنْ دَخَلَ فِي بَيْتِهِ أَجْمَعِيْنَ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
 **Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai'in lillahi lahum, al Faatihah**
@@ -11,8 +9,6 @@
 *Semoga disampaikan kepada junjungan kami Nabi Muhammad Sholallohu ‘Alaihi Wasallam, semoga Alloh melimpahkan rohmat dan keselamatan kepadanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah.*
 
 ---
-
-### Pasal 2
 
 ثُمَّ إِلَى أَرْوَاحِ أَبَائِهِ وَأُمَّهَاتِهِ وَإِخْوَانِهِ مِنَ الْأَنْبِيَاءِ وَالْمُرْسَلِيْنَ وَإِلَى الْمَلَائِكَةِ الْمُقَرَّبِيْنَ وَالْكَرُوْبِيِّيْنَ وَالشُّهَدَاءِ وَالصَّالِحِيْنَ وَاٰلِ كُلٍّ وَأَصْحَابِ كُلٍّ وَإِلَى رُوْحِ أَبِيْنَا أٰدَمَ وَأُمِّنَا حَوَّاءَ وَمَا تَنَاسَلَ بَيْنَهُمَا إِلَى يَوْمِ الدِّيْنِ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
@@ -22,8 +18,6 @@
 
 ---
 
-### Pasal 3
-
 ثُمَّ إِلَى أَرْوَاحِ سَادَاتِنَا وَمَوَالِيْنَا وَأَئِمَّتِنَا أَبِي بَكْرٍ وَعُمَرَ وَعُثْمَانَ وَعَلِيٍّ وَإِلَى بَقِيَّةِ الصَّحَابَةِ وَالْقَرَابَةِ وَالتَّابِعِيْنَ وَتَابِعِ التَّابِعِيْنَ وَتَابِعِيْهِمْ بِإِحْسَانٍ إِلَى يَوْمِ الدِّيْنِ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
 **Tsumma ilaa arwaahi saadaatinaa wa mawaaliinaa wa aimmatinaa Abii Bakriw wa 'Umar wa 'Utsmaana wa 'Aliyy, wa ilaa baqiyyatis-shohaabati wal-qoroobati wat-taabi'iina wa taabi'it-taabi'iina wa taabi'ihihim bi ihsaanin ilaa yawmiddiin, kullu syai-il lillaahi lahumul faatihah**
@@ -31,8 +25,6 @@
 *Semoga disampaikan kepada para pembesar kita dan kepada yang mengurus kita dan kepada para imam kita sekalian yakni Abu Bakar, Umar, Utsman dan Ali dan kepada semua sahabat dan kerabat, kepada taabi'iin dan yang mengikuti taabi'iin yang berbuat kebajikan hingga hari kiamat. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Al-Fatihah.*
 
 ---
-
-### Pasal 4
 
 ثُمَّ إِلَى أَرْوَاحِ أَئِمَّةِ الْمُجْتَهِدِيْنَ وَ مُقَلِّدِيْهِمْ فِي الدِّيْنِ وَالْعُلَمَاءِ الرَّاشِدِيْنَ وَالْقُرَّاءِ الْمُخْلِصِيْنَ وَأَهْلِ التَّفْسِيْرِ وَالْمُحَدِّثِيْنَ وَسَائِرِ السَّادَاتِ الصُّوفِيَّةِ الْمُحَقِّقِيْنَ وَإِلَى أَرْوَاحِ كُلِّ وَلِيٍّ وَوَلِيَّةٍ مِنْ مَشَارِقِ الْأَرْضِ إِلَى مَغَارِبِهَا وَمِنْ يَمِيْنِهَا إِلَى شِمَالِهَا كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
@@ -42,8 +34,6 @@
 
 ---
 
-### Pasal 5
-
 ثُمَّ إِلَى أَرْوَاحِ أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا سِرْنَارَسَا PPKN وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا إِلَى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أَبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ مَعْرُوْفِ الْكَرْخِي وَالسَّيِّدِ الشَّيْخِ سِرِّ السَّقَطِيِّ وَالسَّيِّدِ الشَّيْخِ حَبِيْبِ الْعَجَمِيِّ وَالسَّيِّدِ الشَّيْخِ حَسَنِ الْبَصْرِيِّ وَالسَّيِّدِ الشَّيْخِ جَعْفَرِ الصَّادِقِ وَالسَّيِّدِ الشَّيْخِ يُوْسُفَ الْهَمَدَانِيِّ وَالسَّيِّدِ الشَّيْخِ أَبِي يَزِيْدِ الْبُسْطَامِيِّ وَالسَّيِّدِ الشَّيْخِ سَاهْ بَهَاءِ الدِّيْنِ النَّقْشَبَنْدِيِّ وَحَضْرَةِ إِمَامِ الرَّبَّانِيِّ وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَحَضْرَةِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفَى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهُمْ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَأَهْلِ سِلْسِلَتِهِمْ وَالْأٰخِذِيْنَ عَنْهُمْ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
 **Tsumma ilaa Arwahi Ahlis Sislilatil Qoodiriyyah Naqsyabandiyyah Ma' had Suryalaya Sirnarasa PPKN wajami’i ahlith thuruqi khushuushon ilaa Hadhroti sulthoonil auliyaa'i ghautsil a’zhom quthbil ‘aalamiina Sayyidisy Syaikh Muhyiddin Abdul Qodir al Jailaanii qaddasalloohu sirrohu, was sayyidisy Syaikh Abil Qoosim Junaidil Baghdaadiyyi, was sayyidisy syaikh Ma’ruufil Karkhi, was sayyidisy Syaikh Sirris Saqthi was sayyidisy Syaikh Habiibil ‘Ajamiyyi, was sayyidisy Syaikh Hasan al Basri, was sayyidisy syaikh Ja’far as Shoodiq, was sayyidisy syaikh Yuusuf al Hamdaniyyi was sayyidisy Syaikh Abii Yazid al Busthomiyyi, was sayyidisy Syaikh Syaah Bahaauddin an Naqsyabandiyyi wahadhroti Imaam ar Robbaanii, was sayyidisy Syaikh Ahmad Khotib ibni ‘ Abdil Ghoffar as Sambasi, was sayyidisy Syaikh Tholhah Kaalisaafuu Sirbaunii wahadhroti Syaikh ‘Abdullooh Mubaarok bin Nur Muhammad, wa syaikhinal mukarrom Syaikh Ahmad Shoohibul Wafaa Taajul ‘Aarifin, wa syaikhinal mukarrom Syaikh Muhammad Abdul Gaos Saefulooh Maslul Qaddasalloohu Sirrohum, wa ushuulihim wa furuu‘ihim wa ahli silsilatihim wal akkhidina ‘anhum, Kullu sya'in lillaahi lahum, Al-Faatihah**
@@ -51,8 +41,6 @@
 *Semoga disampaikan kepada guru-guru dalam silsilah Thoriqot Qoodiriyyah Naqsyabandiyyah Ma'had Suryalaya Sirnarasa PPKN III dan kepada semua ahli thoriqot, khususnya kepada ruhnya wali penolong agung, panutan alam, yakni Syaikh Abdul Qodir al Jailani Semoga Alloh mensucikan rahasia jiwanya, dan pimpinan golongan taSholallohu ‘Alaihi Wasallamwuf Abil Qosim Junaid al Baghdadi dan Sayyid Syaikh Ma’ruf al Karkhi dan Sayyid Syaikh Sirri Assaqathi dan Sayyid Syaikh Habib Al-Ajami dan Sayyid Syaikh Hasan al Basri dan Sayyid Syaikh Ja’far Shodiq dan Sayyid Syaikh Yusuf al Hamdani dan Sayyid Syaikh Abi Yazid al Bushtomi dan Sayyid Syaikh Bahauddin Naqsyabandi dan Imam Robbani dan Sayyid Syaikh Ahmad Khotib Sambas bin ‘Abdul Ghoffar dan Syaikh Tholhah Kalisapu Cirebon dan kepada guru kita yang dimuliakan Syaikh Abdulloh Mubarok bin Nur Muhammad dan kepada Syaikh Ahmad Shohibul Wafa Tajul 'Arifin dan Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum dan kepada leluhurnya, kepada anak turunnya dan ahli keluarga silsilah serta semua yang mengambil berkah dari mereka. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Al-Faatihah.*
 
 ---
-
-### Pasal 6
 
 ثُمَّ إِلَى أَرْوَاحِ وَالِدِيْنَا وَوَالِدِيْكُمْ وَمَشَايِخِنَا وَمَشَايِخِكُمْ وَأَمْوَاتِنَا وَأَمْوَاتِكُمْ وَلِمَنْ أَحْسَنَ إِلَيْنَا وَلِمَنْ لَهُ حَقٌّ عَلَيْنَا وَلِمَنْ أَوْصَانَا وَاسْتَوْصَانَا وَقَلَّدَنَا عِنْدَكَ بِدُعَاءِ الْـخَيْرِ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
@@ -62,8 +50,6 @@
 
 ---
 
-### Pasal 7
-
 ثُمَّ إِلَى أَرْوَاحِ جَمِيْعِ الْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ وَالْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالْمُحْسِنِيْنَ وَالْمُحْسِنَاتِ الْأَحْيَاءِ مِنْهُمْ وَالْأَمْوَاتِ مِنْ مَشَارِقِ الْأَرْضِ إِلَى مَغَارِبِهَا مِنْ يَمِيْنِهَا إِلَى شِمَالِهَا وَمِنْ قَافٍ إِلَى قَافٍ مِنْ لَّدُنْ اٰدَمَ إِلَى يَوْمِ الْقِيَامَةِ كُلُّ شَيْءٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ
 
 **Tsumma ilaa arwaahi jamii’il mu’miniina wal mu’ minaa muslimiina wal muslimaat wal muhsiniina wal muhsinaat al ahyaa'i minhum wal amwatmin masyaariqil ardhi ilaa maghooribihaa min yamiinihaa ilaa syimaalihaa, wamin Qoofin ilaa Qoofin, milladun Aadam ilaa yaumil Qiyaamah. Kullu sya'in lillaahi lahum, al Faatihah**
@@ -72,15 +58,11 @@
 
 ---
 
-### Pasal 8
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa MuhammadiniNabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 9
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 اَلَمْ نَشْرَحْ لَكَ صَدْرَكَ (١) وَوَضَعْنَا عَنْكَ وِزْرَكَ (٢) الَّذِيْ أَنْقَضَ ظَهْرَكَ (٣) وَرَفَعْنَا لَكَ ذِكْرَكَ (٤) فَإِنَّ مَعَ الْعُسْرِ يُسْرًا (٥) إِنَّ مَعَ الْعُسْرِ يُسْرًا (٦) فَإِذَا فَرَغْتَ فَانْصَبْ (٧) وَإِلَى رَبِّكَ فَارْغَبْ (٨) (80x)
@@ -91,8 +73,6 @@
 
 ---
 
-### Pasal 10
-
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 قُلْ هُوَ اللّٰهُ أَحَدٌ (١) اَللّٰهُ الصَّمَدُ (٢) لَمْ يَلِدْ وَلَمْ يُوْلَدْ (٣) وَلَمْ يَكُنْ لَّهُ كُفُوًا أَحَدٌ (٤) (500x)
 
@@ -102,8 +82,6 @@
 
 ---
 
-### Pasal 11
-
 إِلَى حَضْرَةِ الشَّيْخِ أَحْمَدَ بَاقِرِ الْفَاتِحَةُ
 
 **Ilaa hadlrotis Syaikh Ahmad Baaqir, Al-Faatihah**
@@ -112,15 +90,11 @@
 
 ---
 
-### Pasal 12
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 13
 
 اَللّٰهُمَّ يَا قَاضِيَ الْحَاجَاتِ (100x)
 
@@ -130,8 +104,6 @@
 
 ---
 
-### Pasal 14
-
 اَللّٰهُمَّ يَا كَافِيَ الْمُهِمَّاتِ (100x)
 
 **Alloohumma Yaa Kaafiyal muhimmaat (100x)**
@@ -139,8 +111,6 @@
 *Yaa Tuhanku yang Maha mencukupi segala hal penting.*
 
 ---
-
-### Pasal 15
 
 اَللّٰهُمَّ يَا دَافِعَ الْبَلِيَّاتِ (100x)
 
@@ -150,8 +120,6 @@
 
 ---
 
-### Pasal 16
-
 اَللّٰهُمَّ يَا رَافِعَ الدَّرَجَاتِ (100x)
 
 **Alloohumma Yaa Roofi'ad darojaat (100x)**
@@ -159,8 +127,6 @@
 *Yaa Alloh yang Maha mengangkat derajat*
 
 ---
-
-### Pasal 17
 
 اَللّٰهُمَّ يَا شَافِيَ الْأَمْرَاضِ (100x)
 
@@ -170,8 +136,6 @@
 
 ---
 
-### Pasal 18
-
 اَللّٰهُمَّ يَا مُجِيْبَ الدَّعَوَاتِ (100x)
 
 **Alloohumma Yaa Mujiibad Da'awaat (100x)**
@@ -179,8 +143,6 @@
 *Yaa Tuhanku yang Maha mengabulkan segala do’a.*
 
 ---
-
-### Pasal 19
 
 اَللّٰهُمَّ يَا أَرْحَمَ الرَّاحِمِيْنَ (100x)
 
@@ -190,8 +152,6 @@
 
 ---
 
-### Pasal 20
-
 إِلَى حَضْرَةِ الْإِمَامِ خَوَاجِكَانِ الْفَاتِحَةُ (100x)
 
 **Ilaa hadlrotil Imaam Khowaajikan, Al-Faatihah**
@@ -200,15 +160,11 @@
 
 ---
 
-### Pasal 21
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 22
 
 لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ (100x)
 
@@ -218,23 +174,17 @@
 
 ---
 
-### Pasal 23
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
 
-### Pasal 24
-
 إِلَى حَضْرَةِ الْإِمَامِ الرَّبَّانِيِّ الْفَاتِحَةُ
 
 **Ilaa hadlrotil Imaamir Robbaani,. Al-Faatihah**
 
 ---
-
-### Pasal 25
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 قُلْ أَعُوْذُ بِرَبِّ الْفَلَقِ (١) مِنْ شَرِّ مَا خَلَقَ (٢) وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ (٣) وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ (٤) وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ (٥)
@@ -245,8 +195,6 @@
 
 ---
 
-### Pasal 26
-
 أَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ (100x)
 
 **Astaghfirulloohal ‘Azhiim alladzii laa ilaaha illaa huwal Hayyul Qoyyuumu wa atuubu ilaih. (100x)**
@@ -254,8 +202,6 @@
 *Aku memohon ampun kepada Alloh yang Maha Agung, Yang tiada Tuhan selain Ia Yang Maha Menghidupkan dan Maha Berdiri serta aku bertaubat kepada-Nya.*
 
 ---
-
-### Pasal 27
 
 بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 قُلْ أَعُوْذُ بِرَبِّ النَّاسِ (١) مَلِكِ النَّاسِ (٢) إِلٰهِ النَّاسِ (٣) مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ (٤) الَّذِي يُوَسْوِسُ فِي صُدُوْرِ النَّاسِ (٥) مِنَ الْجِنَّةِ وَالنَّاسِ (٦)
@@ -266,8 +212,6 @@
 
 ---
 
-### Pasal 28
-
 إِلَى حَضْرَةِ سَيِّدِنَا مُظَهِّرِ الْفَاتِحَةُ
 
 **Ilaa hadlroti Sayyidinaa Muzhohhir. Al-Faatihah**
@@ -276,15 +220,11 @@
 
 ---
 
-### Pasal 29
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 30
 
 حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيْلُ (500x)
 
@@ -294,15 +234,11 @@
 
 ---
 
-### Pasal 31
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 32
 
 إِلَى حَضْرَةِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي الْفَاتِحَةُ
 
@@ -312,15 +248,11 @@
 
 ---
 
-### Pasal 33
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 34
 
 نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيْرُ (500x)
 
@@ -330,15 +262,11 @@
 
 ---
 
-### Pasal 35
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 36
 
 إِلَى حَضْرَةِ شَيْخِنَا الْمُكَرَّمِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَ شَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفَى تَاجِ الْعَارِفِيْنَ وَ شَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهُمُ الْفَاتِحَةُ
 
@@ -348,15 +276,11 @@
 
 ---
 
-### Pasal 37
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 38
 
 يَا خَفِيَّ اللُّطْفِ أَدْرِكْنِي بِلُطْفِكَ الْخَفِيِّ (500x)
 
@@ -366,15 +290,11 @@
 
 ---
 
-### Pasal 39
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 40
 
 إِلَى حَضْرَةِ الْإِمَامِ خَوَاجَهْ النَّقْشَبَنْدِيِّ الْفَاتِحَةُ
 
@@ -384,15 +304,11 @@
 
 ---
 
-### Pasal 41
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 42
 
 لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ (500x)
 
@@ -402,15 +318,11 @@
 
 ---
 
-### Pasal 43
-
 اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدِ نِالنَّبِيِّ الْأُمِّيِّ وَعَلَى الِهِ وَصَحْبِهِ وَسَلِّمْ (100x)
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadinin Nabiyyil Ummiyyi, wa ’alaa aalihii wa shohbihii wa sallim. (100x)**
 
 ---
-
-### Pasal 44
 
 إِلَى حَضْرَةِ سَيِّدِنَا مَعْصُوْمِ الْفَاتِحَةُ
 
