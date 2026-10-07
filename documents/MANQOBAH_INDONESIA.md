@@ -44,7 +44,7 @@ Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu 
 
 “Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
-Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
+Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
 ———۞۞۞———
 
@@ -94,7 +94,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Para Ulama meriwayatkan, pernah terjadi pada jaman Syaikh Abdul Qodir bangkit wabah penyakit tho’un sehingga berjuta orang meninggal dunia. Masyarakat berduyun-duyun datang meminta pertolongan kepada Syaikh, beliau mengumumkan kepada mereka: “Barangsiapa makan rerumputan Madrasahku, اَللّهُ akan menyembuhkan penyakit yang dideritanya.”
 
-Karena terlalu banyak yang sakit, rerumputan itu habis, Syaikh mengumumkan lagi : “Barangsiapa yang meminum air Madrasahku akan segera disembuhkan اَللّهُ SWT.” Mendengar Pengumuman itu, para penderita penyakit beramai-ramai minum air madrasah Syaikh, seketika itu juga mereka menjadi sembuh kembali dan penyakit tho’un pun lenyap.
+Karena terlalu banyak yang sakit, rerumputan itu habis, Syaikh mengumumkan lagi : “Barangsiapa yang meminum air Madrasahku akan segera disembuhkan اَللّهُ.” Mendengar Pengumuman itu, para penderita penyakit beramai-ramai minum air madrasah Syaikh, seketika itu juga mereka menjadi sembuh kembali dan penyakit tho’un pun lenyap.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -144,7 +144,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 ### Manqobah Ke-4 : Budi Pekerti Syaikh Abdul Qodir
 
-Syaikh Abdul Qodir Al Jailani sangat takut kepada اَللّهُ SWT, oleh karena itu beliau mudah terharu serta mudah mengeluarkan air mata. Doanya dikobul اَللّهُ. Beliau seorang dermawan, jauh dari keburukan dan selalu dekat dengan kebaikan. Berani dan kokoh dalam mempertahankan hak, tegas dalam menghadapi kemungkaran. Pantang menolak orang yang meminta-minta walupun yang dimintanya pakaian yang sedang beliau pakai. Tidak marah karena hawa nafsu, tidak memberi pertolongan yang bukan karena اَللّهُ.
+Syaikh Abdul Qodir Al Jailani sangat takut kepada اَللّهُ, oleh karena itu beliau mudah terharu serta mudah mengeluarkan air mata. Doanya dikobul اَللّهُ. Beliau seorang dermawan, jauh dari keburukan dan selalu dekat dengan kebaikan. Berani dan kokoh dalam mempertahankan hak, tegas dalam menghadapi kemungkaran. Pantang menolak orang yang meminta-minta walupun yang dimintanya pakaian yang sedang beliau pakai. Tidak marah karena hawa nafsu, tidak memberi pertolongan yang bukan karena اَللّهُ.
 
 Beliau diwarisi akhlak Nabi Muhammad Shollallohu 'Alaihi Wasallam, tampan Nabi Yusuf as, benar Sayyidina Abu Bakar Ash-Shiddiq ra, adil Umar bin Khothob ra; Hilim Sayyidina Utsman bin Affan ra, kegagahan serta keberanian sayidina Ali bin Abi Tholib karromallohu Wajhah.
 
@@ -190,7 +190,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 ### Manqobah Ke-53 : Syaikh Abdul Qodir Wafat
 
-Menjelang akhir hayatnya, Malaikat Ajro’il datang mengunjungi Syaikh dikala matahari akan terbenam membawa surat dari اَللّهُ SWT untuk Syaikh dengan alamat sebagai berikut: “Yashilu hadzal maktubi minal muhibbi ilal mahbubi” (Surat ini dari Dzat Yang Maha Pengasih disampaikan kepada Wali yang dikasihi). Kemudian surat tersebut diterima oleh putranya yang bernama Sayyid Abdul Wahhab. Setelah diterima, masuklah ia bersama Malaikat Ajro’il. Sebelum surat dihanturkan kepada Syaikh, beliau sudah mengerti bahwa beliau akan berpindah ke alam ‘uluwi, alam tinggi yakni meninggal Dunia.
+Menjelang akhir hayatnya, Malaikat Ajro’il datang mengunjungi Syaikh dikala matahari akan terbenam membawa surat dari اَللّهُ untuk Syaikh dengan alamat sebagai berikut: “Yashilu hadzal maktubi minal muhibbi ilal mahbubi” (Surat ini dari Dzat Yang Maha Pengasih disampaikan kepada Wali yang dikasihi). Kemudian surat tersebut diterima oleh putranya yang bernama Sayyid Abdul Wahhab. Setelah diterima, masuklah ia bersama Malaikat Ajro’il. Sebelum surat dihanturkan kepada Syaikh, beliau sudah mengerti bahwa beliau akan berpindah ke alam ‘uluwi, alam tinggi yakni meninggal Dunia.
 
 Syaikh bersabda kepada putra-putranya: “Jangan mendekat, karena lahiriyahku bersama-sama dengan kamu, sedang bathiniyahku bersama selain kamu, dan perluas ruangan ini karena hadir selain dari padamu, tunjukan sopan santunmu.”
 
@@ -264,9 +264,9 @@ Segera ia menghadap lagi kepada Syaikh sambil menangis melaporkan bahwa anaknya 
 
 Dengan penuh keyakinan ia datang lagi menghadap Syaikh sambil menangis mohon anaknya hidup kembali. Kemudian Syaikh menundukkan kepalanya dan tegak kembali sambil berkata, “Sekarang tidak akan salah lagi, pasti anakmu sudah ada dirumah. “Dengan penuh harapan ia pulang menuju rumahnya, anaknya sudah ada berkat karomah Syaikh Abdul Qodir.
 
-Mengenai peristiwa ini Syaikh munajat kepada اَللّهُ, “Ya اَللّهُ, Engkau Maha Kuasa menciptakan mahluk dengan mudah, demikian pula halnya pada waktu mengumpulkan mahluk dipadang mahsyar hanya dalam tempo yang singkat sudah berkumpul, mengapa hanya menghidupkan seorang saja sampai 3 kali, hamba malu oleh perempuan itu. Dan apa hikmahnya?”. اَللّهُ SWT menjawab, “Semua ucapanmu kepada perempuan itu tidak salah, pertama kali kamu mengatakan kepada perempuan itu anaknya sudah ada dirumah, malaikat baru mengumpulkan tulang belulangnya yang berserakan, dan yang kedua kalinya seluruh anggota tubuhnya baru utuh kembali dan dihidupkan, ketiga kalinya si anak di angkat dari dasar laut dikembalikan kerumahnya.”
+Mengenai peristiwa ini Syaikh munajat kepada اَللّهُ, “Ya اَللّهُ, Engkau Maha Kuasa menciptakan mahluk dengan mudah, demikian pula halnya pada waktu mengumpulkan mahluk dipadang mahsyar hanya dalam tempo yang singkat sudah berkumpul, mengapa hanya menghidupkan seorang saja sampai 3 kali, hamba malu oleh perempuan itu. Dan apa hikmahnya?”. اَللّهُ menjawab, “Semua ucapanmu kepada perempuan itu tidak salah, pertama kali kamu mengatakan kepada perempuan itu anaknya sudah ada dirumah, malaikat baru mengumpulkan tulang belulangnya yang berserakan, dan yang kedua kalinya seluruh anggota tubuhnya baru utuh kembali dan dihidupkan, ketiga kalinya si anak di angkat dari dasar laut dikembalikan kerumahnya.”
 
-اَللّهُ berfirman: “Wahai Abdul Qodir! Kamu jangan kecewa. Sekarang silahkan kamu minta, pasti kuberi.” Spontan Syaikh merebahkan kepalanya bersujud sambil berkata, “Engkau Kholiq, apa saja yang Engkau berikan akan kuterima”. Lalu اَللّهُ memberi hadiah kepada Syaikh dan berfirman, “Barang siapa melihatmu pada hari Jum’at, ia akan kujadikan wali, dan kalau kamu melihat tanah tentu akan menjadi emas.” Syaikh berkata, “Ya اَللّهُ, semua pemberian-Mu kurang begitu manfaat bagiku, aku mohon karuniamu yang lebih bermanfaat dan lebih mulia setelah aku tiada”. اَللّهُ SWT berfirman, “Namamu dibuat seperti nama-Ku, barang siapa menyebut namamu, pahalanya sama dengan yang menyebut nama-Ku.”
+اَللّهُ berfirman: “Wahai Abdul Qodir! Kamu jangan kecewa. Sekarang silahkan kamu minta, pasti kuberi.” Spontan Syaikh merebahkan kepalanya bersujud sambil berkata, “Engkau Kholiq, apa saja yang Engkau berikan akan kuterima”. Lalu اَللّهُ memberi hadiah kepada Syaikh dan berfirman, “Barang siapa melihatmu pada hari Jum’at, ia akan kujadikan wali, dan kalau kamu melihat tanah tentu akan menjadi emas.” Syaikh berkata, “Ya اَللّهُ, semua pemberian-Mu kurang begitu manfaat bagiku, aku mohon karuniamu yang lebih bermanfaat dan lebih mulia setelah aku tiada”. اَللّهُ berfirman, “Namamu dibuat seperti nama-Ku, barang siapa menyebut namamu, pahalanya sama dengan yang menyebut nama-Ku.”
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -296,7 +296,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Abu Abbas Ahmad Rifa’i meriwayatkan : Ada seorang pelayan Syaikh Abdul Qodir yang meninggal dunia, kemudian isterinya datang menghadap beliau mengadukan halnya sambil menangis. Karena ratapnya itu, Syaikh menundukkan kepala bertawajjuh kepada اَللّهُ, ketika itulah beliau melihat malaikat maut sedang kelangit membawa keranjang maknawi penuh dengan ruh-ruh manusia yang baru selesai dicabut pada hari itu. Kemudian beliau meminta kepada malaikat maut supaya menyerahkan nyawa muridnya. Permintaan itu ditolak oleh malaikat maut. Lalu beliau merebut keranjang maknawi itu, dan tumpahlah semua nyawa yang ada di dalamnya dan kembali ke jasadnya masing-masing.
 
-Menghadapi kejadian ini malaikat unjuk pihatur kepada اَللّهُ SWT : “Ya اَللّهُ, Engkau Maha Mengetahui tentang kekasih-Mu dan wali-Mu Abdul Qodir”. اَللّهُ berfirman : “Memang benar, Abdul Qodir itu kekasih-Ku, karena tadi nyawa pelayannya tidak kamu berikan, akibatnya seluruh ruh itu terlepas, dan sekarang kamu menyesal karena kamu tidak memberikannya”.
+Menghadapi kejadian ini malaikat unjuk pihatur kepada اَللّهُ : “Ya اَللّهُ, Engkau Maha Mengetahui tentang kekasih-Mu dan wali-Mu Abdul Qodir”. اَللّهُ berfirman : “Memang benar, Abdul Qodir itu kekasih-Ku, karena tadi nyawa pelayannya tidak kamu berikan, akibatnya seluruh ruh itu terlepas, dan sekarang kamu menyesal karena kamu tidak memberikannya”.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 
@@ -398,7 +398,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 ### Manqobah Ke-22 : Syaikh Abdul Qodir Setiap Tahun Membebaskan Hamba Sahaya Dari Perbudakan, Serta Nilai Busana Yang Beliau Pakai
 
-Sebagian kitab manaqib meriwayatkan, sudah menjadi tradisi bahwa setiap Hari Raya Syaikh Abdul Qodir membeli beberapa hamba sahaya untu dimerdekakan dari belenggu perbudakan. Kemudian Syaikh mengantarkan mereka agar wushul kepada اَللّهُ SWT.
+Sebagian kitab manaqib meriwayatkan, sudah menjadi tradisi bahwa setiap Hari Raya Syaikh Abdul Qodir membeli beberapa hamba sahaya untu dimerdekakan dari belenggu perbudakan. Kemudian Syaikh mengantarkan mereka agar wushul kepada اَللّهُ.
 
 Dan apabila Syaikh Abdul Qodir berpakaian, beliau memakai pakaian yang serba indah, bagus dan mahal harganya. Nilai kainnya seharga seharga 10 dinar per elonya (0,688 m), dan tutup kepalanya seharga 70 ribu dinar. Terompahnya diteratas intan berlian dan jamrud. Paku terompahnya terbuat dari perak.
 

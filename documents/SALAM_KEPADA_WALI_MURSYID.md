@@ -30,7 +30,7 @@
 *Wa yaa imaamal makaan,*  
 *Wa yaa qoo-imu bi amrir rohmaan,*  
 *Wa yaa waaritsal kitaab,*  
-*Wa yaa naa-iba Rosuulillaahi SAW,*  
+*Wa yaa naa-iba Rosuulillaahi Shollallohu 'Alaihi Wasallam,*  
 *Yaa man minas samaa-i wal ardhi 'aa-idatuhu,*  
 *Yaa man ahlu waqtihii kulluhum 'aa-ilatuhu,*  
 *Yaa man yanzilul ghoitsu bi da'watihi,*  

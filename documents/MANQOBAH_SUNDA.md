@@ -593,7 +593,7 @@ Karomah nu ka 4:
 Sayyid Abdul Qodir tibarang dipedalkeun henteu kersaeun nginang siang dina sasih romdon, ana nginang sok dina waktos boboran.
 
 Karomah nu ka 5:
-Dina walikatna Sayyid Abdul Qodir katingali tapak dampal sampean Kangjeng Nabi SAW, nyaeta tilas munggu anjeuna bade tunggang kana buroq dina wengian mi’roj, sareng waktos medalna disarengan kucahaya anu pohara, sahingga jalma-jalma henteu aya anu kuat ningali, ari yuswa ibuna waktos harita yuswana 60 taun, eta oge hiji perkawis anu luar biasa.
+Dina walikatna Sayyid Abdul Qodir katingali tapak dampal sampean Kangjeng Nabi Shollallohu 'Alaihi Wasallam, nyaeta tilas munggu anjeuna bade tunggang kana buroq dina wengian mi’roj, sareng waktos medalna disarengan kucahaya anu pohara, sahingga jalma-jalma henteu aya anu kuat ningali, ari yuswa ibuna waktos harita yuswana 60 taun, eta oge hiji perkawis anu luar biasa.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 

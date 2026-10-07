@@ -46,7 +46,7 @@ Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu 
 
 “Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
-Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
+Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
 ROMADHON
 

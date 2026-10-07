@@ -139,9 +139,9 @@ Niat Nisfu Sa’ban                   :
 
 Bacaan : Setelah Al-Fatihah membaca Al-Ikhlas 10x tiap rakaat
 
-Menurut Kitab Al-Guniyah Litholibi Thariqil – Haq yang dikarang oleh Tuan Syeikh Abdul Qodir jilid 1 halaman 192 adalah jumlahnya 100 rakaat (50 kali salam) dan setiap rakaat setelah AL- Fatihah membaca surat AL-Ikhlas (Qulhu) sebanyak 10x. Sholat Nisfu Sya’ban ini disebut juga Sholat Khoir, karena banyaknya keutamaan dan pahala dari اَللّهُ SWT.
+Menurut Kitab Al-Guniyah Litholibi Thariqil – Haq yang dikarang oleh Tuan Syeikh Abdul Qodir jilid 1 halaman 192 adalah jumlahnya 100 rakaat (50 kali salam) dan setiap rakaat setelah AL- Fatihah membaca surat AL-Ikhlas (Qulhu) sebanyak 10x. Sholat Nisfu Sya’ban ini disebut juga Sholat Khoir, karena banyaknya keutamaan dan pahala dari اَللّهُ.
 
-Sebagaimana diriwayatkan oleh Al Hasan Rohimulloh bahwa 30 sahabat berkata kepada ku : *“Barang siapa yang mengerjakan Sholat pada malam Nisfu Sya’ban, maka اَللّهُ SWT akan melirik kepadanya sebanyak 70 lirikan dan setiap lirikan, اَللّهُ SWT mengabulkan 70 kebutuhan. Dan pemberian yang terendah adalah ampunan اَللّهُ SWT”.*
+Sebagaimana diriwayatkan oleh Al Hasan Rohimulloh bahwa 30 sahabat berkata kepada ku : *“Barang siapa yang mengerjakan Sholat pada malam Nisfu Sya’ban, maka اَللّهُ akan melirik kepadanya sebanyak 70 lirikan dan setiap lirikan, اَللّهُ mengabulkan 70 kebutuhan. Dan pemberian yang terendah adalah ampunan اَللّهُ”.*
 
 ---
 

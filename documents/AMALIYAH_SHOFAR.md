@@ -46,7 +46,7 @@ Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu 
 
 “Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
-Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Amiin Yaa Robbal ‘aalamiin.
+Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Amiin Yaa Robbal ‘aalamiin.
 
 SHOOFAR
 
@@ -54,7 +54,7 @@ Manqobah Ke-24 : Masyarakat Yang Menderita Penyakit Tho’un, Sembuh Dengan Rump
 
 Para Ulama meriwayatkan, pernah terjadi pada jaman Syaikh Abdul Qodir bangkit wabah penyakit tho’un sehingga berjuta orang meninggal dunia. Masyarakat berduyun-duyun datang meminta pertolongan kepada Syaikh, beliau mengumumkan kepada mereka: “Barangsiapa makan rerumputan Madrasahku, اَللّهُ akan menyembuhkan penyakit yang dideritanya.”
 
-Karena terlalu banyak yang sakit, rerumputan itu habis, Syaikh mengumumkan lagi : “Barangsiapa yang meminum air Madrasahku akan segera disembuhkan اَللّهُ SWT.” Mendengar Pengumuman itu, para penderita penyakit beramai-ramai minum air madrasah Syaikh, seketika itu juga mereka menjadi sembuh kembali dan penyakit tho’un pun lenyap.
+Karena terlalu banyak yang sakit, rerumputan itu habis, Syaikh mengumumkan lagi : “Barangsiapa yang meminum air Madrasahku akan segera disembuhkan اَللّهُ.” Mendengar Pengumuman itu, para penderita penyakit beramai-ramai minum air madrasah Syaikh, seketika itu juga mereka menjadi sembuh kembali dan penyakit tho’un pun lenyap.
 
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ
 

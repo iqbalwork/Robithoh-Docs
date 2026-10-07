@@ -46,7 +46,7 @@ Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu 
 
 “Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
-Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
+Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
 ROBI’UST STANI
 
@@ -78,7 +78,7 @@ Alloohumman tsur A’laihin nafahaati war Ridhwaan, Wa’amiddanaa Bi Asroorihii
 
 Manqobah Ke-53 : Syaikh Abdul Qodir Wafat
 
-Menjelang akhir hayatnya, Malaikat Ajro’il datang mengunjungi Syaikh dikala matahari akan terbenam membawa surat dari اَللّهُ SWT untuk Syaikh dengan alamat sebagai berikut: “Yashilu hadzal maktubi minal muhibbi ilal mahbubi” (Surat ini dari Dzat Yang Maha Pengasih disampaikan kepada Wali yang dikasihi). Kemudian surat tersebut diterima oleh putranya yang bernama Sayyid Abdul Wahhab. Setelah diterima, masuklah ia bersama Malaikat Ajro’il. Sebelum surat dihanturkan kepada Syaikh, beliau sudah mengerti bahwa beliau akan berpindah ke alam ‘uluwi, alam tinggi yakni meninggal Dunia.
+Menjelang akhir hayatnya, Malaikat Ajro’il datang mengunjungi Syaikh dikala matahari akan terbenam membawa surat dari اَللّهُ untuk Syaikh dengan alamat sebagai berikut: “Yashilu hadzal maktubi minal muhibbi ilal mahbubi” (Surat ini dari Dzat Yang Maha Pengasih disampaikan kepada Wali yang dikasihi). Kemudian surat tersebut diterima oleh putranya yang bernama Sayyid Abdul Wahhab. Setelah diterima, masuklah ia bersama Malaikat Ajro’il. Sebelum surat dihanturkan kepada Syaikh, beliau sudah mengerti bahwa beliau akan berpindah ke alam ‘uluwi, alam tinggi yakni meninggal Dunia.
 
 Syaikh bersabda kepada putra-putranya: “Jangan mendekat, karena lahiriyahku bersama-sama dengan kamu, sedang bathiniyahku bersama selain kamu, dan perluas ruangan ini karena hadir selain dari padamu, tunjukan sopan santunmu.”
 

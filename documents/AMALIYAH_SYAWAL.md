@@ -46,13 +46,13 @@ Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu 
 
 “Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
-Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
+Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
 SYAWAL
 
 Manqobah Ke-22 : Syaikh Abdul Qodir Setiap Tahun Membebaskan Hamba Sahaya Dari Perbudakan, Serta Nilai Busana Yang Beliau Pakai
 
-Sebagian kitab manaqib meriwayatkan, sudah menjadi tradisi bahwa setiap Hari Raya Syaikh Abdul Qodir membeli beberapa hamba sahaya untu dimerdekakan dari belenggu perbudakan. Kemudian Syaikh mengantarkan mereka agar wushul kepada اَللّهُ SWT.
+Sebagian kitab manaqib meriwayatkan, sudah menjadi tradisi bahwa setiap Hari Raya Syaikh Abdul Qodir membeli beberapa hamba sahaya untu dimerdekakan dari belenggu perbudakan. Kemudian Syaikh mengantarkan mereka agar wushul kepada اَللّهُ.
 
 Dan apabila Syaikh Abdul Qodir berpakaian, beliau memakai pakaian yang serba indah, bagus dan mahal harganya. Nilai kainnya seharga seharga 10 dinar per elonya (0,688 m), dan tutup kepalanya seharga 70 ribu dinar. Terompahnya diteratas intan berlian dan jamrud. Paku terompahnya terbuat dari perak.
 
