@@ -341,7 +341,7 @@ DO’A KAMILIN
 
 *walinna’maa-i syaakiriin, wa ‘alal balaa-i shaabiriin,*
 
-*watahta liwaa-i sayyidina muhammadin SAW yaumal qiyaamati saa-iriin,*
+*watahta liwaa-i sayyidina Muhammadin Shollallohu 'Alaihi Wasallam yaumal qiyaamati saa-iriin,*
 
 *wa-ilal haudhi waaridhiin, wa-ilal jannati daahiliin, waminan naari naajiin,*
 

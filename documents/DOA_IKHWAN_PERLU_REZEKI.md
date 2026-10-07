@@ -1,0 +1,18 @@
+# 'AMALAN IKHWAN YANG PERLU REZEKI (QS. ASY-SYURA: 19)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Doa & Amalan Pembuka Pintu Rezeki ~ Pangersa ABAH AOS Qs*
+
+---
+
+## Amalan QS. Asy-Syura: 19 (Dibaca 38x)
+
+Dibaca setiap seusai sholat sunnah Dhuha sebanyak (38x):
+
+اَللّٰهُ لَطِيْفٌۢ بِعِبَادِهٖ يَرْزُقُ مَنْ يَّشَاۤءُ ۚوَهُوَ الْقَوِيُّ الْعَزِيْزُ
+
+Alloohu lathiifum bi ’ibaadihi yarzuku may yasyaa’u wa Huwal Qowiyyul ‘Aziizu.
+
+Artinya: "اَللّهُ Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa." (QS. Asy-Syura: 19)

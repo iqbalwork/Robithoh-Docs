@@ -251,14 +251,23 @@ Usholii sunnatan laelatul qodar rok’aataeni lillahi ta’aalaa Allohu akbar.
 
 Bacaan nya : Alfatihah 1x, At-Takatsur 1x, Al-Ikhlas 3x bacaan setiap rokaatnya. (Dilaksanakan sesudah sholat tarawih)
 
-Sesudah selesai doanya:
+Sesudah selesai doanya (Dibaca sebanyak 26 kali) :
 
-اَللَّهُمَّ اِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ، فَاعْفُ عَنَّا
+> **Amanah Pangersa Abah (Sabtu, 3 Oktober 2026)**:
+> - **Bacaan Ke-1 s/d Ke-25 (dibaca 25x):**
+> 
+> اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا
+> 
+> *Allohumma innaka 'afuwwun kariim tuhibbul 'afwa fa'fu 'annaa*
+> 
+> - **Bacaan Ke-26 (Memakai tambahan "يَا كَرِيمُ" di akhir):**
+> 
+> اَللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا يَا كَرِيمُ
+> 
+> *Allohumma innaka 'afuwwun kariim tuhibbul 'afwa fa'fu 'annaa yaa kariim*
+> 
+> *(Sumber: Ustadz Lukman - Aspri Pangersa Abah Aos | Penyusun Redaksi: Acep Deden Praja Tasman)*
 
-Allohumma innaka afuwwun tuhibbul afwa fa’fuannaa 3x
-
-*Artinya : Yaa اَللّهُ sesungguhnya Engkau pemaaf, suka memaafkan maka maafkanlah kami.*
-
-۞۞۞
+*Artinya : Yaa اَللّهُ , sesungguhnya Engkau Dzat Maha Pengampun lagi Maha Mulia dan suka Mengampuni, ampunilah kami wahai Dzat Yang Maha Mulia.*
 
 ۞۞۞

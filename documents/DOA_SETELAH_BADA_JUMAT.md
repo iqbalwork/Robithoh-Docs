@@ -1,6 +1,9 @@
-# Amaliyah Setelah Sholat Sunnah Ba'da Jum'at
+# DO'A SETELAH SHOLAT JUM'AT (BA'DA JUM'AT)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
 
-Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
+
+*Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H*
 
 ---
 
@@ -10,6 +13,6 @@ Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H
 
 Alloohumma Yaa Ghoniyyu Yaa Hamiidu Yaa Mubdi-u Yaa Mu'iidu Yaa Kariimu Yaa Rohiimu Yaa Ghofuuru Yaa Waduudu Aghninaa Bihalaalika 'An Haroomika Wa Bithoo'atika 'An Ma'shiyatika Wa Bifadhlika 'amman siwaaka (4x)
 
-Artinya: "Ya Allah, wahai Dzat Yang Maha Kaya, wahai Dzat Yang Maha Terpuji, wahai Dzat Yang Memulai penciptaan, wahai Dzat Yang Mengembalikan kehidupan, wahai Dzat Yang Maha Mulia, wahai Dzat Yang Maha Pengasih, wahai Dzat Yang Maha Pengampun, wahai Dzat Yang Maha Mencintai. Cukupkanlah kami dengan yang halal dari sisi-Mu daripada yang haram, cukupkanlah kami dengan ketaatan kepada-Mu daripada bermaksiat kepada-Mu, dan cukupkanlah kami dengan karunia keutamaan-Mu dari selain-Mu."
+Artinya: "Ya اَللّهُ, wahai Dzat Yang Maha Kaya, wahai Dzat Yang Maha Terpuji, wahai Dzat Yang Memulai penciptaan, wahai Dzat Yang Mengembalikan kehidupan, wahai Dzat Yang Maha Mulia, wahai Dzat Yang Maha Pengasih, wahai Dzat Yang Maha Pengampun, wahai Dzat Yang Maha Mencintai. Cukupkanlah kami dengan yang halal dari sisi-Mu daripada yang haram, cukupkanlah kami dengan ketaatan kepada-Mu daripada bermaksiat kepada-Mu, dan cukupkanlah kami dengan karunia keutamaan-Mu dari selain-Mu."
 
 Catatan: Dibaca 4x seusai melaksanakan sholat sunnah ba'da Jum'at.

@@ -82,7 +82,7 @@ Latin:
 
 *Fala tardud ma’al khusrooni*۞*balij ‘alnaa minadhiifaani*
 
-*Ayaadzal juudi wal ihsaani*۞*biahli dzikri yaa alloh*
+*Ayaadzal juudi wal ihsaani*۞*biahli dzikri yaa اَللّهُ*
 
 *Ilahigfir khotho yaa naa*۞*wakhotho i walidiinaa*
 
@@ -94,7 +94,7 @@ Latin:
 
 *Washolli ‘alannabiyyil barri*۞*waahlinnaqsyi lidzikri*
 
-*Wal aali washohbil gufri*۞*biahlidzikri yaa alloh*
+*Wal aali washohbil gufri*۞*biahlidzikri yaa اَللّهُ*
 
 ۞۞۞
 

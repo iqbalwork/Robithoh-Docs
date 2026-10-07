@@ -10,7 +10,7 @@ Innallooha wa malaa’ikatahuu yusholluuna ‘alan Nabiyy,
 
 yaa ayyuhalladziina aamanuu sholluu ‘alaihi wa sallimuu tasliimaa.
 
-“Sesungguhnya اَللّهُ dan para malaikat-Nya berselawat (memuji dan berdoa) ke atas Nabi (Muhammad SAW). Wahai orang-orang yang beriman berselawatlah kamu ke atasnya serta ucapkanlah salam dengan penghormatan kepadanya”
+“Sesungguhnya اَللّهُ dan para malaikat-Nya berselawat (memuji dan berdoa) ke atas Nabi (Muhammad Shollallohu 'Alaihi Wasallam). Wahai orang-orang yang beriman berselawatlah kamu ke atasnya serta ucapkanlah salam dengan penghormatan kepadanya”
 
 اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى مُحَمَّدٍ وَآلٍ وَصَحْبٍ أَجْمَعِيْنَ
 

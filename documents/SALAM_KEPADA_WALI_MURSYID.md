@@ -1,4 +1,7 @@
-# SALAM KEPADA WALI MURSYID
+# ULUK SALAM KEPADA WALI MURSYID
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
@@ -45,7 +48,7 @@
 > pemimpin wilayah  
 > penegak ketentuan Ar-Rahman  
 > pewaris kitab  
-> wakil Rasulullah SAW  
+> wakil Rosululloh Shollallohu 'Alaihi Wasallam  
 > yang selalu pergi pulang antara bumi dan langit  
 > yang orang-orang sezamannya adalah keluarganya  
 > yang diturunkan pertolongan karena doanya  

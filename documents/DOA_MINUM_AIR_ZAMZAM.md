@@ -1,4 +1,7 @@
-# Doa Sebelum Minum Air Zamzam
+# DO'A HENDAK MINUM AIR ZAM ZAM SIRNARASA
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
@@ -8,4 +11,4 @@
 
 Allohumma innii as-aluka 'ilman naafi'a warizqon waasi'an wa syifaa-an min kulli daain wasaqoomin birohmatika yaa arhamar roohimiin
 
-Artinya: "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang luas, dan kesembuhan dari segala penyakit dan mara bahaya, dengan rahmat-Mu wahai Tuhan Yang Maha Pengasih lagi Maha Penyayang."
+Artinya: "Ya اَللّهُ, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang luas, dan kesembuhan dari segala penyakit dan mara bahaya, dengan rahmat-Mu wahai Tuhan Yang Maha Pengasih lagi Maha Penyayang."

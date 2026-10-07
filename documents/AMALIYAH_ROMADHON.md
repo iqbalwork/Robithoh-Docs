@@ -44,7 +44,7 @@ Bismillaahirrohmaanirroohim. Alaa inna Auliyaa’alloohi laa khoufun ‘alaihim 
 
 Bismillaahirrohmaanirroohim. Alhamdulillaahi Robbil ‘aalamin, wal ‘aaqibatu lill Muttaqiin, walaa ‘udwaana illaa ‘alazh zhoolimiin, wash sholaatu was salaamu ‘alaa Sayidinaa Muhammadin wa ‘alaa aalihii wa shohbihii ajma’iin, Ammaa ba’du:
 
-“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad SAW berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
+“Dengan menyebut Nama اَللّهُ Yang Maha Pengasih Maha Penyayang. Puji bagi اَللّهُ pencipta Semesta alam. Sholawat serta salam semoga dilimpahkan kepada junjungan kita Nabi Muhammad Shollallohu 'Alaihi Wasallam berserta keluarganya, sahabatnya serta ‘awliya اَللّهُ dan para pengikutnya sampai hari akhir.”
 
 Ini sekelumit manaqib Sulthon Awliya’ Syaikh Abdul Qodir Al Jailani, kutipan dari kitab  “Uquudul La’aali Fii Manaqibil Jayli” dan kitab  “Tafrìhul Khòtir Fì Manàqibis Sayyid ‘Abdul Qòdir.”, semoga dengan dibacakan manaqib ini, اَللّهُ SWT melimpahkan keberkahannya kepada kita sekalian, terutama kepada Shohibul Hajat (……) dimudahkan rizki yang halal, dijauhkan dari malapetaka dunia dan akhirat, diterima segala niat dan maksud kita, dimudahkan urusan kita yang berhubungan dengan dunia dan akhirat, Aamiin Yaa Robbal ‘aalamiin.
 
@@ -56,13 +56,13 @@ Sayid Abu Muhammad Abdul Qodir Jaelani dilahirkan di Naif Jailan Irak pada tangg
 
 Pada malam Syaikh di lahirkan ada lima karomah :
 
-Ayahnya, yaitu Abi Sholih Musa Janaki, pada malam hari bermimpi dikunjungi Rosululloh SAW diiringi para Sahabat dan Imam Mujtahidin dan para wali. Rosululloh bersabda kepada Abi Sholih Musa Janaki: “Wahai Abi Sholih, engkau akan diberi putra oleh اَللّهُ. Putramu akan mendapat kedudukan yang tinggi di atas para wali sebagaimana kedudukanku diatas para nabi, dan anakmu itu termasuk anakku juga, kesayanganku dan kesayangan اَللّهُ”.
+Ayahnya, yaitu Abi Sholih Musa Janaki, pada malam hari bermimpi dikunjungi Rosululloh Shollallohu 'Alaihi Wasallam diiringi para Sahabat dan Imam Mujtahidin dan para wali. Rosululloh bersabda kepada Abi Sholih Musa Janaki: “Wahai Abi Sholih, engkau akan diberi putra oleh اَللّهُ. Putramu akan mendapat kedudukan yang tinggi di atas para wali sebagaimana kedudukanku diatas para nabi, dan anakmu itu termasuk anakku juga, kesayanganku dan kesayangan اَللّهُ”.
 
-Setelah Rosululloh SAW, para Nabi yang lainpun datang menghibur ayah Syaikh Abdul Qodir : “Engkau akan mempunyai putra yang akan menjadi Sulthonul Auliya, seluruh wali اَللّهُ selain Imam Ma’shum, di bawah pimpinannya”.
+Setelah Rosululloh Shollallohu 'Alaihi Wasallam, para Nabi yang lainpun datang menghibur ayah Syaikh Abdul Qodir : “Engkau akan mempunyai putra yang akan menjadi Sulthonul Auliya, seluruh wali اَللّهُ selain Imam Ma’shum, di bawah pimpinannya”.
 
 Syaikh Abdul Qodir sejak dilahirkan pada siang hari bulan Romadhan menolak untuk menyusu. Menyusunya setelah waktu berbuka puasa.
 
-Di belakang pundak Syaikh Abdul Qodir nampak bekas telapak kaki Rosululloh SAW ketika beliau akan menunggangi buroq pada malam Mi’raj.
+Di belakang pundak Syaikh Abdul Qodir nampak bekas telapak kaki Rosululloh Shollallohu 'Alaihi Wasallam ketika beliau akan menunggangi buroq pada malam Mi’raj.
 
 Beliau diliputi cahaya sehingga tidak seorangpun yang mampu melihatnya. Sedang usia ibunya waktu itu 60 tahun, ini juga sesuatu hal yang luar biasa.
 اللّٰهُمَّ انْثُـرْ عَلَيْهِ النَّفَحَاتِ وَالرِّضْوَانِ، وَأَمِدَّنَا بِأَسْرَارِهِ فِى كُلِّ وَقْتٍ وَمَكَانِ

@@ -1,4 +1,8 @@
-# Nadzom Sebelum Membaca Sholawat Bani Hasyim
+# NADZOM SHOLAWAT BANI HASYIM
+## BACAAN SEBELUM MEMBACA SHOLAWAT BANI HASYIM
+### THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 

@@ -1,4 +1,7 @@
-# Doa Sebelum Makan
+# DO'A HENDAK MAKAN (SEBELUM MAKAN)
+## THORIQOH QOODIRIYYAH NAQSYABANDIYYAH MA'HAD SURYALAYA SIRNARASA PPKN III
+
+> 📖 **Pengantar & Tatacara**: [Baca Pengantar Kumpulan Do'a - Do'a TQN](PENGANTAR_DOA_DOA_TQN.md)
 
 ---
 
@@ -8,4 +11,4 @@
 
 Allohumma Zidnaa Walaa Tangkusna Warzuknaa Ni'matad Dunya wal Akhiroh
 
-Artinya: "Ya Allah, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."
+Artinya: "Ya اَللّهُ, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."
