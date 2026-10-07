@@ -19,4 +19,4 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Ya Allah, hidupkanlah aku selama kehidupan itu lebih baik bagiku, dan wafatkanlah aku apabila kematian itu lebih baik bagiku.*
+*Ya اَللّهُ, hidupkanlah aku selama kehidupan itu lebih baik bagiku, dan wafatkanlah aku apabila kematian itu lebih baik bagiku.*

@@ -9,7 +9,7 @@ Panduan wirid dan dzikir untuk tasbih digital beserta target hitungan dan keutam
 
 لَا إِلٰهَ إِلَّا اللَّهُ
 
-*Pengagungan kebesaran Allah di atas seluruh alam.*
+*Pengagungan kebesaran اَللّهُ di atas seluruh alam.*
 
 ---
 

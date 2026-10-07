@@ -11,4 +11,4 @@
 
 Allohumma Zidnaa Walaa Tangkusna Warzuknaa Ni'matad Dunya wal Akhiroh
 
-Artinya: "Ya Allah, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."
+Artinya: "Ya اَللّهُ, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."

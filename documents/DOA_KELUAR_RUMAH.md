@@ -11,7 +11,7 @@
 
 Bismillaaha 'alaa diinii wanafsii wa maalii. Allohumma rod-dlinii biqodlooika wabariklii fiimaa qoddartalii hattaa laa uhibba ta'jiila maa akh-khorta walaa ta'khiro maa 'ajjalta innaka 'alaa kulli syai-ing qodiir. + Sholawat Bani Hasyim
 
-Artinya: "Dengan nama Allah (aku berserah diri) atas agamaku, diriku, dan hartaku. Ya Allah, jadikanlah aku ridha menerima ketetapan-Mu dan berilah keberkahan kepadaku atas apa yang telah Engkau takdirkan untukku, hingga aku tidak menginginkan disegerakannya apa yang Engkau tunda, dan tidak menginginkan ditundanya apa yang Engkau segerakan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
+Artinya: "Dengan nama اَللّهُ (aku berserah diri) atas agamaku, diriku, dan hartaku. Ya اَللّهُ, jadikanlah aku ridha menerima ketetapan-Mu dan berilah keberkahan kepadaku atas apa yang telah Engkau takdirkan untukku, hingga aku tidak menginginkan disegerakannya apa yang Engkau tunda, dan tidak menginginkan ditundanya apa yang Engkau segerakan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
 
 Catatan:
 – Jangan keluar rumah kalau tidak punya wudhu.

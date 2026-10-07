@@ -19,4 +19,4 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Segala puji bagi Allah yang melebihkan kami dari kebanyakan hamba-hamba-Nya yang beriman.* (QS. An-Naml: 15)
+*Segala puji bagi اَللّهُ yang melebihkan kami dari kebanyakan hamba-hamba-Nya yang beriman.* (QS. An-Naml: 15)

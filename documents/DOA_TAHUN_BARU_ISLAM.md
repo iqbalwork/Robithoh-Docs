@@ -19,7 +19,7 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan tahun ini, kebaikan apa yang ada di dalamnya, dan kebaikan apa yang Engkau kirimkan dengannya. Dan aku berlindung kepada-Mu dari keburukan tahun ini, keburukan apa yang ada di dalamnya, dan keburukan apa yang Engkau kirimkan dengannya.*
+*Ya اَللّهُ, sesungguhnya aku memohon kepada-Mu kebaikan tahun ini, kebaikan apa yang ada di dalamnya, dan kebaikan apa yang Engkau kirimkan dengannya. Dan aku berlindung kepada-Mu dari keburukan tahun ini, keburukan apa yang ada di dalamnya, dan keburukan apa yang Engkau kirimkan dengannya.*
 
 ---
 

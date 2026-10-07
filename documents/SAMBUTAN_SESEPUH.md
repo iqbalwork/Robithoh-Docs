@@ -8,7 +8,7 @@ Ditangan saudara-saudara adalah sebuah buku yang namanya ‘Amaliyah Mursyid, pe
 
 Kalau sudah di Talqin wajib membaca buku ini, wajib membeli buku ini, wajib menerima pemberian buku ini, hati-hati jangan mencuri buku ini, jangan menyembunyikan buku ini, wajib di sebar luaskan buku ini, bagi bagikan buku ini, jaga kelestariannya buku ini.
 
-Semoga ALLOH berkahi Semuanya, Segalanya, Selamanya.
+Semoga اَللّهُ berkahi Semuanya, Segalanya, Selamanya.
 
 Do’a Abah
 

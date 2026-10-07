@@ -25,6 +25,6 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang.*
+*Dengan menyebut nama اَللّهُ Yang Maha Pengasih lagi Maha Penyayang.*
 
 *Wahai orang yang sampai kepada muridnya ketika permohonan bantuan (istighotsah) disampaikan, meski ia berada jauh di timur; kudamu telah siap dengan pelananya, pedangmu telah terhunus, tombakmu siap dilemparkan, busurmu telah ditarik, anak panahmu siap membidik sasaran, dan tungganganmu amat tinggi. Tolonglah kami dalam memenuhi segala hajat yang baik untuk urusan dunia dan akhirat.*

@@ -1,6 +1,6 @@
 # SILSILAH THORIQOT QOODIRIYYAH NAQSYABANDIYYAH MA’HAD SURYALAYA SIRNARASA PPKN III
 
-1. **Robbul Arbaabi Wamu'tiqur Riqoobi Alloh Subhanahu Wa Ta'ala**
+1. **Robbul Arbaabi Wamu'tiqur Riqoobi اَللّهُ Subhanahu Wa Ta'ala**
 2. **Sayyidunaa Jibbriil 'Alaihis Salaam**
 3. **Sayyidunaa Manba-Ul 'Ilmi Wal Asroori Wa Makhzanul Faidli Wal Anwaari Wa Maljaa-Ul Ummati Wal Abroori Wamahbathu Jibriila Fil-Laili Wan Nahaari Wa Habiibulloohis Sattaaril Ladzii Unzila 'Alaihi Afdlolul Kutubi Wal Asfaari Sayyidunaa Muhammadunil Mukhtaari Shollaoohu 'Alaihi Wa 'Alaa Aalihi Wa Ash-Haabihil Akhyaar**
 4. **Sayyidunaa 'Aliy Karomalloohu Wajhah**

@@ -16,4 +16,4 @@ Setelah bersin, keluarkan sisa nafas 3 kali lewat hidung, kemudian mengucapkan:
 *Alhamdulillaahi 'alaa kulli haal.*
 
 **Artinya:**
-*“Segala puji bagi Alloh atas setiap keadaan.”*
+*“Segala puji bagi اَللّهُ atas setiap keadaan.”*

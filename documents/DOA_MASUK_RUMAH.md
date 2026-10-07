@@ -8,7 +8,7 @@
 
 Allohumma innii as-aluka khoirol mauliji, bismillahi wa lajnaa, wa bismillahi khorojnaa, wa 'alallohi robbanaa tawakkalnaa.
 
-Artinya: "Ya Allah, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat masuk. Dengan nama Allah kami masuk, dan dengan nama Allah kami keluar, dan kepada Allah Tuhan kami, kami bertawakal."
+Artinya: "Ya اَللّهُ, sesungguhnya aku memohon kepada-Mu sebaik-baik tempat masuk. Dengan nama اَللّهُ kami masuk, dan dengan nama اَللّهُ kami keluar, dan kepada اَللّهُ Tuhan kami, kami bertawakal."
 
 Catatan:
 – Masuk rumah dahulukan kaki kanan.

@@ -214,7 +214,7 @@ Al Khoir 38 ~ Pangersa ABAH AOS Qs
 
 Alhamdulillahilladzii adzhaba annal hazana Inna robbana laghofuurun syakuur
 
-Artinya: "Segala puji bagi Allah yang telah menghilangkan kesedihan dari kami. Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri." (QS. Fathir: 34)
+Artinya: "Segala puji bagi اَللّهُ yang telah menghilangkan kesedihan dari kami. Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri." (QS. Fathir: 34)
 
 Catatan: Dibaca di setiap selesai sholat fardhu maupun sunnah, persis selepas membaca salam.
 
@@ -234,7 +234,7 @@ Dibaca setiap seusai sholat sunnah Dhuha sebanyak (38x):
 
 Alloohu lathiifum bi ’ibaadihi yarzuku may yasyaa’u wa Huwal Qowiyyul ‘Aziizu.
 
-Artinya: "Allah Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa." (QS. Asy-Syura: 19)
+Artinya: "اَللّهُ Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa." (QS. Asy-Syura: 19)
 
 ---
 
@@ -248,7 +248,7 @@ Artinya: "Allah Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada s
 
 Allohumma innii as-aluka 'ilman naafi'a warizqon waasi'an wa syifaa-an min kulli daain wasaqoomin birohmatika yaa arhamar roohimiin
 
-Artinya: "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang luas, dan kesembuhan dari segala penyakit dan mara bahaya, dengan rahmat-Mu wahai Tuhan Yang Maha Pengasih lagi Maha Penyayang."
+Artinya: "Ya اَللّهُ, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang luas, dan kesembuhan dari segala penyakit dan mara bahaya, dengan rahmat-Mu wahai Tuhan Yang Maha Pengasih lagi Maha Penyayang."
 
 ---
 
@@ -446,7 +446,7 @@ Doa Syukur Saat Terbangun Dari Tidur
 
 Alhamdulillaahilladzii ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur.
 
-Artinya: "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah kami dibangkitkan."
+Artinya: "Segala puji bagi اَللّهُ yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah kami dibangkitkan."
 
 ---
 
@@ -460,13 +460,13 @@ Artinya: "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan 
 
 Allohumma Zidnaa Walaa Tangkusna Warzuknaa Ni'matad Dunya wal Akhiroh
 
-Artinya: "Ya Allah, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."
+Artinya: "Ya اَللّهُ, tambahkanlah (karunia/kebaikan) kepada kami dan janganlah Engkau kurangi, serta anugerahilah kami kenikmatan dunia dan akhirat."
 
 ---
 
 ## 11. Do'a Syukur Nikmat
 
-Doa Sujud Syukur Atas Limpahan Nikmat Allah SWT
+Doa Sujud Syukur Atas Limpahan Nikmat اَللّهُ SWT
 
 ---
 
@@ -476,13 +476,13 @@ Doa Sujud Syukur Atas Limpahan Nikmat Allah SWT
 
 Allohumma laka sajadtu wa bika aamantu, wa laka aslamtu, sajada wajhiya lilladhi khalqahu, wa sawwarahu, wa shaqqa sam’ahu wa basarahu, tabaarak-Allohu ahsanul khaaliqeen.
 
-Artinya: "Ya Allah untuk-Mu aku bersujud, kepada-Mu aku beriman dan aku serahkan diriku kepada-Mu, telah bersujud wajahku kepada yang telah menciptakannya, membentuk rupanya, memberikan pendengaran dan penglihatannya, Maha Mulia Allah pencipta yang paling baik."
+Artinya: "Ya اَللّهُ untuk-Mu aku bersujud, kepada-Mu aku beriman dan aku serahkan diriku kepada-Mu, telah bersujud wajahku kepada yang telah menciptakannya, membentuk rupanya, memberikan pendengaran dan penglihatannya, Maha Mulia اَللّهُ pencipta yang paling baik."
 
 ---
 
 ## 12. Do'a Berserah Diri
 
-Doa Pasrah & Tawakkal Total Hanya Kepada Allah SWT
+Doa Pasrah & Tawakkal Total Hanya Kepada اَللّهُ SWT
 
 ---
 
@@ -492,7 +492,7 @@ Doa Pasrah & Tawakkal Total Hanya Kepada Allah SWT
 
 Bismillaahi tawakkaltu 'alalloohi laa haula walaa quwwata illaa billaah.
 
-Artinya: "Dengan nama Allah, aku bertawakkal kepada Allah, tidak ada daya dan upaya melainkan dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung."
+Artinya: "Dengan nama اَللّهُ, aku bertawakkal kepada اَللّهُ, tidak ada daya dan upaya melainkan dengan pertolongan اَللّهُ Yang Maha Tinggi lagi Maha Agung."
 
 ---
 
@@ -506,7 +506,7 @@ Artinya: "Dengan nama Allah, aku bertawakkal kepada Allah, tidak ada daya dan up
 
 Allohumma innii as-aluka khoiro haadzal mathori wa khoiro maa fiihi wa khoiro maa ursilat bihi wa a'uudzubika min syarri haadzal mathori wa syarri maa fiihi wa syarri maa ursilat bihi
 
-Artinya: "Ya Allah, sesungguhnya aku memohon kepada-Mu kebaikan hujan ini, kebaikan apa yang ada di dalamnya, dan kebaikan tujuan ia diutus. Dan aku berlindung kepada-Mu dari keburukan hujan ini, keburukan apa yang ada di dalamnya, dan keburukan tujuan ia diutus."
+Artinya: "Ya اَللّهُ, sesungguhnya aku memohon kepada-Mu kebaikan hujan ini, kebaikan apa yang ada di dalamnya, dan kebaikan tujuan ia diutus. Dan aku berlindung kepada-Mu dari keburukan hujan ini, keburukan apa yang ada di dalamnya, dan keburukan tujuan ia diutus."
 
 Catatan: Maklumat PPKN III ~ Selasa, 4 Maret 2025. Khusus hanya untuk orang yang sudah ditalqin saja.
 
@@ -529,7 +529,7 @@ Catatan: Maklumat PPKN III ~ Selasa, 4 Maret 2025. Khusus hanya untuk orang yang
 *Yuhibbuunahum kahubbillaah, walladziina aamanuu asyaddu hubban lillaah.* (34x)
 
 **Artinya:**
-*“Mereka mencintainya sebagaimana mencintai Alloh, adapun orang-orang yang beriman amat sangat cinta kepada Alloh.”* (QS. Al-Baqarah: 165)
+*“Mereka mencintainya sebagaimana mencintai اَللّهُ, adapun orang-orang yang beriman amat sangat cinta kepada اَللّهُ.”* (QS. Al-Baqarah: 165)
 
 ---
 
@@ -545,7 +545,7 @@ Doa Akhir Tahun & Awal Tahun Hijriyah
 
 Washollallohu 'alaa sayyidinaa Muhammadin wa 'alaa aalihii wa shohbihii wa sallam. Alloohumma maa 'amiltu fii haadzihis sanati mimmaa nahaitanii 'anhu falam atub minhu wa lam tardhohu wa lam tansahu wa halumta 'alayya ba'da qudrotika 'alaa 'uquubatii wa da'awtanii ilat tawbati minhu ba'da jur-atii 'alaa ma'shiyatik, fa-innii astaghfiruka faghfirlii wa maa 'amiltu fiihaa mimmaa tardhoohu wa wa'adtanii 'alaihit tsawaaba fa-as-aluka Alloohumma yaa Kariimu yaa Dzal Jalaali wal Ikroom an tataqobbalahu minnii wa laa taqtho' rojaa-ii minka yaa Kariim.
 
-Artinya: "Semoga Allah melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya Allah, apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau larang sedang aku belum bertaubat darinya, dan Engkau tidak meredhainya dan tidak melupakannya, dan Engkau bersikap lembut kepadaku setelah kuasa-Mu untuk menghukumku, dan Engkau mengajakku untuk bertaubat darinya setelah keberanianku bermaksiat kepada-Mu, maka sesungguhnya aku memohon ampun kepada-Mu, maka ampunilah aku. Dan apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau redhai dan Engkau janjikan pahala atasnya, maka aku memohon kepada-Mu ya Allah, wahai Dzat Yang Maha Pemurah, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan, agar Engkau menerima amalan itu dariku dan janganlah Engkau memutus harapanku dari-Mu, wahai Dzat Yang Maha Pemurah."
+Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya اَللّهُ, apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau larang sedang aku belum bertaubat darinya, dan Engkau tidak meredhainya dan tidak melupakannya, dan Engkau bersikap lembut kepadaku setelah kuasa-Mu untuk menghukumku, dan Engkau mengajakku untuk bertaubat darinya setelah keberanianku bermaksiat kepada-Mu, maka sesungguhnya aku memohon ampun kepada-Mu, maka ampunilah aku. Dan apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau redhai dan Engkau janjikan pahala atasnya, maka aku memohon kepada-Mu ya اَللّهُ, wahai Dzat Yang Maha Pemurah, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan, agar Engkau menerima amalan itu dariku dan janganlah Engkau memutus harapanku dari-Mu, wahai Dzat Yang Maha Pemurah."
 
 ---
 
@@ -555,7 +555,7 @@ Artinya: "Semoga Allah melimpahkan rahmat dan keselamatan kepada junjungan kami 
 
 Washollallohu 'alaa sayyidinaa Muhammadin wa 'alaa aalihii wa shohbihii wa sallam. Alloohumma antal abadiyyul qodiimul awwal, wa 'alaa fadhlikal 'azhiimi wa juudikal mu'awwali wa haadzaa 'aamun jadiidun qod aqbala nas-alukal 'ishmata fiihi minasy syaithooni wa auliyaa-ihii wal 'awna 'alaa haadzihin nafsil ammaaroti bis suu-i wal ishtighoola bimaa yuqorribunii ilaika zulfaa yaa Dzal Jalaali wal Ikroom.
 
-Artinya: "Semoga Allah melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya Allah, Engkaulah Yang Maha Abadi, Maha Qadim, Maha Awal, dan atas karunia-Mu yang agung dan kemurahan-Mu yang menjadi tumpuan. Dan tahun baru ini telah tiba, kami memohon perlindungan kepada-Mu pada tahun ini dari syaitan dan para pengikutnya, serta pertolongan atas nafsu yang selalu mengajak pada keburukan, dan kesibukan dengan amalan yang mendekatkan diriku kepada-Mu sedekat-dekatnya, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan."
+Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya اَللّهُ, Engkaulah Yang Maha Abadi, Maha Qadim, Maha Awal, dan atas karunia-Mu yang agung dan kemurahan-Mu yang menjadi tumpuan. Dan tahun baru ini telah tiba, kami memohon perlindungan kepada-Mu pada tahun ini dari syaitan dan para pengikutnya, serta pertolongan atas nafsu yang selalu mengajak pada keburukan, dan kesibukan dengan amalan yang mendekatkan diriku kepada-Mu sedekat-dekatnya, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan."
 
 ---
 
@@ -576,7 +576,7 @@ Setelah bersin, keluarkan sisa nafas 3 kali lewat hidung, kemudian mengucapkan:
 *Alhamdulillaahi 'alaa kulli haal.*
 
 **Artinya:**
-*“Segala puji bagi Alloh atas setiap keadaan.”*
+*“Segala puji bagi اَللّهُ atas setiap keadaan.”*
 
 ---
 
@@ -595,7 +595,7 @@ Setelah bersin, keluarkan sisa nafas 3 kali lewat hidung, kemudian mengucapkan:
 *Alhamdu lillaahilladzii adzhaba 'annil adzaa wa 'aafaanii 'aafiyatan taammatan.*
 
 **Artinya:**
-*“Segala puji bagi Alloh yang telah menghilangkan kotoran (penyakit) dari diriku dan telah memberiku kesehatan yang sempurna.”*
+*“Segala puji bagi اَللّهُ yang telah menghilangkan kotoran (penyakit) dari diriku dan telah memberiku kesehatan yang sempurna.”*
 
 ---
 
@@ -611,7 +611,7 @@ Himbauan Pangersa Abah ~ Selasa, 13 September 2022 M / 16 Romadhon 6 1444 H
 
 Alloohumma Yaa Ghoniyyu Yaa Hamiidu Yaa Mubdi-u Yaa Mu'iidu Yaa Kariimu Yaa Rohiimu Yaa Ghofuuru Yaa Waduudu Aghninaa Bihalaalika 'An Haroomika Wa Bithoo'atika 'An Ma'shiyatika Wa Bifadhlika 'amman siwaaka (4x)
 
-Artinya: "Ya Allah, wahai Dzat Yang Maha Kaya, wahai Dzat Yang Maha Terpuji, wahai Dzat Yang Memulai penciptaan, wahai Dzat Yang Mengembalikan kehidupan, wahai Dzat Yang Maha Mulia, wahai Dzat Yang Maha Pengasih, wahai Dzat Yang Maha Pengampun, wahai Dzat Yang Maha Mencintai. Cukupkanlah kami dengan yang halal dari sisi-Mu daripada yang haram, cukupkanlah kami dengan ketaatan kepada-Mu daripada bermaksiat kepada-Mu, dan cukupkanlah kami dengan karunia keutamaan-Mu dari selain-Mu."
+Artinya: "Ya اَللّهُ, wahai Dzat Yang Maha Kaya, wahai Dzat Yang Maha Terpuji, wahai Dzat Yang Memulai penciptaan, wahai Dzat Yang Mengembalikan kehidupan, wahai Dzat Yang Maha Mulia, wahai Dzat Yang Maha Pengasih, wahai Dzat Yang Maha Pengampun, wahai Dzat Yang Maha Mencintai. Cukupkanlah kami dengan yang halal dari sisi-Mu daripada yang haram, cukupkanlah kami dengan ketaatan kepada-Mu daripada bermaksiat kepada-Mu, dan cukupkanlah kami dengan karunia keutamaan-Mu dari selain-Mu."
 
 Catatan: Dibaca 4x seusai melaksanakan sholat sunnah ba'da Jum'at.
 
@@ -629,7 +629,7 @@ Guru Agung Hadrotus Syeikh ABAH AOS Ra Qs ~ Jum'at, 23 Desember 2022
 
 Allohumma inna nas-alukal fauza indalliqoo-i, wasshobro 'indal qodhoo-i, wa manaazilas syuhadaa-i, wa'iisyas su'ada-i, wan nasro 'alal a'daa-i, wa muro faqotal anbiyaa-i.
 
-Artinya: "Ya Allah sesungguhnya kami memohonkan kepada-Mu keberuntungan saat bertemu (dengan-Mu), kesabaran saat menerima ketentuan/takdir (dari-Mu), derajat tempat tinggal para syuhada (untuk-Mu), kehidupan orang-orang yang bahagia (bersama-Mu), pertolongan atas musuh (kepada-Mu), dan kebersamaan mendampingi para nabi (kekasih-Mu)."
+Artinya: "Ya اَللّهُ sesungguhnya kami memohonkan kepada-Mu keberuntungan saat bertemu (dengan-Mu), kesabaran saat menerima ketentuan/takdir (dari-Mu), derajat tempat tinggal para syuhada (untuk-Mu), kehidupan orang-orang yang bahagia (bersama-Mu), pertolongan atas musuh (kepada-Mu), dan kebersamaan mendampingi para nabi (kekasih-Mu)."
 
 Catatan: Dibaca di antara dua khuthbah sholat Jum'at.
 
@@ -777,7 +777,7 @@ Catatan: Dibaca setiap Jum'at malam bagi yang lahir pada hari Sabtu.
 *Allohumma nawwir quluubanaa binuuri hidaayatika kamaa nawwartal ardho binuuri syamsika abadan; yaa Arhamar Roohimiin. Allohumma innii a’uudzubika, bikalimaatikat tammaati kullihaa, minar riihil ahmar wa minal daa-il akbar fin nafsi wad dammi wal lahmi wal ‘udhzmi wal juluudi wal ‘uruuqi, subhaanaka idzaa qodhoita amron an taquula lahuu kun fayakuun. Alloohu akbar, Alloohu akbar, Alloohu akbar, birohmatika yaa Arhamar Roohimiin.*
 
 **Artinya:**
-*"Ya Allah, terangilah hati kami dengan cahaya hidayah-Mu sebagaimana Engkau menerangi bumi dengan cahaya matahari-Mu selama-lamanya, wahai Dzat Yang Maha Pengasih lagi Maha Penyayang. Ya Allah, sesungguhnya aku berlindung kepada-Mu dengan kalimat-kalimat-Mu yang sempurna semuanya dari angin merah dan dari penyakit terbesar pada jiwa, darah, daging, tulang, kulit, dan urat-urat. Maha Suci Engkau, apabila Engkau menetapkan suatu urusan, Engkau hanya berfirman kepadanya: 'Jadilah!' Maka jadilah ia. Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dengan rahmat-Mu wahai Dzat Yang Maha Pengasih lagi Maha Penyayang."*
+*"Ya اَللّهُ, terangilah hati kami dengan cahaya hidayah-Mu sebagaimana Engkau menerangi bumi dengan cahaya matahari-Mu selama-lamanya, wahai Dzat Yang Maha Pengasih lagi Maha Penyayang. Ya اَللّهُ, sesungguhnya aku berlindung kepada-Mu dengan kalimat-kalimat-Mu yang sempurna semuanya dari angin merah dan dari penyakit terbesar pada jiwa, darah, daging, tulang, kulit, dan urat-urat. Maha Suci Engkau, apabila Engkau menetapkan suatu urusan, Engkau hanya berfirman kepadanya: 'Jadilah!' Maka jadilah ia. اَللّهُ Maha Besar, اَللّهُ Maha Besar, اَللّهُ Maha Besar, dengan rahmat-Mu wahai Dzat Yang Maha Pengasih lagi Maha Penyayang."*
 
 ---
 
@@ -788,7 +788,7 @@ Catatan: Dibaca setiap Jum'at malam bagi yang lahir pada hari Sabtu.
 *Astaghfirulloohal ‘adzhiim alladzii laa ilaaha illaa huwal hayyul qoyyuumu wa atuubu ilaihi tawbata ‘abdin dhoolimin laa yamliku linafsihii dhorron walaa naf’an walaa mautan walaa hayaatan walaa nusyuuron walaa hawla walaa quwwata illaa billaahil ‘aliyyil ‘adzhiim; ..... wa ilaa hadhroti sulthoonil iimaani wa sayyidinaa ‘alii karromalloohu wajhahu wa ilaa hadhrotin nabiyyi shollallaahu 'alaihi wasallam, Al-Faatihah.*
 
 **Artinya:**
-*"Aku memohon ampun kepada Allah Yang Maha Agung, yang tiada Tuhan selain Dia Yang Maha Hidup lagi Berdiri Sendiri, dan aku bertobat kepada-Nya, tobat seorang hamba yang berbuat zalim, yang tidak memiliki bagi dirinya bahaya maupun manfaat, tidak kematian, tidak kehidupan, dan tidak pula kebangkitan; dan tiada daya serta upaya melainkan dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung... dan kepada hadirat Sultanul Iman dan junjungan kami Ali karromallohu wajhah dan kepada hadirat Nabi SAW, Al-Fatihah."*
+*"Aku memohon ampun kepada اَللّهُ Yang Maha Agung, yang tiada Tuhan selain Dia Yang Maha Hidup lagi Berdiri Sendiri, dan aku bertobat kepada-Nya, tobat seorang hamba yang berbuat zalim, yang tidak memiliki bagi dirinya bahaya maupun manfaat, tidak kematian, tidak kehidupan, dan tidak pula kebangkitan; dan tiada daya serta upaya melainkan dengan pertolongan اَللّهُ Yang Maha Tinggi lagi Maha Agung... dan kepada hadirat Sultanul Iman dan junjungan kami Ali karromallohu wajhah dan kepada hadirat Nabi SAW, Al-Fatihah."*
 
 ---
 
@@ -799,7 +799,7 @@ Catatan: Dibaca setiap Jum'at malam bagi yang lahir pada hari Sabtu.
 *Bismillaahirrohmaanirrohiim; 'azamtu 'alaikum yaa ashhaabas sihri wal waswaasi, wa'tashomtu bika yaa Allooh yaa Allooh dunyaa wal aakhiroh, wa bihaqqi khodhrin khodhrin wa ilyaasin, wa bihaqqi kahiijin mahiijin wa kahkahiijin juujin juujin, wa bihaqqi kahiijin mahiijin azrii anjaasin, wa bihaqqi aadama wa nuuh, wa'tashomtu bika min syarril jinni wal insi wal ahdamani wasy-syayaathiini wa junuudihii wa atbaa'ihii, wa min kullil aafaati wal 'aahaati wa'tashomtu bika min kulli balaa-in, wa bihaqqi daaniyaalin, wa bihaqqi iijin iijin daarisin nuurisin, wa bihaqqi aahiyan syaroohiyan aduunaa-i ashbaut, wa bihaqqi 'udzhmatika yaa Allooh ihfadh-nii ihfadh-nii ihfadh-nii jasad ruuh raasa, minal balaa-i wal wabaa-i wal aafaati wal 'aahaati wal baliyyaati wa bihaqqi muusa wa 'iisa, wa bihaqqi daawuuda wa zakariyyaa, wa bihaqqi ismaa'iila wa yahyaa, wa bihaqqi idriisa wa syiis, wa bihaqqi muhammadin shollalloohu 'alaihi wa sallam, wa 'alaa jamii'il anbiyaa-i wal mursaliin.*
 
 **Artinya:**
-*"Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang; Aku tegaskan ketetapan atas kalian wahai para pelaku sihir dan pembisik keraguan; dan aku berpegang teguh pada-Mu ya Allah, ya Allah di dunia dan akhirat; demi hak Khidir, Khidir dan Ilyas; demi hak Kahij Mahij dan Kahkahij Juj Juj; demi hak Kahij Mahij Azri Anjas; demi hak Adam dan Nuh; dan aku berlindung dengan-Mu dari kejahatan jin, manusia, dan gangguan yang merusak serta setan-setan, bala tentaranya dan para pengikutnya, serta dari segala marabahaya, wabah penyakit; dan aku berpegang teguh pada-Mu dari segala mara bahaya; demi hak Daniel; demi hak Ij Ij Daris Nuris; demi hak Ahiyan Syarahiyan Adunai Ashbaut; dan demi hak keagungan-Mu ya Allah peliharalah aku, peliharalah aku, peliharalah aku (jasad, ruh, dan rasa) dari mara bahaya, wabah penyakit, bencana, malapetaka, dan musibah; demi hak Musa dan Isa; demi hak Dawud dan Zakariya; demi hak Ismail dan Yahya; demi hak Idris dan Syits; dan demi hak junjungan kami Muhammad SAW, serta segenap para Nabi dan Rasul."*
+*"Dengan menyebut nama اَللّهُ Yang Maha Pengasih lagi Maha Penyayang; Aku tegaskan ketetapan atas kalian wahai para pelaku sihir dan pembisik keraguan; dan aku berpegang teguh pada-Mu ya اَللّهُ, ya اَللّهُ di dunia dan akhirat; demi hak Khidir, Khidir dan Ilyas; demi hak Kahij Mahij dan Kahkahij Juj Juj; demi hak Kahij Mahij Azri Anjas; demi hak Adam dan Nuh; dan aku berlindung dengan-Mu dari kejahatan jin, manusia, dan gangguan yang merusak serta setan-setan, bala tentaranya dan para pengikutnya, serta dari segala marabahaya, wabah penyakit; dan aku berpegang teguh pada-Mu dari segala mara bahaya; demi hak Daniel; demi hak Ij Ij Daris Nuris; demi hak Ahiyan Syarahiyan Adunai Ashbaut; dan demi hak keagungan-Mu ya اَللّهُ peliharalah aku, peliharalah aku, peliharalah aku (jasad, ruh, dan rasa) dari mara bahaya, wabah penyakit, bencana, malapetaka, dan musibah; demi hak Musa dan Isa; demi hak Dawud dan Zakariya; demi hak Ismail dan Yahya; demi hak Idris dan Syits; dan demi hak junjungan kami Muhammad SAW, serta segenap para Nabi dan Rasul."*
 
 ---
 
@@ -817,7 +817,7 @@ Doa Memohon Keberkahan & Kecukupan Rezeki Sholat Dhuha
 
 Allaahumma innadl-dluhaa-a dluhaa-uka, wal-bahaa-a bahaa-uka, wal-kamaala kamaaluka, wal-jamaala jamaaluka, wal-quwwata quwwatuka, wal-qudrota qudrotuka, wal-‘izzata ‘izzatuka. Allaahumma in kaana rizqunaa fis-samaa-i fa-anzilhu, wa in kaana fil-ardli fa-akhrijhu, wa in kaana ma’duuman fa-awjidhu, wa in kaana harooman fathohhirhu, wa in kaana ‘asiiron fasahhilhu lanaa, wa laa tanqulnaa ilaihi wanqulhu ilainaa, bihaqqi dluhaa-ika wa bahaa-ika wa kamaalika wa jamaalika wa quwwatika wa qudrotika wa ‘izzatika. A’thinii maa a’thoita ahlas-silsilatil-qoadiriyyatil-naqsyabandiyyah ma’hada suryaalayaa sirnaarosaa p-p-k-n, birohmatika yaa arhamar-roohimiin. Wal-hamdu lillaahi robbil ‘aalamin.
 
-Artinya: "Ya Allah, sesungguhnya waktu Dhuha itu adalah waktu Dhuha-Mu, keagungan itu adalah keagungan-Mu, kesempurnaan itu adalah kesempurnaan-Mu, keindahan itu adalah keindahan-Mu, kekuatan itu adalah kekuatan-Mu, kekuasaan itu adalah kekuasaan-Mu, dan kemuliaan itu adalah kemuliaan-Mu. Ya Allah, jika rezeki kami berada di langit maka turunkanlah, jika di bumi maka keluarkanlah, jika tiada maka adakanlah, jika haram maka sucikanlah, jika sukar maka mudahkanlah bagi kami, dan janganlah Engkau pindahkan kami kepadanya tetapi pindahkanlah ia kepada kami, dengan hakikat Dhuha-Mu, keagungan-Mu, kesempurnaan-Mu, keindahan-Mu, kekuatan-Mu, kekuasaan-Mu, dan kemuliaan-Mu. Berikanlah kepadaku apa yang telah Engkau berikan kepada para ahli silsilah Tarekat Qodiriyah wa Naqsyabandiyah Pondok Pesantren Suryalaya Sirnarasa PPKN, dengan rahmat-Mu wahai Dzat Yang Maha Pengasih lagi Maha Penyayang, dan segala puji bagi Allah Tuhan semesta alam."
+Artinya: "Ya اَللّهُ, sesungguhnya waktu Dhuha itu adalah waktu Dhuha-Mu, keagungan itu adalah keagungan-Mu, kesempurnaan itu adalah kesempurnaan-Mu, keindahan itu adalah keindahan-Mu, kekuatan itu adalah kekuatan-Mu, kekuasaan itu adalah kekuasaan-Mu, dan kemuliaan itu adalah kemuliaan-Mu. Ya اَللّهُ, jika rezeki kami berada di langit maka turunkanlah, jika di bumi maka keluarkanlah, jika tiada maka adakanlah, jika haram maka sucikanlah, jika sukar maka mudahkanlah bagi kami, dan janganlah Engkau pindahkan kami kepadanya tetapi pindahkanlah ia kepada kami, dengan hakikat Dhuha-Mu, keagungan-Mu, kesempurnaan-Mu, keindahan-Mu, kekuatan-Mu, kekuasaan-Mu, dan kemuliaan-Mu. Berikanlah kepadaku apa yang telah Engkau berikan kepada para ahli silsilah Tarekat Qodiriyah wa Naqsyabandiyah Pondok Pesantren Suryalaya Sirnarasa PPKN, dengan rahmat-Mu wahai Dzat Yang Maha Pengasih lagi Maha Penyayang, dan segala puji bagi اَللّهُ Tuhan semesta alam."
 
 ---
 
@@ -838,7 +838,7 @@ Artinya: "Ya Allah, sesungguhnya waktu Dhuha itu adalah waktu Dhuha-Mu, keagunga
 *Allohumma innii a'uudzubika min syarri nafsii wamin syarri kulli daa-bbatin anta aakhidzun binaashiyatihaa inna robbii 'alaa shiroothin mustaqiim.*
 
 **Artinya:**
-*“Ya Alloh, sesungguhnya aku berlindung kepada-Mu dari kejahatan diriku sendiri dan dari kejahatan setiap makhluk melata yang Engkau pegang ubun-ubunnya. Sesungguhnya Tuhanku berada di atas jalan yang lurus.”*
+*“Ya اَللّهُ, sesungguhnya aku berlindung kepada-Mu dari kejahatan diriku sendiri dan dari kejahatan setiap makhluk melata yang Engkau pegang ubun-ubunnya. Sesungguhnya Tuhanku berada di atas jalan yang lurus.”*
 
 ---
 
@@ -868,7 +868,7 @@ Catatan: Dibaca 1x sebelum membaca Sholawat Bani Hasyim.
 
 Bismillaaha 'alaa diinii wanafsii wa maalii. Allohumma rod-dlinii biqodlooika wabariklii fiimaa qoddartalii hattaa laa uhibba ta'jiila maa akh-khorta walaa ta'khiro maa 'ajjalta innaka 'alaa kulli syai-ing qodiir. + Sholawat Bani Hasyim
 
-Artinya: "Dengan nama Allah (aku berserah diri) atas agamaku, diriku, dan hartaku. Ya Allah, jadikanlah aku ridha menerima ketetapan-Mu dan berilah keberkahan kepadaku atas apa yang telah Engkau takdirkan untukku, hingga aku tidak menginginkan disegerakannya apa yang Engkau tunda, dan tidak menginginkan ditundanya apa yang Engkau segerakan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
+Artinya: "Dengan nama اَللّهُ (aku berserah diri) atas agamaku, diriku, dan hartaku. Ya اَللّهُ, jadikanlah aku ridha menerima ketetapan-Mu dan berilah keberkahan kepadaku atas apa yang telah Engkau takdirkan untukku, hingga aku tidak menginginkan disegerakannya apa yang Engkau tunda, dan tidak menginginkan ditundanya apa yang Engkau segerakan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
 
 Catatan:
 – Jangan keluar rumah kalau tidak punya wudhu.
@@ -933,4 +933,4 @@ Catatan:
 *Fakasyafnaa 'anka ghithoo-aka fabashorukal yauma hadiid. Alloohumma sholli 'alaa sayyidinaa Muhammadin wa 'alaa aali sayyidinaa Muhammad.* (7x)
 
 **Artinya:**
-*“Maka Kami singkapkan daripadamu tutup yang menutupi matamu, maka penglihatanmu pada hari ini amat tajam. Ya Alloh, limpahkanlah sholawat atas junjungan kami Nabi Muhammad dan atas keluarga junjungan kami Nabi Muhammad.”*
+*“Maka Kami singkapkan daripadamu tutup yang menutupi matamu, maka penglihatanmu pada hari ini amat tajam. Ya اَللّهُ, limpahkanlah sholawat atas junjungan kami Nabi Muhammad dan atas keluarga junjungan kami Nabi Muhammad.”*

@@ -18,6 +18,6 @@
 ---
 
 **Artinya:**
-*"Ya Allah, limpahkanlah shalawat, salam, tambahan keberkahan, kelanggengan, kenikmatan, keutamaan, dan anugerah-Mu—dengan segala keagungan dan kesempurnaan-Mu—kepada perhiasan para hamba-Mu, semulia-mulia hamba yang beribadah kepada-Mu, pembawa kebahagiaan seluruh bangsa Arab dan non-Arab, imam kota Thoybah (Madinah) dan Tanah Suci, sumber mata air ilmu, ketenangan hati, hikmah, serta kearifan, yaitu Abul Qasim, junjungan dan panutan kami Nabi Muhammad ﷺ. Dan semoga keselamatan senantiasa tercurah, serta Allah Yang Maha Suci lagi Maha Tinggi meridhai seluruh sahabat Rasulullah semuanya."*
+*"Ya اَللّهُ, limpahkanlah shalawat, salam, tambahan keberkahan, kelanggengan, kenikmatan, keutamaan, dan anugerah-Mu—dengan segala keagungan dan kesempurnaan-Mu—kepada perhiasan para hamba-Mu, semulia-mulia hamba yang beribadah kepada-Mu, pembawa kebahagiaan seluruh bangsa Arab dan non-Arab, imam kota Thoybah (Madinah) dan Tanah Suci, sumber mata air ilmu, ketenangan hati, hikmah, serta kearifan, yaitu Abul Qasim, junjungan dan panutan kami Nabi Muhammad ﷺ. Dan semoga keselamatan senantiasa tercurah, serta اَللّهُ Yang Maha Suci lagi Maha Tinggi meridhai seluruh sahabat Rasulullah semuanya."*
 
 ۞۞۞

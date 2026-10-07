@@ -15,4 +15,4 @@ Dibaca setiap seusai sholat sunnah Dhuha sebanyak (38x):
 
 Alloohu lathiifum bi ’ibaadihi yarzuku may yasyaa’u wa Huwal Qowiyyul ‘Aziizu.
 
-Artinya: "Allah Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa." (QS. Asy-Syura: 19)
+Artinya: "اَللّهُ Mahalembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki dan Dia Mahakuat, Mahaperkasa." (QS. Asy-Syura: 19)

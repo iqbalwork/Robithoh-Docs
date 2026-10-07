@@ -16,4 +16,4 @@
 *Yuhibbuunahum kahubbillaah, walladziina aamanuu asyaddu hubban lillaah.* (34x)
 
 **Artinya:**
-*“Mereka mencintainya sebagaimana mencintai Alloh, adapun orang-orang yang beriman amat sangat cinta kepada Alloh.”* (QS. Al-Baqarah: 165)
+*“Mereka mencintainya sebagaimana mencintai اَللّهُ, adapun orang-orang yang beriman amat sangat cinta kepada اَللّهُ.”* (QS. Al-Baqarah: 165)

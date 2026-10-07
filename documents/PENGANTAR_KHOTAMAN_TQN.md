@@ -1,6 +1,6 @@
 # PENGANTAR KHOTAMAN THORIQOH QODIRRIYAH NAQSYABANDIYYAH MA’HAD SURYALAYA SIRNARASA PPKN III
 
-Kata khotaman diambil dari bahasa arab dengan kata dasarnya *khotama yakhtumu khotman* yang artinya selesai atau menyelesaikan (penutup). Khotaman berfungsi ganda bagai pedang bermata dua. Khotaman merupakan penunjang utama untuk mencapai ma'rifat dan juga berfungsi sebagai Do’a yang manjur yang dipergunakan untuk memohon kepada Alloh dalam urusan dunia dan akhirat.
+Kata khotaman diambil dari bahasa arab dengan kata dasarnya *khotama yakhtumu khotman* yang artinya selesai atau menyelesaikan (penutup). Khotaman berfungsi ganda bagai pedang bermata dua. Khotaman merupakan penunjang utama untuk mencapai ma'rifat dan juga berfungsi sebagai Do’a yang manjur yang dipergunakan untuk memohon kepada اَللّهُ dalam urusan dunia dan akhirat.
 
 Khotaman biasanya dilakukan setelah sholat fardhu beserta dzikirnya. Pelaksanaanya bisa secara mandiri (munfarid), tetapi lebih utama jika dilaksanakan secara berjama'ah.
 

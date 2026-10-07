@@ -19,7 +19,7 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Dengan menyebut nama-Mu ya Allah, aku hidup dengan kehidupan abadi akhirat.*
+*Dengan menyebut nama-Mu ya اَللّهُ, aku hidup dengan kehidupan abadi akhirat.*
 
 ---
 

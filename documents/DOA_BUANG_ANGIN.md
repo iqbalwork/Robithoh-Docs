@@ -14,4 +14,4 @@
 *Alhamdu lillaahilladzii adzhaba 'annil adzaa wa 'aafaanii 'aafiyatan taammatan.*
 
 **Artinya:**
-*“Segala puji bagi Alloh yang telah menghilangkan kotoran (penyakit) dari diriku dan telah memberiku kesehatan yang sempurna.”*
+*“Segala puji bagi اَللّهُ yang telah menghilangkan kotoran (penyakit) dari diriku dan telah memberiku kesehatan yang sempurna.”*

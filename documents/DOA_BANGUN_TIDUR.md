@@ -19,4 +19,4 @@
 
 ### Terjemahan Bahasa Indonesia
 
-*Segala puji bagi Allah Yang telah menghidupkan kami dengan kehidupan abadi yang berorientasi akhirat.*
+*Segala puji bagi اَللّهُ Yang telah menghidupkan kami dengan kehidupan abadi yang berorientasi akhirat.*

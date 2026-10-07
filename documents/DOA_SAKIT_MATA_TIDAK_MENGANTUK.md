@@ -16,4 +16,4 @@
 *Fakasyafnaa 'anka ghithoo-aka fabashorukal yauma hadiid. Alloohumma sholli 'alaa sayyidinaa Muhammadin wa 'alaa aali sayyidinaa Muhammad.* (7x)
 
 **Artinya:**
-*“Maka Kami singkapkan daripadamu tutup yang menutupi matamu, maka penglihatanmu pada hari ini amat tajam. Ya Alloh, limpahkanlah sholawat atas junjungan kami Nabi Muhammad dan atas keluarga junjungan kami Nabi Muhammad.”*
+*“Maka Kami singkapkan daripadamu tutup yang menutupi matamu, maka penglihatanmu pada hari ini amat tajam. Ya اَللّهُ, limpahkanlah sholawat atas junjungan kami Nabi Muhammad dan atas keluarga junjungan kami Nabi Muhammad.”*

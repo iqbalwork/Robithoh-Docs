@@ -2,11 +2,11 @@
 
 Dzikir merupakan ‘amalan harian bagi ikhwan Thoriqoh Qodirriyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III yang dilaksanakan setiap ba'da sholat fardhu dan bisa juga setelah sholat sunat dengan kaifiyat yang telah ditentukan.
 
-Hal ini didasari Firman Alloh yang berbunyi:
+Hal ini didasari Firman اَللّهُ yang berbunyi:
 
 فَإِذَا قَضَيْتُمُ الصَّلٰوةَ فَاذْكُرُوا اللّٰهَ
 
-Artinya: "Bilamana engkau telah selesai mengerjakan sholat, maka berdzikirlah kepada Alloh ". (QS. An Nisa: 103)
+Artinya: "Bilamana engkau telah selesai mengerjakan sholat, maka berdzikirlah kepada اَللّهُ ". (QS. An Nisa: 103)
 
 ---
 

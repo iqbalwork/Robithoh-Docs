@@ -6,7 +6,7 @@
 
 **Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai'in lillahi lahum, al Faatihah**
 
-*Semoga disampaikan kepada junjungan kami Nabi Muhammad Sholallohu ‘Alaihi Wasallam, semoga Alloh melimpahkan rohmat dan keselamatan kepadanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah.*
+*Semoga disampaikan kepada junjungan kami Nabi Muhammad Sholallohu ‘Alaihi Wasallam, semoga اَللّهُ melimpahkan rohmat dan keselamatan kepadanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Alfaatihah.*
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Astaghfirulloohal Ghofuuror Rohiim (3x)**
 
-*Aku memohon ampunan kepada Alloh yang Maha Pengampun dan Maha Penyayang.*
+*Aku memohon ampunan kepada اَللّهُ yang Maha Pengampun dan Maha Penyayang.*
 
 ---
 
@@ -22,7 +22,7 @@
 
 **Alloohumma sholli ‘alaa Sayyidinaa Muhammadiw wa ‘alaa aalihii Wa shohbihii wa sallim (3x)**
 
-*Yaa Alloh limpahkanlah rohmat-Mu kepada sayyidina Muhammad Sholallohu ‘Alaihi Wasallam dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
+*Yaa اَللّهُ limpahkanlah rohmat-Mu kepada sayyidina Muhammad Sholallohu ‘Alaihi Wasallam dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya.*
 
 ---
 
@@ -38,7 +38,7 @@
 
 **Laa Ilaaha Illallooh (3x)**
 
-*Tiada Tuhan selain Alloh*
+*Tiada Tuhan selain اَللّهُ*
 
 Kemudian dilanjutkan dengan dzikir sekurang-kurangnya 165x, lebih banyak lebih baik dan dzikir diakhiri dengan bilangan ganjil.
 
@@ -56,7 +56,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Bismillaahirrohmaanirrohiim. Allohumma sholli ‘alaa Sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad, sholaatan tunjiinaa bihaa min jamii’il ahwaali wal aafaat, wa taqdhiilanaa bihaa jamii’al haajaat, wa tuthohhirunaa bihaa min jamii’is sayyi’aat, wa tarfa’unaa bihaa ‘indaka a’lad darojaat, wa tuballighunaa bihaa aqshol ghooyaat min jamii’il khoiroot fil hayaati wa ba’dal mamaat. Innal ladziina yubaayi‘uunaka innamaa yubaayi ‘uunalloha, yadulloohi fauqo aidiihim, faman nakatsa fa’innamaa yankutsu ‘alaa nafsih, wa man aufaa bimaa ‘aahada ‘alaihullooha fasayu’tiihi ajron ‘azhiimaa.**
 
-*Dengan menyebut nama Alloh yang Maha Pengasih lagi Maha Penyayang. Yaa Alloh limpahkan rohmat-Mu kepada Nabi Muhammad Sholallohu ‘Alaihi Wasallam dan keluarganya dengan rohmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yang tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada Alloh. ‘Tangan Alloh’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada Alloh maka Alloh akan memberinya pahala yang besar.*
+*Dengan menyebut nama اَللّهُ yang Maha Pengasih lagi Maha Penyayang. Yaa اَللّهُ limpahkan rohmat-Mu kepada Nabi Muhammad Sholallohu ‘Alaihi Wasallam dan keluarganya dengan rohmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yang tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada اَللّهُ. ‘Tangan اَللّهُ’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada اَللّهُ maka اَللّهُ akan memberinya pahala yang besar.*
 
 (Do’a ini dapat ditambah dengan Do’a-Do’a lainnya yang dikehendaki)
 
@@ -68,7 +68,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai'in lillahi lahum, al Faatihah**
 
-*Semoga disampaikan kepada junjungan kami Nabi Muhammad Sholallohu ‘Alaihi Wasallam, semoga Alloh melimpahkan rohmat dan keselamatan kepadanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah.*
+*Semoga disampaikan kepada junjungan kami Nabi Muhammad Sholallohu ‘Alaihi Wasallam, semoga اَللّهُ melimpahkan rohmat dan keselamatan kepadanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Alfaatihah.*
 
 ---
 
@@ -76,7 +76,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Tsumma ilaa Arwahi Ahli Silsilatil Qoodiriyyah Naqsyabandiyyah Ma'had Suryalaya Sirnarasa PPKN wa jamii’i ahlith thuruqi khushuushon ilaa Hadroti shulthoonil auliyaa’ I ghoutsil a’zhom quthbil ‘aalamiin, As Sayyidisy Syaikh Muhyiddin ‘Abdul Qoodir Al Jailaani Qoddasalloohu Sirroh wa Sayyidisy Syaikh Abil Qoosim Junaidil Baghdaadiy Wa Sayyidisy Syaikh Ahmad Khootib Syambas ibni ‘Abdil Ghoffaar Wa Sayyidisy Syaikh Tholhah Kalisapu Cirebon wa hadhroti Syaikh ‘Abdulloh Mubarook bin Nur Muhammad wa syaikhinal mukarrom Syaikh Ahmad Shoohibul Wafaa Taajul ‘Aarifin wa syaikhinal mukarrom Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum wa ushuulihim Wa furuu‘ihim wa ahli silsilaatihim wal aakhidziina ‘anhum, kullu syai'in lillahi lahum, al Faatihah**
 
-*Semoga Engkau sampaikan kepada para silsilah Thoriqot Qoodiriyyah Naqsabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dan kepada semua ahli thoriqot terutama kepada pimpinan para wali penolong agama Alloh Syaikh Abdul Qodir al Jailani. Semoga Alloh melimpahkan kesucian kepada maqomnya dan kepada Syaikh Abdul Qosim Junaidi al Baghdadi serta Syaikh Ahmad Khotib as Syambasyi Abdil Ghoffar dan Syaikh Tholhah bin Tholabuddin dan Syaikh Abdulloh Mubarok bin Nur Muhammad serta Syaikh Ahmad Shohibul Wafa Tajul’Arifin, dan Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum semoga Alloh melimpahkan keridhoan kepada mereka dan kepada leluhurnya, kepada anak turunnya dan ahli keluarga silsilah serta semua yang mengambil berkah dari mereka. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah.*
+*Semoga Engkau sampaikan kepada para silsilah Thoriqot Qoodiriyyah Naqsabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dan kepada semua ahli thoriqot terutama kepada pimpinan para wali penolong agama اَللّهُ Syaikh Abdul Qodir al Jailani. Semoga اَللّهُ melimpahkan kesucian kepada maqomnya dan kepada Syaikh Abdul Qosim Junaidi al Baghdadi serta Syaikh Ahmad Khotib as Syambasyi Abdil Ghoffar dan Syaikh Tholhah bin Tholabuddin dan Syaikh Abdulloh Mubarok bin Nur Muhammad serta Syaikh Ahmad Shohibul Wafa Tajul’Arifin, dan Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum semoga اَللّهُ melimpahkan keridhoan kepada mereka dan kepada leluhurnya, kepada anak turunnya dan ahli keluarga silsilah serta semua yang mengambil berkah dari mereka. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Alfaatihah.*
 
 ---
 
@@ -84,7 +84,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Tsumma ilaa arwaahi Aaba’inaa wa Ummahaatinaa wa likaaffatil Mu’miniina wal Mu’minat wal Muslimiina wal Muslimaat al Ahyaa’i minhum wal amwaat, kullu syai'in lillaahi lahum, al-faatihah.**
 
-*Selanjutnya semoga Alloh menyampaikan kepada bapak-bapak kami dan ibu-ibu kami dan kepada semua muslimin dan muslimat, mukminin dan mukminat, muhsinin muhsinat yang masih hidup maupun yang telah meninggal dunia. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Al-faatihah.*
+*Selanjutnya semoga اَللّهُ menyampaikan kepada bapak-bapak kami dan ibu-ibu kami dan kepada semua muslimin dan muslimat, mukminin dan mukminat, muhsinin muhsinat yang masih hidup maupun yang telah meninggal dunia. Segala sesuatu hanya milik اَللّهُ, untuk mereka (kami) hadiahkan, Al-faatihah.*
 
 ---
 
@@ -92,7 +92,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Astaghfirullooha Robbii min kulli dzanbin wa atuubu ilaihi (3x)**
 
-*Aku memohon ampunan kepada Alloh Tuhanku dari segala dosa dan aku bertaubat kepada-Nya.*
+*Aku memohon ampunan kepada اَللّهُ Tuhanku dari segala dosa dan aku bertaubat kepada-Nya.*
 
 ---
 
@@ -100,7 +100,7 @@ Kemudian berdo’a dengan do’a berikut ini :
 
 **Alloohumma sholli ‘alaa sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad, kamaa shollaita ‘alaa sayyidinaa Ibroohim wa ‘alaa Aali sayyidinaa Ibroohim, wa baarik ‘alaa sayyidinaa Muhammad Wa ‘alaa Aali sayyidinaa Muhammad, kamaa baarokta ‘alaa sayyidinaa Ibroohim wa ‘alaa Aali sayyidinaa Ibroohim, fil ‘aalamiina innaka Hamiidum Majiid.**
 
-*Yaa Alloh Semoga Engkau melimpahkan rohmat kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan rohmat kepada Nabi Ibrohim dan keluarganya dan semoga Engkau melimpahkan barokah kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan barokah kepada Nabi Ibrohim dan keluarganya di seluruh alam. Engkau Maha Terpuji lagi Maha Agung.*
+*Yaa اَللّهُ Semoga Engkau melimpahkan rohmat kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan rohmat kepada Nabi Ibrohim dan keluarganya dan semoga Engkau melimpahkan barokah kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan barokah kepada Nabi Ibrohim dan keluarganya di seluruh alam. Engkau Maha Terpuji lagi Maha Agung.*
 
 ---
 

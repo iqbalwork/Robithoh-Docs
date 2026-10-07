@@ -8,11 +8,11 @@ Dalam pengamalan ‘Amalan Thoriqoh Qodirriyah Naqsyabandiyyah Ma’had Suryalay
 
 Dzikir merupakan ‘amalan harian bagi ikhwan Thoriqoh Qodirriyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III yang dilaksanakan setiap ba'da sholat fardhu dan bisa juga setelah sholat sunat dengan kaifiyat yang telah ditentukan.
 
-Hal ini didasari Firman Alloh yang berbunyi:
+Hal ini didasari Firman اَللّهُ yang berbunyi:
 
 فَإِذَا قَضَيْتُمُ الصَّلٰوةَ فَاذْكُرُوا اللّٰهَ
 
-Artinya: "Bilamana engkau telah selesai mengerjakan sholat, maka berdzikirlah kepada Alloh ". (QS. An Nisa: 103)
+Artinya: "Bilamana engkau telah selesai mengerjakan sholat, maka berdzikirlah kepada اَللّهُ ". (QS. An Nisa: 103)
 
 Adapun ketentuannya adalah sebagai berikut:
 
@@ -25,7 +25,7 @@ Adapun ketentuannya adalah sebagai berikut:
 
 ## 2. Khotaman
 
-Kata khotaman diambil dari bahasa arab dengan kata dasarnya *khotama yakhtumu khotman* yang artinya selesai atau menyelesaikan (penutup). Khotaman berfungsi ganda bagai pedang bermata dua. Khotaman merupakan penunjang utama untuk mencapai ma'rifat dan juga berfungsi sebagai Do’a yang manjur yang dipergunakan untuk memohon kepada Alloh dalam urusan dunia dan akhirat.
+Kata khotaman diambil dari bahasa arab dengan kata dasarnya *khotama yakhtumu khotman* yang artinya selesai atau menyelesaikan (penutup). Khotaman berfungsi ganda bagai pedang bermata dua. Khotaman merupakan penunjang utama untuk mencapai ma'rifat dan juga berfungsi sebagai Do’a yang manjur yang dipergunakan untuk memohon kepada اَللّهُ dalam urusan dunia dan akhirat.
 
 Khotaman biasanya dilakukan setelah sholat fardhu beserta dzikirnya. Pelaksanaanya bisa secara mandiri (munfarid), tetapi lebih utama jika dilaksanakan secara berjama'ah.
 
@@ -43,7 +43,7 @@ Dalam hal ini dapat dijelaskan bahwa siapa yang banyak "keperluan hidup", maka p
 
 ## 3. Manaqib
 
-Manaqiban adalah acara khidmat. Syaikh Abdul Qodir Al Jailani pernah bersabda, "Dikala dibacakan manaqibku aku hadir padanya". Oleh karena itu para ikhwan harus disiplin, khusyu' dan tawadhu', menyatakan khidmat, seperti dicontohkan oleh Pangersa Abah Aos, sejak dimulai sampai selesai, beliau tidak bergerak ke kanan dan ke kiri, duduk nunduk tawajjuh ke arah di mana Satu Nama Alloh tertanam di dalamnya.
+Manaqiban adalah acara khidmat. Syaikh Abdul Qodir Al Jailani pernah bersabda, "Dikala dibacakan manaqibku aku hadir padanya". Oleh karena itu para ikhwan harus disiplin, khusyu' dan tawadhu', menyatakan khidmat, seperti dicontohkan oleh Pangersa Abah Aos, sejak dimulai sampai selesai, beliau tidak bergerak ke kanan dan ke kiri, duduk nunduk tawajjuh ke arah di mana Satu Nama اَللّهُ tertanam di dalamnya.
 
 Adapun susunan mata acaranya sebagai berikut:
 
@@ -74,9 +74,9 @@ Pedoman ziaroh qubur dalam buku ini merupakan ijazah langsung dari Syaikh Ahmad 
 
 ## 5. Tawassul
 
-Tawassul artinya mempercepat sampai tujuan. dalam hal ini maksudnya seorang Ikhwan Thoriqoh Qodirriyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dianjurkan diperintahakan untuk bertawassul kepada Nabi Muhammad Sholallohu ‘Alaihi Wasallam dan dalam segala hal, dalam Al Qur'an Alloh berfirman:
+Tawassul artinya mempercepat sampai tujuan. dalam hal ini maksudnya seorang Ikhwan Thoriqoh Qodirriyah Naqsyabandiyyah Ma’had Suryalaya Sirnarasa PPKN III dianjurkan diperintahakan untuk bertawassul kepada Nabi Muhammad Sholallohu ‘Alaihi Wasallam dan dalam segala hal, dalam Al Qur'an اَللّهُ berfirman:
 
-Hai orang-orang yang beriman, bertakwalah kepada Alloh dan carilah washilah (jalan) untuk mendekatkan diri mempercepat sampai kepada Alloh."(QS. Al Maidah:35)
+Hai orang-orang yang beriman, bertakwalah kepada اَللّهُ dan carilah washilah (jalan) untuk mendekatkan diri mempercepat sampai kepada اَللّهُ."(QS. Al Maidah:35)
 
 Tawassul biasa diamalkan pada saat-saat berikut ini:
 

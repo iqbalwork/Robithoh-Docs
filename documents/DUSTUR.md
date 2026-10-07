@@ -52,21 +52,21 @@ Shodaqolloohul 'Aliyyul 'Azhiim.
 
 ### Terjemahan Bahasa Indonesia
 
-*Aku berlindung kepada Allah Yang Maha Mendengar lagi Maha Mengetahui dari godaan syetan yang terkutuk.*
+*Aku berlindung kepada اَللّهُ Yang Maha Mendengar lagi Maha Mengetahui dari godaan syetan yang terkutuk.*
 
-*Dan siapakah yang lebih baik perkataannya daripada orang yang menyeru kepada Allah, mengerjakan kebajikan, dan berkata, "Sungguh, aku termasuk orang-orang yang berserah diri (muslim)?"*
+*Dan siapakah yang lebih baik perkataannya daripada orang yang menyeru kepada اَللّهُ, mengerjakan kebajikan, dan berkata, "Sungguh, aku termasuk orang-orang yang berserah diri (muslim)?"*
 
-*Sungguh, Allah yang menumbuhkan butir padi-padian dan biji kurma. Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup. Itulah (kekuasaan) Allah, maka mengapa kamu masih berpaling?*
+*Sungguh, اَللّهُ yang menumbuhkan butir padi-padian dan biji kurma. Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup. Itulah (kekuasaan) اَللّهُ, maka mengapa kamu masih berpaling?*
 
-*Dia menyingsingkan pagi dan menjadikan malam untuk beristirahat, serta (menjadikan) matahari dan bulan untuk perhitungan. Itulah ketetapan Allah Yang Maha Perkasa lagi Maha Mengetahui.*
+*Dia menyingsingkan pagi dan menjadikan malam untuk beristirahat, serta (menjadikan) matahari dan bulan untuk perhitungan. Itulah ketetapan اَللّهُ Yang Maha Perkasa lagi Maha Mengetahui.*
 
 *Dan Dialah yang menjadikan bintang-bintang bagimu, agar kamu menjadikannya petunjuk dalam kegelapan di darat dan di laut. Sungguh, Kami telah menjelaskan tanda-tanda (kekuasaan Kami) kepada orang-orang yang mengetahui.*
 
 *Dan Dialah yang menciptakan kamu dari diri yang satu (Adam), maka (bagimu) ada tempat menetap dan tempat simpanan. Sesungguhnya telah Kami jelaskan tanda-tanda (kebesaran Kami) kepada orang-orang yang memahami.*
 
-*Dan katakanlah: "Segala puji bagi Allah yang tidak mempunyai anak dan tidak mempunyai sekutu dalam kerajaan-Nya dan Dia bukan pula hina yang memerlukan penolong dan agungkanlah Dia dengan pengagungan yang sebesar-besarnya."*
+*Dan katakanlah: "Segala puji bagi اَللّهُ yang tidak mempunyai anak dan tidak mempunyai sekutu dalam kerajaan-Nya dan Dia bukan pula hina yang memerlukan penolong dan agungkanlah Dia dengan pengagungan yang sebesar-besarnya."*
 
-*Maha Benar Allah Yang Maha Tinggi lagi Maha Agung.*
+*Maha Benar اَللّهُ Yang Maha Tinggi lagi Maha Agung.*
 
 ---
 

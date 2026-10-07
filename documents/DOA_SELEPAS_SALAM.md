@@ -13,6 +13,6 @@
 
 Alhamdulillahilladzii adzhaba annal hazana Inna robbana laghofuurun syakuur
 
-Artinya: "Segala puji bagi Allah yang telah menghilangkan kesedihan dari kami. Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri." (QS. Fathir: 34)
+Artinya: "Segala puji bagi اَللّهُ yang telah menghilangkan kesedihan dari kami. Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri." (QS. Fathir: 34)
 
 Catatan: Dibaca di setiap selesai sholat fardhu maupun sunnah, persis selepas membaca salam.

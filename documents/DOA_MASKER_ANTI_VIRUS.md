@@ -16,4 +16,4 @@
 *Allohumma innii a'uudzubika min syarri nafsii wamin syarri kulli daa-bbatin anta aakhidzun binaashiyatihaa inna robbii 'alaa shiroothin mustaqiim.*
 
 **Artinya:**
-*“Ya Alloh, sesungguhnya aku berlindung kepada-Mu dari kejahatan diriku sendiri dan dari kejahatan setiap makhluk melata yang Engkau pegang ubun-ubunnya. Sesungguhnya Tuhanku berada di atas jalan yang lurus.”*
+*“Ya اَللّهُ, sesungguhnya aku berlindung kepada-Mu dari kejahatan diriku sendiri dan dari kejahatan setiap makhluk melata yang Engkau pegang ubun-ubunnya. Sesungguhnya Tuhanku berada di atas jalan yang lurus.”*
