@@ -31,7 +31,7 @@
 *Wa yaa imaamal makaan,*  
 *Wa yaa qoo-imu bi amrir rohmaan,*  
 *Wa yaa waaritsal kitaab,*  
-*Wa yaa naa-iba Rosuulillaahi SAW,*  
+*Wa yaa naa-iba Rosuulillaahi Shollallohu 'Alaihi Wasallam,*  
 *Yaa man minas samaa-i wal ardhi 'aa-idatuhu,*  
 *Yaa man ahlu waqtihii kulluhum 'aa-ilatuhu,*  
 *Yaa man yanzilul ghoitsu bi da'watihi,*  
@@ -93,7 +93,7 @@
 *Yaa quthbu yaa fardu yaa umanaa,*  
 *Aghiitsuunii bighoutsatin, wandhuruunii binadhrotin,*  
 *Warhamuunii birohmatin, wahasshiluu muroodii,*  
-*Wamaqooshidii waquumuu 'alaa qodhooi hawaaijii 'inda nabiyyinaa Muhammadin SAW,*  
+*Wamaqooshidii waquumuu 'alaa qodhooi hawaaijii 'inda nabiyyinaa Muhammadin Shollallohu 'Alaihi Wasallam,*  
 *Sallamakumulloohu ta'aalaa fiddunyaa wal aakhiroh,*  
 *Alloohumma sholli 'alannabiyyil Khidhir 'alaihissalaam,*  
 
@@ -120,7 +120,7 @@
 > Dan kabulkanlah keinginan dan maksud kami  
 > Dan dukunglah aku dalam menunaikan hajatku  
 > *(Ucapkan niat dan hajatnya...)*  
-> Atas seidzin Nabi Muhammad SAW  
+> Atas seidzin Nabi Muhammad Shollallohu 'Alaihi Wasallam  
 > Selamatkanlah kami Yaa اَللّهُ di dunia dan di akhirat  
 > Semoga اَللّهُ menambah rahmat-Nya atas Nabi Khidr AS  
 > Al-Fatihah.
@@ -466,7 +466,7 @@ Artinya: "Ya اَللّهُ, tambahkanlah (karunia/kebaikan) kepada kami dan jan
 
 ## 11. Do'a Syukur Nikmat
 
-Doa Sujud Syukur Atas Limpahan Nikmat اَللّهُ SWT
+Doa Sujud Syukur Atas Limpahan Nikmat اَللّهُ
 
 ---
 
@@ -482,7 +482,7 @@ Artinya: "Ya اَللّهُ untuk-Mu aku bersujud, kepada-Mu aku beriman dan aku
 
 ## 12. Do'a Berserah Diri
 
-Doa Pasrah & Tawakkal Total Hanya Kepada اَللّهُ SWT
+Doa Pasrah & Tawakkal Total Hanya Kepada اَللّهُ
 
 ---
 
@@ -545,7 +545,7 @@ Doa Akhir Tahun & Awal Tahun Hijriyah
 
 Washollallohu 'alaa sayyidinaa Muhammadin wa 'alaa aalihii wa shohbihii wa sallam. Alloohumma maa 'amiltu fii haadzihis sanati mimmaa nahaitanii 'anhu falam atub minhu wa lam tardhohu wa lam tansahu wa halumta 'alayya ba'da qudrotika 'alaa 'uquubatii wa da'awtanii ilat tawbati minhu ba'da jur-atii 'alaa ma'shiyatik, fa-innii astaghfiruka faghfirlii wa maa 'amiltu fiihaa mimmaa tardhoohu wa wa'adtanii 'alaihit tsawaaba fa-as-aluka Alloohumma yaa Kariimu yaa Dzal Jalaali wal Ikroom an tataqobbalahu minnii wa laa taqtho' rojaa-ii minka yaa Kariim.
 
-Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya اَللّهُ, apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau larang sedang aku belum bertaubat darinya, dan Engkau tidak meredhainya dan tidak melupakannya, dan Engkau bersikap lembut kepadaku setelah kuasa-Mu untuk menghukumku, dan Engkau mengajakku untuk bertaubat darinya setelah keberanianku bermaksiat kepada-Mu, maka sesungguhnya aku memohon ampun kepada-Mu, maka ampunilah aku. Dan apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau redhai dan Engkau janjikan pahala atasnya, maka aku memohon kepada-Mu ya اَللّهُ, wahai Dzat Yang Maha Pemurah, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan, agar Engkau menerima amalan itu dariku dan janganlah Engkau memutus harapanku dari-Mu, wahai Dzat Yang Maha Pemurah."
+Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad Shollallohu 'Alaihi Wasallam beserta keluarga dan sahabatnya. Ya اَللّهُ, apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau larang sedang aku belum bertaubat darinya, dan Engkau tidak meredhainya dan tidak melupakannya, dan Engkau bersikap lembut kepadaku setelah kuasa-Mu untuk menghukumku, dan Engkau mengajakku untuk bertaubat darinya setelah keberanianku bermaksiat kepada-Mu, maka sesungguhnya aku memohon ampun kepada-Mu, maka ampunilah aku. Dan apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau redhai dan Engkau janjikan pahala atasnya, maka aku memohon kepada-Mu ya اَللّهُ, wahai Dzat Yang Maha Pemurah, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan, agar Engkau menerima amalan itu dariku dan janganlah Engkau memutus harapanku dari-Mu, wahai Dzat Yang Maha Pemurah."
 
 ---
 
@@ -555,7 +555,7 @@ Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjun
 
 Washollallohu 'alaa sayyidinaa Muhammadin wa 'alaa aalihii wa shohbihii wa sallam. Alloohumma antal abadiyyul qodiimul awwal, wa 'alaa fadhlikal 'azhiimi wa juudikal mu'awwali wa haadzaa 'aamun jadiidun qod aqbala nas-alukal 'ishmata fiihi minasy syaithooni wa auliyaa-ihii wal 'awna 'alaa haadzihin nafsil ammaaroti bis suu-i wal ishtighoola bimaa yuqorribunii ilaika zulfaa yaa Dzal Jalaali wal Ikroom.
 
-Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad SAW beserta keluarga dan sahabatnya. Ya اَللّهُ, Engkaulah Yang Maha Abadi, Maha Qadim, Maha Awal, dan atas karunia-Mu yang agung dan kemurahan-Mu yang menjadi tumpuan. Dan tahun baru ini telah tiba, kami memohon perlindungan kepada-Mu pada tahun ini dari syaitan dan para pengikutnya, serta pertolongan atas nafsu yang selalu mengajak pada keburukan, dan kesibukan dengan amalan yang mendekatkan diriku kepada-Mu sedekat-dekatnya, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan."
+Artinya: "Semoga اَللّهُ melimpahkan rahmat dan keselamatan kepada junjungan kami Nabi Muhammad Shollallohu 'Alaihi Wasallam beserta keluarga dan sahabatnya. Ya اَللّهُ, Engkaulah Yang Maha Abadi, Maha Qadim, Maha Awal, dan atas karunia-Mu yang agung dan kemurahan-Mu yang menjadi tumpuan. Dan tahun baru ini telah tiba, kami memohon perlindungan kepada-Mu pada tahun ini dari syaitan dan para pengikutnya, serta pertolongan atas nafsu yang selalu mengajak pada keburukan, dan kesibukan dengan amalan yang mendekatkan diriku kepada-Mu sedekat-dekatnya, wahai Dzat Yang Memiliki Keagungan dan Kemuliaan."
 
 ---
 
@@ -788,7 +788,7 @@ Catatan: Dibaca setiap Jum'at malam bagi yang lahir pada hari Sabtu.
 *Astaghfirulloohal ‘adzhiim alladzii laa ilaaha illaa huwal hayyul qoyyuumu wa atuubu ilaihi tawbata ‘abdin dhoolimin laa yamliku linafsihii dhorron walaa naf’an walaa mautan walaa hayaatan walaa nusyuuron walaa hawla walaa quwwata illaa billaahil ‘aliyyil ‘adzhiim; ..... wa ilaa hadhroti sulthoonil iimaani wa sayyidinaa ‘alii karromalloohu wajhahu wa ilaa hadhrotin nabiyyi shollallaahu 'alaihi wasallam, Al-Faatihah.*
 
 **Artinya:**
-*"Aku memohon ampun kepada اَللّهُ Yang Maha Agung, yang tiada Tuhan selain Dia Yang Maha Hidup lagi Berdiri Sendiri, dan aku bertobat kepada-Nya, tobat seorang hamba yang berbuat zalim, yang tidak memiliki bagi dirinya bahaya maupun manfaat, tidak kematian, tidak kehidupan, dan tidak pula kebangkitan; dan tiada daya serta upaya melainkan dengan pertolongan اَللّهُ Yang Maha Tinggi lagi Maha Agung... dan kepada hadirat Sultanul Iman dan junjungan kami Ali karromallohu wajhah dan kepada hadirat Nabi SAW, Al-Fatihah."*
+*"Aku memohon ampun kepada اَللّهُ Yang Maha Agung, yang tiada Tuhan selain Dia Yang Maha Hidup lagi Berdiri Sendiri, dan aku bertobat kepada-Nya, tobat seorang hamba yang berbuat zalim, yang tidak memiliki bagi dirinya bahaya maupun manfaat, tidak kematian, tidak kehidupan, dan tidak pula kebangkitan; dan tiada daya serta upaya melainkan dengan pertolongan اَللّهُ Yang Maha Tinggi lagi Maha Agung... dan kepada hadirat Sultanul Iman dan junjungan kami Ali karromallohu wajhah dan kepada hadirat Nabi Shollallohu 'Alaihi Wasallam, Al-Fatihah."*
 
 ---
 
@@ -799,7 +799,7 @@ Catatan: Dibaca setiap Jum'at malam bagi yang lahir pada hari Sabtu.
 *Bismillaahirrohmaanirrohiim; 'azamtu 'alaikum yaa ashhaabas sihri wal waswaasi, wa'tashomtu bika yaa Allooh yaa Allooh dunyaa wal aakhiroh, wa bihaqqi khodhrin khodhrin wa ilyaasin, wa bihaqqi kahiijin mahiijin wa kahkahiijin juujin juujin, wa bihaqqi kahiijin mahiijin azrii anjaasin, wa bihaqqi aadama wa nuuh, wa'tashomtu bika min syarril jinni wal insi wal ahdamani wasy-syayaathiini wa junuudihii wa atbaa'ihii, wa min kullil aafaati wal 'aahaati wa'tashomtu bika min kulli balaa-in, wa bihaqqi daaniyaalin, wa bihaqqi iijin iijin daarisin nuurisin, wa bihaqqi aahiyan syaroohiyan aduunaa-i ashbaut, wa bihaqqi 'udzhmatika yaa Allooh ihfadh-nii ihfadh-nii ihfadh-nii jasad ruuh raasa, minal balaa-i wal wabaa-i wal aafaati wal 'aahaati wal baliyyaati wa bihaqqi muusa wa 'iisa, wa bihaqqi daawuuda wa zakariyyaa, wa bihaqqi ismaa'iila wa yahyaa, wa bihaqqi idriisa wa syiis, wa bihaqqi muhammadin shollalloohu 'alaihi wa sallam, wa 'alaa jamii'il anbiyaa-i wal mursaliin.*
 
 **Artinya:**
-*"Dengan menyebut nama اَللّهُ Yang Maha Pengasih lagi Maha Penyayang; Aku tegaskan ketetapan atas kalian wahai para pelaku sihir dan pembisik keraguan; dan aku berpegang teguh pada-Mu ya اَللّهُ, ya اَللّهُ di dunia dan akhirat; demi hak Khidir, Khidir dan Ilyas; demi hak Kahij Mahij dan Kahkahij Juj Juj; demi hak Kahij Mahij Azri Anjas; demi hak Adam dan Nuh; dan aku berlindung dengan-Mu dari kejahatan jin, manusia, dan gangguan yang merusak serta setan-setan, bala tentaranya dan para pengikutnya, serta dari segala marabahaya, wabah penyakit; dan aku berpegang teguh pada-Mu dari segala mara bahaya; demi hak Daniel; demi hak Ij Ij Daris Nuris; demi hak Ahiyan Syarahiyan Adunai Ashbaut; dan demi hak keagungan-Mu ya اَللّهُ peliharalah aku, peliharalah aku, peliharalah aku (jasad, ruh, dan rasa) dari mara bahaya, wabah penyakit, bencana, malapetaka, dan musibah; demi hak Musa dan Isa; demi hak Dawud dan Zakariya; demi hak Ismail dan Yahya; demi hak Idris dan Syits; dan demi hak junjungan kami Muhammad SAW, serta segenap para Nabi dan Rasul."*
+*"Dengan menyebut nama اَللّهُ Yang Maha Pengasih lagi Maha Penyayang; Aku tegaskan ketetapan atas kalian wahai para pelaku sihir dan pembisik keraguan; dan aku berpegang teguh pada-Mu ya اَللّهُ, ya اَللّهُ di dunia dan akhirat; demi hak Khidir, Khidir dan Ilyas; demi hak Kahij Mahij dan Kahkahij Juj Juj; demi hak Kahij Mahij Azri Anjas; demi hak Adam dan Nuh; dan aku berlindung dengan-Mu dari kejahatan jin, manusia, dan gangguan yang merusak serta setan-setan, bala tentaranya dan para pengikutnya, serta dari segala marabahaya, wabah penyakit; dan aku berpegang teguh pada-Mu dari segala mara bahaya; demi hak Daniel; demi hak Ij Ij Daris Nuris; demi hak Ahiyan Syarahiyan Adunai Ashbaut; dan demi hak keagungan-Mu ya اَللّهُ peliharalah aku, peliharalah aku, peliharalah aku (jasad, ruh, dan rasa) dari mara bahaya, wabah penyakit, bencana, malapetaka, dan musibah; demi hak Musa dan Isa; demi hak Dawud dan Zakariya; demi hak Ismail dan Yahya; demi hak Idris dan Syits; dan demi hak junjungan kami Muhammad Shollallohu 'Alaihi Wasallam, serta segenap para Nabi dan Rasul."*
 
 ---
 

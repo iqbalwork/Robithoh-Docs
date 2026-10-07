@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "updatedAt": "2026-10-07T02:34:40Z",
+  "version": 19,
+  "updatedAt": "2026-10-07T03:04:24Z",
   "totalDocuments": 92,
   "documents": [
     {
@@ -13,96 +13,96 @@
     },
     {
       "fileName": "AMALIYAH_DZULHIJJAH.md",
-      "sha256": "10ebbb5b80bf528c64ccff2ff1890770db7f0dd76b81f36b5cad86162858b918",
-      "size": 11260,
+      "sha256": "d000b58f9022ac30a34965a1549d57f5aa997666207963960ccda0a9cb25793d",
+      "size": 11256,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_DZULHIJJAH.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_DZULHIJJAH.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_DZULHIJJAH.md"
     },
     {
       "fileName": "AMALIYAH_DZULQODAH.md",
-      "sha256": "96e9f8036cebe3869d050d2b66bd98bb611be043c6d192b060541d1ecc09bb7f",
-      "size": 10330,
+      "sha256": "9d81b9d5f4ed1fae0f1ee84643b577d0adafa3fe2fdf6cce64833be7ee3ea5ba",
+      "size": 10326,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_DZULQODAH.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_DZULQODAH.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_DZULQODAH.md"
     },
     {
       "fileName": "AMALIYAH_JUMADILULA.md",
-      "sha256": "f2109d3749670bbf5856dbd929c050132962c51256b6185b4eef56c338efb29d",
-      "size": 11605,
+      "sha256": "0d78b070c232ac155e5b8566774b720e20e965f07c743f35c26f123fbaa3d853",
+      "size": 11601,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_JUMADILULA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_JUMADILULA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_JUMADILULA.md"
     },
     {
       "fileName": "AMALIYAH_JUMADITSTSANIYAH.md",
-      "sha256": "df4dda991430031ae2a269c1f020c7693695d0c74ac4483c30e3c02f7e874769",
-      "size": 14390,
+      "sha256": "d5600b5f162beb717183a08f9efd61566530277f3dcf02710a88f0ede2d32af3",
+      "size": 14374,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_JUMADITSTSANIYAH.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_JUMADITSTSANIYAH.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_JUMADITSTSANIYAH.md"
     },
     {
       "fileName": "AMALIYAH_MUHARROM.md",
-      "sha256": "efff37d3628a17a8cf27e6a7e01c57a02261a23f43115d0d983e114adcf9f209",
-      "size": 11106,
+      "sha256": "627e5da93fda08ad8e6b5c428e31e61267124565e9bdd9ccec061d0e42085379",
+      "size": 11102,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_MUHARROM.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_MUHARROM.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_MUHARROM.md"
     },
     {
       "fileName": "AMALIYAH_ROBIULAWAL.md",
-      "sha256": "a13859fee3ef9484d416830037fb9bbbfeda39cea6ee17cf5682ed2c20852558",
-      "size": 10094,
+      "sha256": "1060150fd0dee6cc9417f651d110d8606fb19829a10ee6790a09fa89c254a25a",
+      "size": 10086,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIULAWAL.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIULAWAL.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_ROBIULAWAL.md"
     },
     {
       "fileName": "AMALIYAH_ROBIUTSTSANI.md",
-      "sha256": "c5296800c660bd2374ec9ec5c51b48977294dfe6d8fb7c69c91cbd0411a7880e",
-      "size": 13739,
+      "sha256": "ecf2b4c381b45903e5137cec05be442a4320457d636f6b598de9fd8334073713",
+      "size": 13731,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIUTSTSANI.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROBIUTSTSANI.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_ROBIUTSTSANI.md"
     },
     {
       "fileName": "AMALIYAH_ROJAB.md",
-      "sha256": "a13461d9aa44f01086335e2e4a716170d8af557cb5bc1d586be20a245291460f",
-      "size": 9875,
+      "sha256": "d45f8f1c2674d4cf4f55a602ab7f675f701b2cf4cd5f0b9a93dcb23d49974139",
+      "size": 9871,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROJAB.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROJAB.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_ROJAB.md"
     },
     {
       "fileName": "AMALIYAH_ROMADHON.md",
-      "sha256": "4ccaa5a31c29c4d5964f8d42bb8ebf601cb7c5a37b6993e6e510b638b64a70bc",
-      "size": 10718,
+      "sha256": "e1e3191ec002506e48ff7a355e240420a8e5e0b1b96dfcf9b9604ee5342bf928",
+      "size": 10714,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROMADHON.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_ROMADHON.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_ROMADHON.md"
     },
     {
       "fileName": "AMALIYAH_SHOFAR.md",
-      "sha256": "a6e3ec92e96c2431ca10d83d867fd7d3dc6041c5bade2552e8557c66ba435f45",
-      "size": 11204,
+      "sha256": "f4f52e74987ef1f617ac97e9f40b346b3d1e6aea5a8ad1e485231a441b919dab",
+      "size": 11196,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SHOFAR.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SHOFAR.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_SHOFAR.md"
     },
     {
       "fileName": "AMALIYAH_SYABAN.md",
-      "sha256": "884a30aa852eacc3e33a6081428a91857c6a3eba6ee7a35f9af4ad6ac8439fb8",
-      "size": 9366,
+      "sha256": "9f53e8db0848524311b2baadab12e8d934a7fdcf2283a27931a5a672bcbd92c6",
+      "size": 9362,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SYABAN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SYABAN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_SYABAN.md"
     },
     {
       "fileName": "AMALIYAH_SYAWAL.md",
-      "sha256": "13e0d443601c7268584bb6660db5e771d01db6f9c39d029da4467ff3c7391727",
-      "size": 10587,
+      "sha256": "8a3d3cfae64776270b7c9f362d1d330e563a5a69f6a989fcd49be3988b038043",
+      "size": 10579,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SYAWAL.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/AMALIYAH_SYAWAL.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/AMALIYAH_SYAWAL.md"
@@ -317,8 +317,8 @@
     },
     {
       "fileName": "DOA_TARTIB_ISYROQ.md",
-      "sha256": "b757d29fd90fc234f80d182f98f3bf1a4f425a006ea474b1a48a352660836338",
-      "size": 8743,
+      "sha256": "de50624a77de120130cbc5384c3122fd5a2f313d672e0d3a9be99a907a89de97",
+      "size": 8793,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DOA_TARTIB_ISYROQ.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/DOA_TARTIB_ISYROQ.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/DOA_TARTIB_ISYROQ.md"
@@ -389,8 +389,8 @@
     },
     {
       "fileName": "KUMPULAN_DOA_TQN.md",
-      "sha256": "55a3d5a76e0fc344c2b8d2c8b4931a4bc3c1609742eea4f98debccb9810426a5",
-      "size": 50211,
+      "sha256": "e2c9639dde8b45a88ba7e942a4339bc5444e8ecc6a0df498da8f9817c977407d",
+      "size": 50378,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/KUMPULAN_DOA_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/KUMPULAN_DOA_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/KUMPULAN_DOA_TQN.md"
@@ -421,16 +421,16 @@
     },
     {
       "fileName": "MANQOBAH_INDONESIA.md",
-      "sha256": "bde9938f141f0d32ab05f47551ffedb63ba23a93088c790d66c22fa95c6a9bde",
-      "size": 50971,
+      "sha256": "d74060db7dfa7ba45cba681b12235f907d9a70885b46b876983d3a120dda6dd8",
+      "size": 50939,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_INDONESIA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MANQOBAH_INDONESIA.md"
     },
     {
       "fileName": "MANQOBAH_SUNDA.md",
-      "sha256": "b0e0aae932c052ad98e0340ebe46a369b95f1c1b5b7c7dda58030381664e1ad7",
-      "size": 48908,
+      "sha256": "0e2d0fb36c61f9ba27dd0ddd3dbc84cd6b6ec3ba505377bd93f18599e6a4606d",
+      "size": 48933,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_SUNDA.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/MANQOBAH_SUNDA.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/MANQOBAH_SUNDA.md"
@@ -517,8 +517,8 @@
     },
     {
       "fileName": "PENGANTAR_SILSILAH_TQN.md",
-      "sha256": "85b57820e46289017486946cb54b3b4b40407cffb30eb47f087140494188de47",
-      "size": 1443,
+      "sha256": "c7501d3dd9be1bff8c157c82d65923d5431df47d6adc3d906406bce7e084cd59",
+      "size": 1439,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SILSILAH_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_SILSILAH_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_SILSILAH_TQN.md"
@@ -541,16 +541,16 @@
     },
     {
       "fileName": "PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
-      "sha256": "575e0478b9424e518d554e8e107f0e07669cd3112da593b5bba41e07a9cd532e",
-      "size": 982,
+      "sha256": "3ed03e8548fbb54aa11347853365eaafb1f9c4728258c14c4de55b7214db788a",
+      "size": 1024,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/PENGANTAR_WAKTU_HENDAK_SHUBUH_TQN.md"
     },
     {
       "fileName": "SALAM_KEPADA_WALI_MURSYID.md",
-      "sha256": "9d9d9fba4f5475603438da2de116859dea0fadaad3d4e037075a2e02332688b0",
-      "size": 1964,
+      "sha256": "c53a6d4e12ae8e0999e807c723c6bb0dcf2243a489285e2d43a9a179f3a89251",
+      "size": 1989,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/SALAM_KEPADA_WALI_MURSYID.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/SALAM_KEPADA_WALI_MURSYID.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/SALAM_KEPADA_WALI_MURSYID.md"
@@ -629,8 +629,8 @@
     },
     {
       "fileName": "SHOLAT_TAHUNAN.md",
-      "sha256": "b594e280ca62abe78e1b4cda4f3b89b5b00820275c29af7095ea9f49a8a580ee",
-      "size": 13431,
+      "sha256": "15450b9e6b101d9a6eecd1bb5cf9521822edceb391a9aba8881529da3b9e2a25",
+      "size": 13415,
       "url": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/SHOLAT_TAHUNAN.md",
       "rawUrl": "https://raw.githubusercontent.com/iqbalwork/Robithoh-Docs/main/documents/SHOLAT_TAHUNAN.md",
       "pagesUrl": "https://iqbalwork.github.io/Robithoh-Docs/documents/SHOLAT_TAHUNAN.md"
